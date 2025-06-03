@@ -81,3 +81,6 @@ INSERT INTO `plans` (`name`, `price`, `description`, `features`, `duration`) VAL
 
 -- Update existing users to have Free plan if plan_id is NULL
 UPDATE `users` SET `plan_id` = 1 WHERE `plan_id` IS NULL;
+
+
+
