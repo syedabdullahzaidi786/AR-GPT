@@ -1,0 +1,449 @@
+[03-Jun-2025 09:54:26 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 09:54:26 Europe/Berlin] Time: 2025-06-03 09:54:26
+[03-Jun-2025 09:54:26 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 364
+[03-Jun-2025 09:54:41 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 09:54:41 Europe/Berlin] Time: 2025-06-03 09:54:41
+[03-Jun-2025 09:54:41 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 364
+[03-Jun-2025 09:55:54 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 09:55:54 Europe/Berlin] Time: 2025-06-03 09:55:54
+[03-Jun-2025 09:55:54 Europe/Berlin] Starting signup process for email: syedabdullahzaidi786@gmail.com
+[03-Jun-2025 09:55:54 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi786@gmail.com
+[03-Jun-2025 09:55:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Database" not found in C:\XAMPP\htdocs\AR Bot\signup.php:85
+Stack trace:
+#0 {main}
+  thrown in C:\XAMPP\htdocs\AR Bot\signup.php on line 85
+[03-Jun-2025 09:56:15 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 09:56:15 Europe/Berlin] Time: 2025-06-03 09:56:15
+[03-Jun-2025 09:56:15 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 364
+[03-Jun-2025 09:56:15 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 09:56:15 Europe/Berlin] Time: 2025-06-03 09:56:15
+[03-Jun-2025 09:56:15 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 364
+[03-Jun-2025 09:57:05 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 09:57:05 Europe/Berlin] Time: 2025-06-03 09:57:05
+[03-Jun-2025 09:57:05 Europe/Berlin] Starting signup process for email: syedabdullahzaidi786@gmail.com
+[03-Jun-2025 09:57:05 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi786@gmail.com
+[03-Jun-2025 09:57:05 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 09:57:05 Europe/Berlin] Transaction started
+[03-Jun-2025 09:57:05 Europe/Berlin] Transaction rolled back due to error: Email already registered
+[03-Jun-2025 09:57:05 Europe/Berlin] Signup Error: Email already registered
+[03-Jun-2025 09:57:05 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 364
+[03-Jun-2025 09:57:59 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 09:57:59 Europe/Berlin] Time: 2025-06-03 09:57:59
+[03-Jun-2025 09:57:59 Europe/Berlin] Starting signup process for email: syedabdullahzaidi786@gmail.com
+[03-Jun-2025 09:57:59 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi786@gmail.com
+[03-Jun-2025 09:57:59 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 09:57:59 Europe/Berlin] Transaction started
+[03-Jun-2025 09:57:59 Europe/Berlin] Transaction rolled back due to error: Email already registered
+[03-Jun-2025 09:57:59 Europe/Berlin] Signup Error: Email already registered
+[03-Jun-2025 09:57:59 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 364
+[03-Jun-2025 09:58:57 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 09:58:57 Europe/Berlin] Time: 2025-06-03 09:58:57
+[03-Jun-2025 09:58:57 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 364
+[03-Jun-2025 09:59:16 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 09:59:16 Europe/Berlin] Time: 2025-06-03 09:59:16
+[03-Jun-2025 09:59:16 Europe/Berlin] Starting signup process for email: syedabdullahzaidi786@gmail.com
+[03-Jun-2025 09:59:16 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi786@gmail.com
+[03-Jun-2025 09:59:16 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 09:59:16 Europe/Berlin] Transaction started
+[03-Jun-2025 09:59:16 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 09:59:16 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 09:59:16 Europe/Berlin] Verification token generated: 3ce9be471018fb466b2b67c9a5ce2d3f1a7eb9d3bbd17af7ec17d3e349937ad4
+[03-Jun-2025 09:59:16 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi786@gmail.com","plan_id":1,"token_expiry":"2025-06-04 09:59:16"}
+[03-Jun-2025 09:59:16 Europe/Berlin] User inserted successfully
+[03-Jun-2025 09:59:16 Europe/Berlin] User ID obtained: 6
+[03-Jun-2025 09:59:16 Europe/Berlin] Attempting to send verification email to: syedabdullahzaidi786@gmail.com
+[03-Jun-2025 09:59:16 Europe/Berlin] Verification link: http://localhost/AR%20Bot/verify_email.php?token=3ce9be471018fb466b2b67c9a5ce2d3f1a7eb9d3bbd17af7ec17d3e349937ad4
+[03-Jun-2025 09:59:17 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 502 5.7.0 Please authenticate first in C:\XAMPP\htdocs\AR Bot\signup.php on line 167
+[03-Jun-2025 09:59:17 Europe/Berlin] Failed to send verification email to: syedabdullahzaidi786@gmail.com. Error: mail(): SMTP server response: 502 5.7.0 Please authenticate first
+[03-Jun-2025 09:59:17 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 10:23:40 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 10:23:40 Europe/Berlin] Time: 2025-06-03 10:23:40
+[03-Jun-2025 10:23:40 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 429
+[03-Jun-2025 10:23:48 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 10:23:48 Europe/Berlin] Time: 2025-06-03 10:23:48
+[03-Jun-2025 10:23:48 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 429
+[03-Jun-2025 10:27:57 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 10:27:57 Europe/Berlin] Time: 2025-06-03 10:27:57
+[03-Jun-2025 10:27:57 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 429
+[03-Jun-2025 10:28:06 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 10:28:06 Europe/Berlin] Time: 2025-06-03 10:28:06
+[03-Jun-2025 10:28:06 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 429
+[03-Jun-2025 10:28:30 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 10:28:30 Europe/Berlin] Time: 2025-06-03 10:28:30
+[03-Jun-2025 10:28:30 Europe/Berlin] Starting signup process for email: syedabdullahzaidi473@gmail.com
+[03-Jun-2025 10:28:30 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi473@gmail.com
+[03-Jun-2025 10:28:30 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 10:28:30 Europe/Berlin] Transaction started
+[03-Jun-2025 10:28:30 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 10:28:30 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 10:28:30 Europe/Berlin] Verification token generated: f7a1c289961e74c190ffa97c4838659c48906221bdb60ede66887246835401ac
+[03-Jun-2025 10:28:30 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi473@gmail.com","plan_id":1,"token_expiry":"2025-06-04 10:28:30"}
+[03-Jun-2025 10:28:30 Europe/Berlin] User inserted successfully
+[03-Jun-2025 10:28:30 Europe/Berlin] User ID obtained: 7
+[03-Jun-2025 10:28:34 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi473@gmail.com
+[03-Jun-2025 10:28:34 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 10:40:09 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 10:40:09 Europe/Berlin] Time: 2025-06-03 10:40:09
+[03-Jun-2025 10:40:09 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 440
+[03-Jun-2025 10:40:31 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 10:40:31 Europe/Berlin] Time: 2025-06-03 10:40:31
+[03-Jun-2025 10:40:31 Europe/Berlin] Starting signup process for email: syedabdullahzaidi473@gmail.com
+[03-Jun-2025 10:40:31 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi473@gmail.com
+[03-Jun-2025 10:40:31 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 10:40:31 Europe/Berlin] Transaction started
+[03-Jun-2025 10:40:31 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 10:40:32 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 10:40:32 Europe/Berlin] Verification token generated: 158654e6e6e73abaec77c1713f715f9681835d998db9af32491e64917fb1fa27
+[03-Jun-2025 10:40:32 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi473@gmail.com","plan_id":1,"token_expiry":"2025-06-04 10:40:32"}
+[03-Jun-2025 10:40:32 Europe/Berlin] User inserted successfully
+[03-Jun-2025 10:40:32 Europe/Berlin] User ID obtained: 8
+[03-Jun-2025 10:40:35 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi473@gmail.com
+[03-Jun-2025 10:40:35 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 11:02:17 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 11:02:17 Europe/Berlin] Time: 2025-06-03 11:02:17
+[03-Jun-2025 11:02:17 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 440
+[03-Jun-2025 11:02:55 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 11:02:55 Europe/Berlin] Time: 2025-06-03 11:02:55
+[03-Jun-2025 11:02:55 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:02:55 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:02:55 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 11:02:55 Europe/Berlin] Transaction started
+[03-Jun-2025 11:02:55 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 11:02:55 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 11:02:55 Europe/Berlin] Verification token generated: 9be3928f185be4f9a1e7df70987bd0f962184cbe747587affa23a7996068c67a
+[03-Jun-2025 11:02:55 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 11:02:55"}
+[03-Jun-2025 11:02:55 Europe/Berlin] User inserted successfully
+[03-Jun-2025 11:02:55 Europe/Berlin] User ID obtained: 9
+[03-Jun-2025 11:02:58 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:02:58 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 11:05:42 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 11:05:42 Europe/Berlin] Time: 2025-06-03 11:05:42
+[03-Jun-2025 11:05:42 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 440
+[03-Jun-2025 11:07:32 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 11:07:32 Europe/Berlin] Time: 2025-06-03 11:07:32
+[03-Jun-2025 11:07:32 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:07:32 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:07:32 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 11:07:32 Europe/Berlin] Transaction started
+[03-Jun-2025 11:07:32 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 11:07:33 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 11:07:33 Europe/Berlin] Verification token generated: 0a4b6848c43430dbaabf6e88e219d8390939d43ca78ed230f9beef32d087cb40
+[03-Jun-2025 11:07:33 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 11:07:33"}
+[03-Jun-2025 11:07:33 Europe/Berlin] User inserted successfully
+[03-Jun-2025 11:07:33 Europe/Berlin] User ID obtained: 10
+[03-Jun-2025 11:07:36 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:07:36 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 11:11:39 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 11:11:39 Europe/Berlin] Time: 2025-06-03 11:11:39
+[03-Jun-2025 11:11:39 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 440
+[03-Jun-2025 11:12:10 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 11:12:10 Europe/Berlin] Time: 2025-06-03 11:12:10
+[03-Jun-2025 11:12:10 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:12:10 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:12:10 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 11:12:10 Europe/Berlin] Transaction started
+[03-Jun-2025 11:12:10 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 11:12:10 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 11:12:10 Europe/Berlin] Verification token generated: 83be0083fa9efbda61c748e5de7bfdd5076856b4d1b59505879a9cfe5b0bc759
+[03-Jun-2025 11:12:10 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 11:12:10"}
+[03-Jun-2025 11:12:10 Europe/Berlin] User inserted successfully
+[03-Jun-2025 11:12:10 Europe/Berlin] User ID obtained: 11
+[03-Jun-2025 11:12:14 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:12:14 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 11:13:52 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 11:13:52 Europe/Berlin] Time: 2025-06-03 11:13:52
+[03-Jun-2025 11:13:52 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 11:14:17 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 11:14:17 Europe/Berlin] Time: 2025-06-03 11:14:17
+[03-Jun-2025 11:14:17 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:14:17 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:14:17 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 11:14:17 Europe/Berlin] Transaction started
+[03-Jun-2025 11:14:17 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 11:14:17 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 11:14:17 Europe/Berlin] Verification token generated: 482345a2c03f9dbd9e88605acd7d3eeec1f2e99e894a5d395bdd79cd2ef831d2
+[03-Jun-2025 11:14:17 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 11:14:17"}
+[03-Jun-2025 11:14:17 Europe/Berlin] User inserted successfully
+[03-Jun-2025 11:14:17 Europe/Berlin] User ID obtained: 12
+[03-Jun-2025 11:14:23 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 11:14:23 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 11:15:23 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 11:15:23 Europe/Berlin] Time: 2025-06-03 11:15:23
+[03-Jun-2025 11:15:23 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 12:44:24 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:44:24 Europe/Berlin] Time: 2025-06-03 12:44:24
+[03-Jun-2025 12:44:24 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 12:46:04 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:46:04 Europe/Berlin] Time: 2025-06-03 12:46:04
+[03-Jun-2025 12:46:04 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 12:46:30 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:46:30 Europe/Berlin] Time: 2025-06-03 12:46:30
+[03-Jun-2025 12:46:30 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 12:46:31 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:46:31 Europe/Berlin] Time: 2025-06-03 12:46:31
+[03-Jun-2025 12:46:31 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 12:46:31 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:46:31 Europe/Berlin] Time: 2025-06-03 12:46:31
+[03-Jun-2025 12:46:31 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 12:46:40 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:46:40 Europe/Berlin] Time: 2025-06-03 12:46:40
+[03-Jun-2025 12:46:40 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 12:48:09 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:48:09 Europe/Berlin] Time: 2025-06-03 12:48:09
+[03-Jun-2025 12:48:09 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 12:48:11 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:48:11 Europe/Berlin] Time: 2025-06-03 12:48:11
+[03-Jun-2025 12:48:11 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 12:48:25 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:48:25 Europe/Berlin] Time: 2025-06-03 12:48:25
+[03-Jun-2025 12:48:25 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 446
+[03-Jun-2025 12:49:05 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:49:05 Europe/Berlin] Time: 2025-06-03 12:49:05
+[03-Jun-2025 12:49:05 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:49:05 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:49:05 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 12:49:05 Europe/Berlin] Transaction started
+[03-Jun-2025 12:49:05 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 12:49:05 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 12:49:05 Europe/Berlin] Verification token generated: 8f223dec6a9fc946fe3a9733ec0a736893cb42e041e2dc662c3832643a30dedc
+[03-Jun-2025 12:49:05 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 12:49:05"}
+[03-Jun-2025 12:49:05 Europe/Berlin] User inserted successfully
+[03-Jun-2025 12:49:05 Europe/Berlin] User ID obtained: 13
+[03-Jun-2025 12:49:09 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:49:09 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 12:51:23 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:51:23 Europe/Berlin] Time: 2025-06-03 12:51:23
+[03-Jun-2025 12:51:23 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 498
+[03-Jun-2025 12:51:47 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:51:47 Europe/Berlin] Time: 2025-06-03 12:51:47
+[03-Jun-2025 12:51:47 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:51:47 Europe/Berlin] Received signup data - Name: Syed Abdullah, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:51:47 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 12:51:47 Europe/Berlin] Transaction started
+[03-Jun-2025 12:51:47 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 12:51:47 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 12:51:47 Europe/Berlin] Verification token generated: 45b5d6e1a63de1068123a21e64faa76e667842a3ededc63c7fee122ad8184912
+[03-Jun-2025 12:51:47 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 12:51:47"}
+[03-Jun-2025 12:51:47 Europe/Berlin] User inserted successfully
+[03-Jun-2025 12:51:47 Europe/Berlin] User ID obtained: 14
+[03-Jun-2025 12:51:51 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:51:51 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 12:54:08 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:54:08 Europe/Berlin] Time: 2025-06-03 12:54:08
+[03-Jun-2025 12:54:08 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 495
+[03-Jun-2025 12:54:32 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:54:32 Europe/Berlin] Time: 2025-06-03 12:54:32
+[03-Jun-2025 12:54:32 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:54:32 Europe/Berlin] Received signup data - Name: Syed Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:54:32 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 12:54:32 Europe/Berlin] Transaction started
+[03-Jun-2025 12:54:32 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 12:54:32 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 12:54:32 Europe/Berlin] Verification token generated: 23c567d538efb61a37e303d8cc93b3e168165490074ab11bbfed34be36580bc1
+[03-Jun-2025 12:54:32 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 12:54:32"}
+[03-Jun-2025 12:54:32 Europe/Berlin] User inserted successfully
+[03-Jun-2025 12:54:32 Europe/Berlin] User ID obtained: 15
+[03-Jun-2025 12:54:36 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:54:36 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 12:55:51 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:55:51 Europe/Berlin] Time: 2025-06-03 12:55:51
+[03-Jun-2025 12:55:51 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 495
+[03-Jun-2025 12:57:15 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:57:15 Europe/Berlin] Time: 2025-06-03 12:57:15
+[03-Jun-2025 12:57:15 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:57:15 Europe/Berlin] Received signup data - Name: Syed Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:57:15 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 12:57:15 Europe/Berlin] Transaction started
+[03-Jun-2025 12:57:15 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 12:57:15 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 12:57:15 Europe/Berlin] Verification token generated: 9372c4c94ae49b38a60ebdfa3484e3803c68044d73cd2d199fd3843e26c594e3
+[03-Jun-2025 12:57:15 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 12:57:15"}
+[03-Jun-2025 12:57:15 Europe/Berlin] User inserted successfully
+[03-Jun-2025 12:57:15 Europe/Berlin] User ID obtained: 16
+[03-Jun-2025 12:57:19 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:57:19 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 12:57:42 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:57:42 Europe/Berlin] Time: 2025-06-03 12:57:42
+[03-Jun-2025 12:57:42 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 492
+[03-Jun-2025 12:58:07 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:58:07 Europe/Berlin] Time: 2025-06-03 12:58:07
+[03-Jun-2025 12:58:07 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:58:07 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:58:07 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 12:58:07 Europe/Berlin] Transaction started
+[03-Jun-2025 12:58:07 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 12:58:07 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 12:58:07 Europe/Berlin] Verification token generated: 7357391a8ed0a352cb3d1256c3bbad40fb1b24eaef137493a3a7bffaff4f086e
+[03-Jun-2025 12:58:07 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 12:58:07"}
+[03-Jun-2025 12:58:07 Europe/Berlin] User inserted successfully
+[03-Jun-2025 12:58:07 Europe/Berlin] User ID obtained: 17
+[03-Jun-2025 12:58:10 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 12:58:10 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 12:59:08 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 12:59:08 Europe/Berlin] Time: 2025-06-03 12:59:08
+[03-Jun-2025 12:59:08 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 492
+[03-Jun-2025 13:04:43 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:04:43 Europe/Berlin] Time: 2025-06-03 13:04:43
+[03-Jun-2025 13:04:43 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:04:43 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:04:43 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 13:04:43 Europe/Berlin] Transaction started
+[03-Jun-2025 13:04:43 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 13:04:43 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 13:04:43 Europe/Berlin] Verification token generated: cf50a123e7fe974a36d3206377b286214ee19e32b7a4ae4ac66cc216c85404d5
+[03-Jun-2025 13:04:43 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 13:04:43"}
+[03-Jun-2025 13:04:43 Europe/Berlin] User inserted successfully
+[03-Jun-2025 13:04:43 Europe/Berlin] User ID obtained: 18
+[03-Jun-2025 13:04:48 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:04:48 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 13:05:36 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:05:36 Europe/Berlin] Time: 2025-06-03 13:05:36
+[03-Jun-2025 13:05:36 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 495
+[03-Jun-2025 13:07:19 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:07:19 Europe/Berlin] Time: 2025-06-03 13:07:19
+[03-Jun-2025 13:07:19 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:07:19 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:07:19 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 13:07:19 Europe/Berlin] Transaction started
+[03-Jun-2025 13:07:19 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 13:07:19 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 13:07:19 Europe/Berlin] Verification token generated: c0e8a4be8905c4f58dd0e09735a77ae0eb8b81ee03ae08f5db4fe9b6d7b58a80
+[03-Jun-2025 13:07:19 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 13:07:19"}
+[03-Jun-2025 13:07:19 Europe/Berlin] User inserted successfully
+[03-Jun-2025 13:07:19 Europe/Berlin] User ID obtained: 19
+[03-Jun-2025 13:07:23 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:07:23 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 13:08:02 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:08:02 Europe/Berlin] Time: 2025-06-03 13:08:02
+[03-Jun-2025 13:08:02 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 497
+[03-Jun-2025 13:13:54 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:13:54 Europe/Berlin] Time: 2025-06-03 13:13:54
+[03-Jun-2025 13:13:54 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:13:54 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:13:54 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 13:13:54 Europe/Berlin] Transaction started
+[03-Jun-2025 13:13:54 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 13:13:55 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 13:13:55 Europe/Berlin] Verification token generated: dd9b1ae59ea14c4578ad4b6719d8d44535925799bdf0939537f69995500dc2fb
+[03-Jun-2025 13:13:55 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 13:13:55"}
+[03-Jun-2025 13:13:55 Europe/Berlin] User inserted successfully
+[03-Jun-2025 13:13:55 Europe/Berlin] User ID obtained: 20
+[03-Jun-2025 13:13:58 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:13:58 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 13:16:10 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:16:10 Europe/Berlin] Time: 2025-06-03 13:16:10
+[03-Jun-2025 13:16:10 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 489
+[03-Jun-2025 13:16:34 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:16:34 Europe/Berlin] Time: 2025-06-03 13:16:34
+[03-Jun-2025 13:16:34 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:16:34 Europe/Berlin] Received signup data - Name: Syed, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:16:34 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 13:16:34 Europe/Berlin] Transaction started
+[03-Jun-2025 13:16:34 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 13:16:34 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 13:16:34 Europe/Berlin] Verification token generated: 2855bd691410b45c00329c900eda63e998b3981399814fed5472f29aaa8c6f47
+[03-Jun-2025 13:16:34 Europe/Berlin] Attempting to insert user with data: {"name":"Syed","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 13:16:34"}
+[03-Jun-2025 13:16:34 Europe/Berlin] User inserted successfully
+[03-Jun-2025 13:16:34 Europe/Berlin] User ID obtained: 21
+[03-Jun-2025 13:16:37 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:16:37 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 13:17:54 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:17:54 Europe/Berlin] Time: 2025-06-03 13:17:54
+[03-Jun-2025 13:17:54 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 495
+[03-Jun-2025 13:18:16 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:18:16 Europe/Berlin] Time: 2025-06-03 13:18:16
+[03-Jun-2025 13:18:16 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:18:16 Europe/Berlin] Received signup data - Name: Syed, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:18:16 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 13:18:16 Europe/Berlin] Transaction started
+[03-Jun-2025 13:18:16 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 13:18:16 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 13:18:16 Europe/Berlin] Verification token generated: cadf8f0ca3490ba4680c41cb2c39b307fb5a2bef8835d3a8934e1bba6cbc8583
+[03-Jun-2025 13:18:16 Europe/Berlin] Attempting to insert user with data: {"name":"Syed","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 13:18:16"}
+[03-Jun-2025 13:18:16 Europe/Berlin] User inserted successfully
+[03-Jun-2025 13:18:16 Europe/Berlin] User ID obtained: 22
+[03-Jun-2025 13:18:20 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:18:20 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 13:20:07 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:20:07 Europe/Berlin] Time: 2025-06-03 13:20:07
+[03-Jun-2025 13:20:07 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 498
+[03-Jun-2025 13:20:31 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:20:31 Europe/Berlin] Time: 2025-06-03 13:20:31
+[03-Jun-2025 13:20:31 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:20:31 Europe/Berlin] Received signup data - Name: Syed Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:20:31 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 13:20:31 Europe/Berlin] Transaction started
+[03-Jun-2025 13:20:31 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 13:20:31 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 13:20:31 Europe/Berlin] Verification token generated: 62d4508398c167f8371e67f6ddc9c6e165a172d8a1f3f6aed7bff52ed52c9620
+[03-Jun-2025 13:20:31 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 13:20:31"}
+[03-Jun-2025 13:20:31 Europe/Berlin] User inserted successfully
+[03-Jun-2025 13:20:31 Europe/Berlin] User ID obtained: 23
+[03-Jun-2025 13:20:35 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:20:35 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 13:21:47 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:21:47 Europe/Berlin] Time: 2025-06-03 13:21:47
+[03-Jun-2025 13:21:47 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 495
+[03-Jun-2025 13:22:15 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:22:15 Europe/Berlin] Time: 2025-06-03 13:22:15
+[03-Jun-2025 13:22:15 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:22:15 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:22:15 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 13:22:15 Europe/Berlin] Transaction started
+[03-Jun-2025 13:22:15 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 13:22:15 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 13:22:15 Europe/Berlin] Verification token generated: b1ca6036fb65c27a0ccb314cb9fcc9d0e18c772e99b5b47d0a9807a3ee9d0006
+[03-Jun-2025 13:22:15 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 13:22:15"}
+[03-Jun-2025 13:22:15 Europe/Berlin] User inserted successfully
+[03-Jun-2025 13:22:15 Europe/Berlin] User ID obtained: 24
+[03-Jun-2025 13:22:19 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:22:19 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 13:23:08 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:23:08 Europe/Berlin] Time: 2025-06-03 13:23:08
+[03-Jun-2025 13:23:08 Europe/Berlin] PHP Warning:  Undefined array key "csrf_token" in C:\XAMPP\htdocs\AR Bot\signup.php on line 495
+[03-Jun-2025 13:38:15 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:38:15 Europe/Berlin] Time: 2025-06-03 13:38:15
+[03-Jun-2025 13:39:20 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:39:20 Europe/Berlin] Time: 2025-06-03 13:39:20
+[03-Jun-2025 13:41:46 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:41:46 Europe/Berlin] Time: 2025-06-03 13:41:46
+[03-Jun-2025 13:41:59 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:41:59 Europe/Berlin] Time: 2025-06-03 13:41:59
+[03-Jun-2025 13:42:32 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:42:32 Europe/Berlin] Time: 2025-06-03 13:42:32
+[03-Jun-2025 13:43:05 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 13:43:05 Europe/Berlin] Time: 2025-06-03 13:43:05
+[03-Jun-2025 13:43:05 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:43:05 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:43:05 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 13:43:05 Europe/Berlin] Transaction started
+[03-Jun-2025 13:43:05 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 13:43:05 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 13:43:05 Europe/Berlin] Verification token generated: d48cb86463eed15fd101746b7b3455a1546b9aa761f9823c18ac429bf98754e6
+[03-Jun-2025 13:43:05 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 13:43:05"}
+[03-Jun-2025 13:43:05 Europe/Berlin] User inserted successfully
+[03-Jun-2025 13:43:05 Europe/Berlin] User ID obtained: 25
+[03-Jun-2025 13:43:09 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 13:43:09 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 14:39:29 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 14:39:29 Europe/Berlin] Time: 2025-06-03 14:39:29
+[03-Jun-2025 16:02:33 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 16:02:33 Europe/Berlin] Time: 2025-06-03 16:02:33
+[03-Jun-2025 16:03:02 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 16:03:02 Europe/Berlin] Time: 2025-06-03 16:03:02
+[03-Jun-2025 16:03:02 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 16:03:02 Europe/Berlin] Received signup data - Name: Syed Abdullah Zaidi, Email: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 16:03:02 Europe/Berlin] Database connection established successfully
+[03-Jun-2025 16:03:02 Europe/Berlin] Transaction started
+[03-Jun-2025 16:03:02 Europe/Berlin] Email check completed - Email is available
+[03-Jun-2025 16:03:02 Europe/Berlin] Password hashed successfully
+[03-Jun-2025 16:03:02 Europe/Berlin] Verification token generated: ca1e384aee641b277f1c2df805616ee5a02b52006aaba82d7c0843ba7fbc23a8
+[03-Jun-2025 16:03:02 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah Zaidi","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-04 16:03:02"}
+[03-Jun-2025 16:03:02 Europe/Berlin] User inserted successfully
+[03-Jun-2025 16:03:02 Europe/Berlin] User ID obtained: 1
+[03-Jun-2025 16:03:11 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[03-Jun-2025 16:03:11 Europe/Berlin] Transaction committed successfully
+[03-Jun-2025 16:27:59 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 16:27:59 Europe/Berlin] Time: 2025-06-03 16:27:59
+[03-Jun-2025 16:32:14 Europe/Berlin] === New Signup Attempt ===
+[03-Jun-2025 16:32:14 Europe/Berlin] Time: 2025-06-03 16:32:14
