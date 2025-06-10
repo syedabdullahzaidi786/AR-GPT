@@ -1002,6 +1002,99 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
         .unsplash-link a:hover {
             text-decoration: underline;
         }
+
+        /* News Article Styles */
+        .news-articles {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .news-container {
+            display: flex;
+            gap: 1rem;
+            padding: 1rem;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .news-container:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+        }
+
+        .news-image {
+            flex: 0 0 200px;
+            height: 150px;
+            overflow: hidden;
+            border-radius: 8px;
+        }
+
+        .news-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .news-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .news-title {
+            margin: 0;
+            font-size: 1.2rem;
+            line-height: 1.4;
+        }
+
+        .news-title a {
+            color: var(--primary-color);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .news-title a:hover {
+            color: var(--secondary-color);
+            text-decoration: underline;
+        }
+
+        .news-description {
+            margin: 0;
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .news-meta {
+            display: flex;
+            gap: 1rem;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+
+        .news-source {
+            font-weight: 500;
+        }
+
+        .news-date {
+            color: var(--text-tertiary);
+        }
+
+        @media (max-width: 768px) {
+            .news-container {
+                flex-direction: column;
+            }
+
+            .news-image {
+                flex: 0 0 200px;
+                width: 100%;
+            }
+        }
     </style>
 </head>
 <body>
@@ -1071,6 +1164,7 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
                             <option value="openai">OpenAI GPT</option>
                             <option value="weather">Weather</option>
                             <option value="unsplash">Unsplash Images</option>
+                            <option value="news">News</option>
                         </select>
                     </div>
                     <div class="user-welcome">
@@ -1264,7 +1358,8 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             messageInput.style.height = 'auto';
             
             try {
-                const apiEndpoint = selectedModel === 'unsplash' ? 'api/unsplash.php' : 'api/chat.php';
+                const apiEndpoint = selectedModel === 'unsplash' ? 'api/unsplash.php' : 
+                                  selectedModel === 'news' ? 'api/news.php' : 'api/chat.php';
                 console.log('Sending request to:', apiEndpoint);
                 
                 const response = await fetch(apiEndpoint, {
@@ -1293,6 +1388,14 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
                         } else {
                             console.error('No images in response:', data);
                             addMessage('No images found for your search query.', false);
+                        }
+                    } else if (selectedModel === 'news') {
+                        if (data.articles && Array.isArray(data.articles) && data.articles.length > 0) {
+                            console.log('Processing news articles:', data.articles);
+                            addNewsMessage(data.articles);
+                        } else {
+                            console.error('No articles in response:', data);
+                            addMessage('No news articles found for your search query.', false);
                         }
                     } else if (data.response) {
                         addMessage(data.response, false);
@@ -1389,6 +1492,77 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 <div class="message-content">
                     <div class="message-images">
                         ${imagesHtml}
+                    </div>
+                </div>
+            `;
+            
+            chatContainer.appendChild(messageDiv);
+            
+            // Smooth scroll to bottom
+            chatContainer.scrollTo({
+                top: chatContainer.scrollHeight,
+                behavior: 'smooth'
+            });
+        }
+
+        function addNewsMessage(articles) {
+            console.log('Adding news message:', articles);
+            
+            const chatContainer = document.getElementById('chatContainer');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'message ai-message';
+            
+            let articlesHtml = '';
+            articles.forEach((article, index) => {
+                console.log(`Processing article ${index}:`, article);
+                if (article.title && article.url) {
+                    articlesHtml += `
+                        <div class="news-container">
+                            ${article.imageUrl ? `
+                                <div class="news-image">
+                                    <img src="${article.imageUrl}" 
+                                         alt="${article.title}" 
+                                         onerror="this.onerror=null; this.style.display='none';">
+                                </div>
+                            ` : ''}
+                            <div class="news-content">
+                                <h3 class="news-title">
+                                    <a href="${article.url}" target="_blank" rel="noopener noreferrer">
+                                        ${article.title}
+                                    </a>
+                                </h3>
+                                ${article.description ? `
+                                    <p class="news-description">${article.description}</p>
+                                ` : ''}
+                                <div class="news-meta">
+                                    <span class="news-source">${article.source}</span>
+                                    ${article.publishedAt ? `
+                                        <span class="news-date">${new Date(article.publishedAt).toLocaleDateString()}</span>
+                                    ` : ''}
+                                </div>
+                            </div>
+                        </div>`;
+                } else {
+                    console.error('Invalid article data:', article);
+                }
+            });
+            
+            if (!articlesHtml) {
+                console.error('No valid articles to display');
+                addMessage('Error: Could not display news articles.', false);
+                return;
+            }
+            
+            messageDiv.innerHTML = `
+                <div class="message-header">
+                    <div class="ai-avatar">
+                        <i class="fas fa-newspaper"></i>
+                    </div>
+                    <span>News Search</span>
+                </div>
+                <div class="message-content">
+                    <div class="news-articles">
+                        ${articlesHtml}
                     </div>
                 </div>
             `;
@@ -1517,6 +1691,8 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 aiAvatar.className = 'fas fa-cloud';
             } else if (selectedModel === 'unsplash') {
                 aiAvatar.className = 'fas fa-image';
+            } else if (selectedModel === 'news') {
+                aiAvatar.className = 'fas fa-newspaper';
             }
         });
 
@@ -1542,6 +1718,103 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 icon.classList.add('fa-eye');
             }
         }
+
+        // Add CSS for news articles
+        const style = document.createElement('style');
+        style.textContent = `
+            .news-articles {
+                display: flex;
+                flex-direction: column;
+                gap: 1.5rem;
+                margin: 1rem 0;
+            }
+
+            .news-container {
+                display: flex;
+                gap: 1rem;
+                padding: 1rem;
+                background: white;
+                border-radius: 12px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                transition: transform 0.3s ease, box-shadow 0.3s ease;
+            }
+
+            .news-container:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+            }
+
+            .news-image {
+                flex: 0 0 200px;
+                height: 150px;
+                overflow: hidden;
+                border-radius: 8px;
+            }
+
+            .news-image img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+
+            .news-content {
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+
+            .news-title {
+                margin: 0;
+                font-size: 1.2rem;
+                line-height: 1.4;
+            }
+
+            .news-title a {
+                color: var(--primary-color);
+                text-decoration: none;
+                transition: color 0.2s ease;
+            }
+
+            .news-title a:hover {
+                color: var(--secondary-color);
+                text-decoration: underline;
+            }
+
+            .news-description {
+                margin: 0;
+                color: var(--text-secondary);
+                font-size: 0.95rem;
+                line-height: 1.5;
+            }
+
+            .news-meta {
+                display: flex;
+                gap: 1rem;
+                font-size: 0.85rem;
+                color: var(--text-secondary);
+            }
+
+            .news-source {
+                font-weight: 500;
+            }
+
+            .news-date {
+                color: var(--text-tertiary);
+            }
+
+            @media (max-width: 768px) {
+                .news-container {
+                    flex-direction: column;
+                }
+
+                .news-image {
+                    flex: 0 0 200px;
+                    width: 100%;
+                }
+            }
+        `;
+        document.head.appendChild(style);
     </script>
 </body>
 </html> 
