@@ -11101,3 +11101,1630 @@ A global businessman and ambassador of a prestigious London polo club, he rubbed
     [response] => Here are the latest news articles for your search query:
 )
 
+[10-Jun-2025 12:57:19 Europe/Berlin] Unsplash API Request - URL: https://api.unsplash.com/search/photos?query=karachi&per_page=5
+[10-Jun-2025 12:57:19 Europe/Berlin] Unsplash API Request - Query: karachi
+[10-Jun-2025 12:57:19 Europe/Berlin] Unsplash API Response - HTTP Code: 200
+[10-Jun-2025 12:57:19 Europe/Berlin] Unsplash API Response - Raw Response: {"total":708,"total_pages":142,"results":[{"id":"tcsBmVeHbBU","slug":"brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU","alternative_slugs":{"en":"brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU","es":"edificio-de-hormigon-marron-bajo-el-cielo-azul-durante-el-dia-tcsBmVeHbBU","ja":"昼間の青空に茶色のコンクリートの建物-tcsBmVeHbBU","fr":"batiment-en-beton-brun-sous-le-ciel-bleu-pendant-la-journee-tcsBmVeHbBU","it":"edificio-in-cemento-marrone-sotto-il-cielo-blu-durante-il-giorno-tcsBmVeHbBU","ko":"낮에는-푸른-하늘-아래-갈색-콘크리트-건물-tcsBmVeHbBU","de":"braunes-betongebaude-unter-blauem-himmel-tagsuber-tcsBmVeHbBU","pt":"edificio-de-concreto-marrom-sob-o-ceu-azul-durante-o-dia-tcsBmVeHbBU"},"created_at":"2021-05-18T03:16:47Z","updated_at":"2025-06-10T06:44:17Z","promoted_at":null,"width":4008,"height":5344,"color":"#40738c","blur_hash":"LNFPHaIq17xv7QnN-oIoR4V?$dVs","description":null,"alt_description":"brown concrete building under blue sky during daytime","breadcrumbs":[],"urls":{"raw":"https://images.unsplash.com/photo-1621307229540-a94299c37fc1?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0","full":"https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy\u0026cs=srgb\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=85","regular":"https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=1080","small":"https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=400","thumb":"https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=200","small_s3":"https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1621307229540-a94299c37fc1"},"links":{"self":"https://api.unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU","html":"https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU","download":"https://unsplash.com/photos/tcsBmVeHbBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww","download_location":"https://api.unsplash.com/photos/tcsBmVeHbBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww"},"likes":14,"liked_by_user":false,"current_user_collections":[],"sponsorship":null,"topic_submissions":{},"asset_type":"photo","user":{"id":"dfd0LmDhax4","updated_at":"2025-05-24T18:18:12Z","username":"kashu555","name":"Kashif Afridi","first_name":"Kashif","last_name":"Afridi","twitter_username":null,"portfolio_url":"https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ","bio":"When you download my picture give me 1 Sub on YouTube ❤️","location":"Islamabad PAKISTAN","links":{"self":"https://api.unsplash.com/users/kashu555","html":"https://unsplash.com/@kashu555","photos":"https://api.unsplash.com/users/kashu555/photos","likes":"https://api.unsplash.com/users/kashu555/likes","portfolio":"https://api.unsplash.com/users/kashu555/portfolio"},"profile_image":{"small":"https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=32\u0026h=32","medium":"https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=64\u0026h=64","large":"https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=128\u0026h=128"},"instagram_username":"Kashif.Afridiii","total_collections":4,"total_likes":140,"total_photos":397,"total_promoted_photos":0,"total_illustrations":0,"total_promoted_illustrations":0,"accepted_tos":true,"for_hire":true,"social":{"instagram_username":"Kashif.Afridiii","portfolio_url":"https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ","twitter_username":null,"paypal_email":null}}},{"id":"I_n4H25slzU","slug":"people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU","alternative_slugs":{"en":"people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU","es":"personas-caminando-cerca-de-un-edificio-de-hormigon-blanco-durante-el-dia-I_n4H25slzU","ja":"昼間白いコンクリートの建物の近くを歩く人々-I_n4H25slzU","fr":"personnes-marchant-pres-dun-batiment-en-beton-blanc-pendant-la-journee-I_n4H25slzU","it":"persone-che-camminano-vicino-a-un-edificio-in-cemento-bianco-durante-il-giorno-I_n4H25slzU","ko":"낮에-흰색-콘크리트-건물-근처를-걷는-사람들-I_n4H25slzU","de":"menschen-die-tagsuber-in-der-nahe-des-weissen-betongebaudes-spazieren-gehen-I_n4H25slzU","pt":"pessoas-andando-perto-de-um-edificio-de-concreto-branco-durante-o-dia-I_n4H25slzU"},"created_at":"2020-11-27T21:11:46Z","updated_at":"2025-06-10T09:37:12Z","promoted_at":null,"width":3934,"height":2767,"color":"#c0c0c0","blur_hash":"LZMQkot7tRfk~qofofj[RkayRjj[","description":"Tomb of Quaid e Azam Muhammad Ali Jinnah","alt_description":"people walking near white concrete building during daytime","breadcrumbs":[],"urls":{"raw":"https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0","full":"https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy\u0026cs=srgb\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=85","regular":"https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=1080","small":"https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=400","thumb":"https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=200","small_s3":"https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1606511490662-b2c5be7d95a1"},"links":{"self":"https://api.unsplash.com/photos/people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU","html":"https://unsplash.com/photos/people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU","download":"https://unsplash.com/photos/I_n4H25slzU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww","download_location":"https://api.unsplash.com/photos/I_n4H25slzU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww"},"likes":31,"liked_by_user":false,"current_user_collections":[],"sponsorship":null,"topic_submissions":{"architecture-interior":{"status":"approved","approved_on":"2021-09-28T19:04:34Z"}},"asset_type":"photo","user":{"id":"P04qM4AY5i0","updated_at":"2024-10-11T03:52:51Z","username":"hassananwer","name":"Hassan Anwer","first_name":"Hassan","last_name":"Anwer","twitter_username":null,"portfolio_url":null,"bio":"21 Years old beginner photographer from PAK","location":"Pakistan","links":{"self":"https://api.unsplash.com/users/hassananwer","html":"https://unsplash.com/@hassananwer","photos":"https://api.unsplash.com/users/hassananwer/photos","likes":"https://api.unsplash.com/users/hassananwer/likes","portfolio":"https://api.unsplash.com/users/hassananwer/portfolio"},"profile_image":{"small":"https://images.unsplash.com/profile-fb-1557149444-ed2638bc1c23.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=32\u0026h=32","medium":"https://images.unsplash.com/profile-fb-1557149444-ed2638bc1c23.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=64\u0026h=64","large":"https://images.unsplash.com/profile-fb-1557149444-ed2638bc1c23.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=128\u0026h=128"},"instagram_username":"hassananwer09","total_collections":2,"total_likes":1,"total_photos":14,"total_promoted_photos":0,"total_illustrations":0,"total_promoted_illustrations":0,"accepted_tos":true,"for_hire":false,"social":{"instagram_username":"hassananwer09","portfolio_url":null,"twitter_username":null,"paypal_email":null}}},{"id":"nKPdh0MZaBU","slug":"gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU","alternative_slugs":{"en":"gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU","es":"edificio-de-hormigon-gris-bajo-el-cielo-azul-durante-el-dia-nKPdh0MZaBU","ja":"昼間の青空に覆われた灰色のコンクリートの建物-nKPdh0MZaBU","fr":"batiment-en-beton-gris-sous-le-ciel-bleu-pendant-la-journee-nKPdh0MZaBU","it":"edificio-in-cemento-grigio-sotto-il-cielo-blu-durante-il-giorno-nKPdh0MZaBU","ko":"낮에는-푸른-하늘-아래-회색-콘크리트-건물-nKPdh0MZaBU","de":"graues-betongebaude-unter-blauem-himmel-tagsuber-nKPdh0MZaBU","pt":"edificio-de-concreto-cinza-sob-o-ceu-azul-durante-o-dia-nKPdh0MZaBU"},"created_at":"2021-01-19T15:07:55Z","updated_at":"2025-06-10T07:02:22Z","promoted_at":null,"width":3000,"height":4000,"color":"#40a6c0","blur_hash":"LgGJjWE3Ot%12xxsoINHR5jYv}Rk","description":"Mazar e Quaid Karachi Pakistan","alt_description":"gray concrete building under blue sky during daytime","breadcrumbs":[],"urls":{"raw":"https://images.unsplash.com/photo-1611068661807-c850d6a24f62?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0","full":"https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy\u0026cs=srgb\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=85","regular":"https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=1080","small":"https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=400","thumb":"https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=200","small_s3":"https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1611068661807-c850d6a24f62"},"links":{"self":"https://api.unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU","html":"https://unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU","download":"https://unsplash.com/photos/nKPdh0MZaBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww","download_location":"https://api.unsplash.com/photos/nKPdh0MZaBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww"},"likes":16,"liked_by_user":false,"current_user_collections":[],"sponsorship":null,"topic_submissions":{},"asset_type":"photo","user":{"id":"dfd0LmDhax4","updated_at":"2025-05-24T18:18:12Z","username":"kashu555","name":"Kashif Afridi","first_name":"Kashif","last_name":"Afridi","twitter_username":null,"portfolio_url":"https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ","bio":"When you download my picture give me 1 Sub on YouTube ❤️","location":"Islamabad PAKISTAN","links":{"self":"https://api.unsplash.com/users/kashu555","html":"https://unsplash.com/@kashu555","photos":"https://api.unsplash.com/users/kashu555/photos","likes":"https://api.unsplash.com/users/kashu555/likes","portfolio":"https://api.unsplash.com/users/kashu555/portfolio"},"profile_image":{"small":"https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=32\u0026h=32","medium":"https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=64\u0026h=64","large":"https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=128\u0026h=128"},"instagram_username":"Kashif.Afridiii","total_collections":4,"total_likes":140,"total_photos":397,"total_promoted_photos":0,"total_illustrations":0,"total_promoted_illustrations":0,"accepted_tos":true,"for_hire":true,"social":{"instagram_username":"Kashif.Afridiii","portfolio_url":"https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ","twitter_username":null,"paypal_email":null}}},{"id":"24W9b5WZuS4","slug":"white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4","alternative_slugs":{"en":"white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4","es":"edificios-de-hormigon-blanco-y-gris-durante-el-dia-24W9b5WZuS4","ja":"昼間の白と灰色のコンクリートの建物-24W9b5WZuS4","fr":"batiments-en-beton-blanc-et-gris-pendant-la-journee-24W9b5WZuS4","it":"edifici-in-cemento-bianco-e-grigio-durante-il-giorno-24W9b5WZuS4","ko":"낮에는-흰색과-회색-콘크리트-건물-24W9b5WZuS4","de":"weisse-und-graue-betongebaude-tagsuber-24W9b5WZuS4","pt":"edificios-de-concreto-branco-e-cinza-durante-o-dia-24W9b5WZuS4"},"created_at":"2021-04-02T14:31:22Z","updated_at":"2025-06-10T09:00:24Z","promoted_at":null,"width":5312,"height":2988,"color":"#598cf3","blur_hash":"L.E|cHWEV@ogOLofj?f7RpayofWC","description":null,"alt_description":"white and gray concrete buildings during daytime","breadcrumbs":[],"urls":{"raw":"https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0","full":"https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy\u0026cs=srgb\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=85","regular":"https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=1080","small":"https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=400","thumb":"https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=200","small_s3":"https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1617373743747-3bb331fd4e8d"},"links":{"self":"https://api.unsplash.com/photos/white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4","html":"https://unsplash.com/photos/white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4","download":"https://unsplash.com/photos/24W9b5WZuS4/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww","download_location":"https://api.unsplash.com/photos/24W9b5WZuS4/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww"},"likes":19,"liked_by_user":false,"current_user_collections":[],"sponsorship":null,"topic_submissions":{},"asset_type":"photo","user":{"id":"Xul2n4hPaOE","updated_at":"2024-10-31T09:04:54Z","username":"mjawaid","name":"Muhammad Jawaid Shamshad","first_name":"Muhammad Jawaid","last_name":"Shamshad","twitter_username":"mjawaids","portfolio_url":"https://medium.com/@jawaid","bio":null,"location":"Karachi, Pakistan","links":{"self":"https://api.unsplash.com/users/mjawaid","html":"https://unsplash.com/@mjawaid","photos":"https://api.unsplash.com/users/mjawaid/photos","likes":"https://api.unsplash.com/users/mjawaid/likes","portfolio":"https://api.unsplash.com/users/mjawaid/portfolio"},"profile_image":{"small":"https://images.unsplash.com/profile-fb-1544710072-6318d38c0003.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=32\u0026h=32","medium":"https://images.unsplash.com/profile-fb-1544710072-6318d38c0003.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=64\u0026h=64","large":"https://images.unsplash.com/profile-fb-1544710072-6318d38c0003.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=128\u0026h=128"},"instagram_username":"m.jawaids","total_collections":0,"total_likes":0,"total_photos":5,"total_promoted_photos":0,"total_illustrations":0,"total_promoted_illustrations":0,"accepted_tos":true,"for_hire":true,"social":{"instagram_username":"m.jawaids","portfolio_url":"https://medium.com/@jawaid","twitter_username":"mjawaids","paypal_email":null}}},{"id":"r1UmNq8rgcQ","slug":"brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ","alternative_slugs":{"en":"brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ","es":"edificio-de-hormigon-marron-bajo-nubes-blancas-durante-el-dia-r1UmNq8rgcQ","ja":"昼間の白い雲の下の茶色のコンクリートの建物-r1UmNq8rgcQ","fr":"batiment-en-beton-brun-sous-des-nuages-blancs-pendant-la-journee-r1UmNq8rgcQ","it":"edificio-in-cemento-marrone-sotto-nuvole-bianche-durante-il-giorno-r1UmNq8rgcQ","ko":"낮에는-흰-구름-아래-갈색-콘크리트-건물-r1UmNq8rgcQ","de":"braunes-betongebaude-unter-weissen-wolken-tagsuber-r1UmNq8rgcQ","pt":"edificio-de-concreto-marrom-sob-nuvens-brancas-durante-o-dia-r1UmNq8rgcQ"},"created_at":"2021-02-05T20:23:30Z","updated_at":"2025-06-10T09:36:55Z","promoted_at":null,"width":3456,"height":5184,"color":"#8ca68c","blur_hash":"LEHU%cOs73oc4St6RPnO9xr?vMIV","description":"Old buildings","alt_description":"brown concrete building under white clouds during daytime","breadcrumbs":[],"urls":{"raw":"https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0","full":"https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy\u0026cs=srgb\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=85","regular":"https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=1080","small":"https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=400","thumb":"https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=200","small_s3":"https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1612556534321-fcc747ff3dea"},"links":{"self":"https://api.unsplash.com/photos/brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ","html":"https://unsplash.com/photos/brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ","download":"https://unsplash.com/photos/r1UmNq8rgcQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww","download_location":"https://api.unsplash.com/photos/r1UmNq8rgcQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww"},"likes":37,"liked_by_user":false,"current_user_collections":[],"sponsorship":null,"topic_submissions":{"architecture-interior":{"status":"rejected"},"film":{"status":"rejected"},"color-theory":{"status":"rejected"},"textures-patterns":{"status":"rejected"},"street-photography":{"status":"rejected"}},"asset_type":"photo","user":{"id":"vxeAL-sIWfw","updated_at":"2024-10-11T08:08:57Z","username":"thealmani","name":"almani ماني","first_name":"almani","last_name":"ماني","twitter_username":null,"portfolio_url":"https://filtergrade.com/product/20-christmas-presets-lightroom-holiday-winter-instagram/","bio":"A guy looking for neverland\r\nSupport me ! Buy one preset from given link","location":null,"links":{"self":"https://api.unsplash.com/users/thealmani","html":"https://unsplash.com/@thealmani","photos":"https://api.unsplash.com/users/thealmani/photos","likes":"https://api.unsplash.com/users/thealmani/likes","portfolio":"https://api.unsplash.com/users/thealmani/portfolio"},"profile_image":{"small":"https://images.unsplash.com/profile-1610624953240-a5860b03b0adimage?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=32\u0026h=32","medium":"https://images.unsplash.com/profile-1610624953240-a5860b03b0adimage?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=64\u0026h=64","large":"https://images.unsplash.com/profile-1610624953240-a5860b03b0adimage?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=128\u0026h=128"},"instagram_username":"thealmani","total_collections":0,"total_likes":0,"total_photos":47,"total_promoted_photos":0,"total_illustrations":0,"total_promoted_illustrations":0,"accepted_tos":true,"for_hire":true,"social":{"instagram_username":"thealmani","portfolio_url":"https://filtergrade.com/product/20-christmas-presets-lightroom-holiday-winter-instagram/","twitter_username":null,"paypal_email":null}}}]}
+[10-Jun-2025 12:57:19 Europe/Berlin] Decoded Image Data: Array
+(
+    [total] => 708
+    [total_pages] => 142
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => tcsBmVeHbBU
+                    [slug] => brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+                    [alternative_slugs] => Array
+                        (
+                            [en] => brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+                            [es] => edificio-de-hormigon-marron-bajo-el-cielo-azul-durante-el-dia-tcsBmVeHbBU
+                            [ja] => 昼間の青空に茶色のコンクリートの建物-tcsBmVeHbBU
+                            [fr] => batiment-en-beton-brun-sous-le-ciel-bleu-pendant-la-journee-tcsBmVeHbBU
+                            [it] => edificio-in-cemento-marrone-sotto-il-cielo-blu-durante-il-giorno-tcsBmVeHbBU
+                            [ko] => 낮에는-푸른-하늘-아래-갈색-콘크리트-건물-tcsBmVeHbBU
+                            [de] => braunes-betongebaude-unter-blauem-himmel-tagsuber-tcsBmVeHbBU
+                            [pt] => edificio-de-concreto-marrom-sob-o-ceu-azul-durante-o-dia-tcsBmVeHbBU
+                        )
+
+                    [created_at] => 2021-05-18T03:16:47Z
+                    [updated_at] => 2025-06-10T06:44:17Z
+                    [promoted_at] => 
+                    [width] => 4008
+                    [height] => 5344
+                    [color] => #40738c
+                    [blur_hash] => LNFPHaIq17xv7QnN-oIoR4V?$dVs
+                    [description] => 
+                    [alt_description] => brown concrete building under blue sky during daytime
+                    [breadcrumbs] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [raw] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0
+                            [full] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=85
+                            [regular] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+                            [small] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=400
+                            [thumb] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=200
+                            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1621307229540-a94299c37fc1
+                        )
+
+                    [links] => Array
+                        (
+                            [self] => https://api.unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+                            [html] => https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+                            [download] => https://unsplash.com/photos/tcsBmVeHbBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+                            [download_location] => https://api.unsplash.com/photos/tcsBmVeHbBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+                        )
+
+                    [likes] => 14
+                    [liked_by_user] => 
+                    [current_user_collections] => Array
+                        (
+                        )
+
+                    [sponsorship] => 
+                    [topic_submissions] => Array
+                        (
+                        )
+
+                    [asset_type] => photo
+                    [user] => Array
+                        (
+                            [id] => dfd0LmDhax4
+                            [updated_at] => 2025-05-24T18:18:12Z
+                            [username] => kashu555
+                            [name] => Kashif Afridi
+                            [first_name] => Kashif
+                            [last_name] => Afridi
+                            [twitter_username] => 
+                            [portfolio_url] => https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ
+                            [bio] => When you download my picture give me 1 Sub on YouTube ❤️
+                            [location] => Islamabad PAKISTAN
+                            [links] => Array
+                                (
+                                    [self] => https://api.unsplash.com/users/kashu555
+                                    [html] => https://unsplash.com/@kashu555
+                                    [photos] => https://api.unsplash.com/users/kashu555/photos
+                                    [likes] => https://api.unsplash.com/users/kashu555/likes
+                                    [portfolio] => https://api.unsplash.com/users/kashu555/portfolio
+                                )
+
+                            [profile_image] => Array
+                                (
+                                    [small] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                                    [medium] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                                    [large] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                                )
+
+                            [instagram_username] => Kashif.Afridiii
+                            [total_collections] => 4
+                            [total_likes] => 140
+                            [total_photos] => 397
+                            [total_promoted_photos] => 0
+                            [total_illustrations] => 0
+                            [total_promoted_illustrations] => 0
+                            [accepted_tos] => 1
+                            [for_hire] => 1
+                            [social] => Array
+                                (
+                                    [instagram_username] => Kashif.Afridiii
+                                    [portfolio_url] => https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ
+                                    [twitter_username] => 
+                                    [paypal_email] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => I_n4H25slzU
+                    [slug] => people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+                    [alternative_slugs] => Array
+                        (
+                            [en] => people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+                            [es] => personas-caminando-cerca-de-un-edificio-de-hormigon-blanco-durante-el-dia-I_n4H25slzU
+                            [ja] => 昼間白いコンクリートの建物の近くを歩く人々-I_n4H25slzU
+                            [fr] => personnes-marchant-pres-dun-batiment-en-beton-blanc-pendant-la-journee-I_n4H25slzU
+                            [it] => persone-che-camminano-vicino-a-un-edificio-in-cemento-bianco-durante-il-giorno-I_n4H25slzU
+                            [ko] => 낮에-흰색-콘크리트-건물-근처를-걷는-사람들-I_n4H25slzU
+                            [de] => menschen-die-tagsuber-in-der-nahe-des-weissen-betongebaudes-spazieren-gehen-I_n4H25slzU
+                            [pt] => pessoas-andando-perto-de-um-edificio-de-concreto-branco-durante-o-dia-I_n4H25slzU
+                        )
+
+                    [created_at] => 2020-11-27T21:11:46Z
+                    [updated_at] => 2025-06-10T09:37:12Z
+                    [promoted_at] => 
+                    [width] => 3934
+                    [height] => 2767
+                    [color] => #c0c0c0
+                    [blur_hash] => LZMQkot7tRfk~qofofj[RkayRjj[
+                    [description] => Tomb of Quaid e Azam Muhammad Ali Jinnah
+                    [alt_description] => people walking near white concrete building during daytime
+                    [breadcrumbs] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [raw] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0
+                            [full] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=85
+                            [regular] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+                            [small] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=400
+                            [thumb] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=200
+                            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1606511490662-b2c5be7d95a1
+                        )
+
+                    [links] => Array
+                        (
+                            [self] => https://api.unsplash.com/photos/people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+                            [html] => https://unsplash.com/photos/people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+                            [download] => https://unsplash.com/photos/I_n4H25slzU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+                            [download_location] => https://api.unsplash.com/photos/I_n4H25slzU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+                        )
+
+                    [likes] => 31
+                    [liked_by_user] => 
+                    [current_user_collections] => Array
+                        (
+                        )
+
+                    [sponsorship] => 
+                    [topic_submissions] => Array
+                        (
+                            [architecture-interior] => Array
+                                (
+                                    [status] => approved
+                                    [approved_on] => 2021-09-28T19:04:34Z
+                                )
+
+                        )
+
+                    [asset_type] => photo
+                    [user] => Array
+                        (
+                            [id] => P04qM4AY5i0
+                            [updated_at] => 2024-10-11T03:52:51Z
+                            [username] => hassananwer
+                            [name] => Hassan Anwer
+                            [first_name] => Hassan
+                            [last_name] => Anwer
+                            [twitter_username] => 
+                            [portfolio_url] => 
+                            [bio] => 21 Years old beginner photographer from PAK
+                            [location] => Pakistan
+                            [links] => Array
+                                (
+                                    [self] => https://api.unsplash.com/users/hassananwer
+                                    [html] => https://unsplash.com/@hassananwer
+                                    [photos] => https://api.unsplash.com/users/hassananwer/photos
+                                    [likes] => https://api.unsplash.com/users/hassananwer/likes
+                                    [portfolio] => https://api.unsplash.com/users/hassananwer/portfolio
+                                )
+
+                            [profile_image] => Array
+                                (
+                                    [small] => https://images.unsplash.com/profile-fb-1557149444-ed2638bc1c23.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                                    [medium] => https://images.unsplash.com/profile-fb-1557149444-ed2638bc1c23.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                                    [large] => https://images.unsplash.com/profile-fb-1557149444-ed2638bc1c23.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                                )
+
+                            [instagram_username] => hassananwer09
+                            [total_collections] => 2
+                            [total_likes] => 1
+                            [total_photos] => 14
+                            [total_promoted_photos] => 0
+                            [total_illustrations] => 0
+                            [total_promoted_illustrations] => 0
+                            [accepted_tos] => 1
+                            [for_hire] => 
+                            [social] => Array
+                                (
+                                    [instagram_username] => hassananwer09
+                                    [portfolio_url] => 
+                                    [twitter_username] => 
+                                    [paypal_email] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => nKPdh0MZaBU
+                    [slug] => gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+                    [alternative_slugs] => Array
+                        (
+                            [en] => gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+                            [es] => edificio-de-hormigon-gris-bajo-el-cielo-azul-durante-el-dia-nKPdh0MZaBU
+                            [ja] => 昼間の青空に覆われた灰色のコンクリートの建物-nKPdh0MZaBU
+                            [fr] => batiment-en-beton-gris-sous-le-ciel-bleu-pendant-la-journee-nKPdh0MZaBU
+                            [it] => edificio-in-cemento-grigio-sotto-il-cielo-blu-durante-il-giorno-nKPdh0MZaBU
+                            [ko] => 낮에는-푸른-하늘-아래-회색-콘크리트-건물-nKPdh0MZaBU
+                            [de] => graues-betongebaude-unter-blauem-himmel-tagsuber-nKPdh0MZaBU
+                            [pt] => edificio-de-concreto-cinza-sob-o-ceu-azul-durante-o-dia-nKPdh0MZaBU
+                        )
+
+                    [created_at] => 2021-01-19T15:07:55Z
+                    [updated_at] => 2025-06-10T07:02:22Z
+                    [promoted_at] => 
+                    [width] => 3000
+                    [height] => 4000
+                    [color] => #40a6c0
+                    [blur_hash] => LgGJjWE3Ot%12xxsoINHR5jYv}Rk
+                    [description] => Mazar e Quaid Karachi Pakistan
+                    [alt_description] => gray concrete building under blue sky during daytime
+                    [breadcrumbs] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [raw] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0
+                            [full] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=85
+                            [regular] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+                            [small] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=400
+                            [thumb] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=200
+                            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1611068661807-c850d6a24f62
+                        )
+
+                    [links] => Array
+                        (
+                            [self] => https://api.unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+                            [html] => https://unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+                            [download] => https://unsplash.com/photos/nKPdh0MZaBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+                            [download_location] => https://api.unsplash.com/photos/nKPdh0MZaBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+                        )
+
+                    [likes] => 16
+                    [liked_by_user] => 
+                    [current_user_collections] => Array
+                        (
+                        )
+
+                    [sponsorship] => 
+                    [topic_submissions] => Array
+                        (
+                        )
+
+                    [asset_type] => photo
+                    [user] => Array
+                        (
+                            [id] => dfd0LmDhax4
+                            [updated_at] => 2025-05-24T18:18:12Z
+                            [username] => kashu555
+                            [name] => Kashif Afridi
+                            [first_name] => Kashif
+                            [last_name] => Afridi
+                            [twitter_username] => 
+                            [portfolio_url] => https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ
+                            [bio] => When you download my picture give me 1 Sub on YouTube ❤️
+                            [location] => Islamabad PAKISTAN
+                            [links] => Array
+                                (
+                                    [self] => https://api.unsplash.com/users/kashu555
+                                    [html] => https://unsplash.com/@kashu555
+                                    [photos] => https://api.unsplash.com/users/kashu555/photos
+                                    [likes] => https://api.unsplash.com/users/kashu555/likes
+                                    [portfolio] => https://api.unsplash.com/users/kashu555/portfolio
+                                )
+
+                            [profile_image] => Array
+                                (
+                                    [small] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                                    [medium] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                                    [large] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                                )
+
+                            [instagram_username] => Kashif.Afridiii
+                            [total_collections] => 4
+                            [total_likes] => 140
+                            [total_photos] => 397
+                            [total_promoted_photos] => 0
+                            [total_illustrations] => 0
+                            [total_promoted_illustrations] => 0
+                            [accepted_tos] => 1
+                            [for_hire] => 1
+                            [social] => Array
+                                (
+                                    [instagram_username] => Kashif.Afridiii
+                                    [portfolio_url] => https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ
+                                    [twitter_username] => 
+                                    [paypal_email] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => 24W9b5WZuS4
+                    [slug] => white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+                    [alternative_slugs] => Array
+                        (
+                            [en] => white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+                            [es] => edificios-de-hormigon-blanco-y-gris-durante-el-dia-24W9b5WZuS4
+                            [ja] => 昼間の白と灰色のコンクリートの建物-24W9b5WZuS4
+                            [fr] => batiments-en-beton-blanc-et-gris-pendant-la-journee-24W9b5WZuS4
+                            [it] => edifici-in-cemento-bianco-e-grigio-durante-il-giorno-24W9b5WZuS4
+                            [ko] => 낮에는-흰색과-회색-콘크리트-건물-24W9b5WZuS4
+                            [de] => weisse-und-graue-betongebaude-tagsuber-24W9b5WZuS4
+                            [pt] => edificios-de-concreto-branco-e-cinza-durante-o-dia-24W9b5WZuS4
+                        )
+
+                    [created_at] => 2021-04-02T14:31:22Z
+                    [updated_at] => 2025-06-10T09:00:24Z
+                    [promoted_at] => 
+                    [width] => 5312
+                    [height] => 2988
+                    [color] => #598cf3
+                    [blur_hash] => L.E|cHWEV@ogOLofj?f7RpayofWC
+                    [description] => 
+                    [alt_description] => white and gray concrete buildings during daytime
+                    [breadcrumbs] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [raw] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0
+                            [full] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=85
+                            [regular] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+                            [small] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=400
+                            [thumb] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=200
+                            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1617373743747-3bb331fd4e8d
+                        )
+
+                    [links] => Array
+                        (
+                            [self] => https://api.unsplash.com/photos/white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+                            [html] => https://unsplash.com/photos/white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+                            [download] => https://unsplash.com/photos/24W9b5WZuS4/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+                            [download_location] => https://api.unsplash.com/photos/24W9b5WZuS4/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+                        )
+
+                    [likes] => 19
+                    [liked_by_user] => 
+                    [current_user_collections] => Array
+                        (
+                        )
+
+                    [sponsorship] => 
+                    [topic_submissions] => Array
+                        (
+                        )
+
+                    [asset_type] => photo
+                    [user] => Array
+                        (
+                            [id] => Xul2n4hPaOE
+                            [updated_at] => 2024-10-31T09:04:54Z
+                            [username] => mjawaid
+                            [name] => Muhammad Jawaid Shamshad
+                            [first_name] => Muhammad Jawaid
+                            [last_name] => Shamshad
+                            [twitter_username] => mjawaids
+                            [portfolio_url] => https://medium.com/@jawaid
+                            [bio] => 
+                            [location] => Karachi, Pakistan
+                            [links] => Array
+                                (
+                                    [self] => https://api.unsplash.com/users/mjawaid
+                                    [html] => https://unsplash.com/@mjawaid
+                                    [photos] => https://api.unsplash.com/users/mjawaid/photos
+                                    [likes] => https://api.unsplash.com/users/mjawaid/likes
+                                    [portfolio] => https://api.unsplash.com/users/mjawaid/portfolio
+                                )
+
+                            [profile_image] => Array
+                                (
+                                    [small] => https://images.unsplash.com/profile-fb-1544710072-6318d38c0003.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                                    [medium] => https://images.unsplash.com/profile-fb-1544710072-6318d38c0003.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                                    [large] => https://images.unsplash.com/profile-fb-1544710072-6318d38c0003.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                                )
+
+                            [instagram_username] => m.jawaids
+                            [total_collections] => 0
+                            [total_likes] => 0
+                            [total_photos] => 5
+                            [total_promoted_photos] => 0
+                            [total_illustrations] => 0
+                            [total_promoted_illustrations] => 0
+                            [accepted_tos] => 1
+                            [for_hire] => 1
+                            [social] => Array
+                                (
+                                    [instagram_username] => m.jawaids
+                                    [portfolio_url] => https://medium.com/@jawaid
+                                    [twitter_username] => mjawaids
+                                    [paypal_email] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [id] => r1UmNq8rgcQ
+                    [slug] => brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+                    [alternative_slugs] => Array
+                        (
+                            [en] => brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+                            [es] => edificio-de-hormigon-marron-bajo-nubes-blancas-durante-el-dia-r1UmNq8rgcQ
+                            [ja] => 昼間の白い雲の下の茶色のコンクリートの建物-r1UmNq8rgcQ
+                            [fr] => batiment-en-beton-brun-sous-des-nuages-blancs-pendant-la-journee-r1UmNq8rgcQ
+                            [it] => edificio-in-cemento-marrone-sotto-nuvole-bianche-durante-il-giorno-r1UmNq8rgcQ
+                            [ko] => 낮에는-흰-구름-아래-갈색-콘크리트-건물-r1UmNq8rgcQ
+                            [de] => braunes-betongebaude-unter-weissen-wolken-tagsuber-r1UmNq8rgcQ
+                            [pt] => edificio-de-concreto-marrom-sob-nuvens-brancas-durante-o-dia-r1UmNq8rgcQ
+                        )
+
+                    [created_at] => 2021-02-05T20:23:30Z
+                    [updated_at] => 2025-06-10T09:36:55Z
+                    [promoted_at] => 
+                    [width] => 3456
+                    [height] => 5184
+                    [color] => #8ca68c
+                    [blur_hash] => LEHU%cOs73oc4St6RPnO9xr?vMIV
+                    [description] => Old buildings
+                    [alt_description] => brown concrete building under white clouds during daytime
+                    [breadcrumbs] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [raw] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0
+                            [full] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=85
+                            [regular] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+                            [small] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=400
+                            [thumb] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=200
+                            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1612556534321-fcc747ff3dea
+                        )
+
+                    [links] => Array
+                        (
+                            [self] => https://api.unsplash.com/photos/brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+                            [html] => https://unsplash.com/photos/brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+                            [download] => https://unsplash.com/photos/r1UmNq8rgcQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+                            [download_location] => https://api.unsplash.com/photos/r1UmNq8rgcQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+                        )
+
+                    [likes] => 37
+                    [liked_by_user] => 
+                    [current_user_collections] => Array
+                        (
+                        )
+
+                    [sponsorship] => 
+                    [topic_submissions] => Array
+                        (
+                            [architecture-interior] => Array
+                                (
+                                    [status] => rejected
+                                )
+
+                            [film] => Array
+                                (
+                                    [status] => rejected
+                                )
+
+                            [color-theory] => Array
+                                (
+                                    [status] => rejected
+                                )
+
+                            [textures-patterns] => Array
+                                (
+                                    [status] => rejected
+                                )
+
+                            [street-photography] => Array
+                                (
+                                    [status] => rejected
+                                )
+
+                        )
+
+                    [asset_type] => photo
+                    [user] => Array
+                        (
+                            [id] => vxeAL-sIWfw
+                            [updated_at] => 2024-10-11T08:08:57Z
+                            [username] => thealmani
+                            [name] => almani ماني
+                            [first_name] => almani
+                            [last_name] => ماني
+                            [twitter_username] => 
+                            [portfolio_url] => https://filtergrade.com/product/20-christmas-presets-lightroom-holiday-winter-instagram/
+                            [bio] => A guy looking for neverland
+Support me ! Buy one preset from given link
+                            [location] => 
+                            [links] => Array
+                                (
+                                    [self] => https://api.unsplash.com/users/thealmani
+                                    [html] => https://unsplash.com/@thealmani
+                                    [photos] => https://api.unsplash.com/users/thealmani/photos
+                                    [likes] => https://api.unsplash.com/users/thealmani/likes
+                                    [portfolio] => https://api.unsplash.com/users/thealmani/portfolio
+                                )
+
+                            [profile_image] => Array
+                                (
+                                    [small] => https://images.unsplash.com/profile-1610624953240-a5860b03b0adimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                                    [medium] => https://images.unsplash.com/profile-1610624953240-a5860b03b0adimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                                    [large] => https://images.unsplash.com/profile-1610624953240-a5860b03b0adimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                                )
+
+                            [instagram_username] => thealmani
+                            [total_collections] => 0
+                            [total_likes] => 0
+                            [total_photos] => 47
+                            [total_promoted_photos] => 0
+                            [total_illustrations] => 0
+                            [total_promoted_illustrations] => 0
+                            [accepted_tos] => 1
+                            [for_hire] => 1
+                            [social] => Array
+                                (
+                                    [instagram_username] => thealmani
+                                    [portfolio_url] => https://filtergrade.com/product/20-christmas-presets-lightroom-holiday-winter-instagram/
+                                    [twitter_username] => 
+                                    [paypal_email] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Processing image: Array
+(
+    [id] => tcsBmVeHbBU
+    [slug] => brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+    [alternative_slugs] => Array
+        (
+            [en] => brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+            [es] => edificio-de-hormigon-marron-bajo-el-cielo-azul-durante-el-dia-tcsBmVeHbBU
+            [ja] => 昼間の青空に茶色のコンクリートの建物-tcsBmVeHbBU
+            [fr] => batiment-en-beton-brun-sous-le-ciel-bleu-pendant-la-journee-tcsBmVeHbBU
+            [it] => edificio-in-cemento-marrone-sotto-il-cielo-blu-durante-il-giorno-tcsBmVeHbBU
+            [ko] => 낮에는-푸른-하늘-아래-갈색-콘크리트-건물-tcsBmVeHbBU
+            [de] => braunes-betongebaude-unter-blauem-himmel-tagsuber-tcsBmVeHbBU
+            [pt] => edificio-de-concreto-marrom-sob-o-ceu-azul-durante-o-dia-tcsBmVeHbBU
+        )
+
+    [created_at] => 2021-05-18T03:16:47Z
+    [updated_at] => 2025-06-10T06:44:17Z
+    [promoted_at] => 
+    [width] => 4008
+    [height] => 5344
+    [color] => #40738c
+    [blur_hash] => LNFPHaIq17xv7QnN-oIoR4V?$dVs
+    [description] => 
+    [alt_description] => brown concrete building under blue sky during daytime
+    [breadcrumbs] => Array
+        (
+        )
+
+    [urls] => Array
+        (
+            [raw] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0
+            [full] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=85
+            [regular] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+            [small] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=400
+            [thumb] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=200
+            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1621307229540-a94299c37fc1
+        )
+
+    [links] => Array
+        (
+            [self] => https://api.unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+            [html] => https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+            [download] => https://unsplash.com/photos/tcsBmVeHbBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+            [download_location] => https://api.unsplash.com/photos/tcsBmVeHbBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+        )
+
+    [likes] => 14
+    [liked_by_user] => 
+    [current_user_collections] => Array
+        (
+        )
+
+    [sponsorship] => 
+    [topic_submissions] => Array
+        (
+        )
+
+    [asset_type] => photo
+    [user] => Array
+        (
+            [id] => dfd0LmDhax4
+            [updated_at] => 2025-05-24T18:18:12Z
+            [username] => kashu555
+            [name] => Kashif Afridi
+            [first_name] => Kashif
+            [last_name] => Afridi
+            [twitter_username] => 
+            [portfolio_url] => https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ
+            [bio] => When you download my picture give me 1 Sub on YouTube ❤️
+            [location] => Islamabad PAKISTAN
+            [links] => Array
+                (
+                    [self] => https://api.unsplash.com/users/kashu555
+                    [html] => https://unsplash.com/@kashu555
+                    [photos] => https://api.unsplash.com/users/kashu555/photos
+                    [likes] => https://api.unsplash.com/users/kashu555/likes
+                    [portfolio] => https://api.unsplash.com/users/kashu555/portfolio
+                )
+
+            [profile_image] => Array
+                (
+                    [small] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                    [medium] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                    [large] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                )
+
+            [instagram_username] => Kashif.Afridiii
+            [total_collections] => 4
+            [total_likes] => 140
+            [total_photos] => 397
+            [total_promoted_photos] => 0
+            [total_illustrations] => 0
+            [total_promoted_illustrations] => 0
+            [accepted_tos] => 1
+            [for_hire] => 1
+            [social] => Array
+                (
+                    [instagram_username] => Kashif.Afridiii
+                    [portfolio_url] => https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ
+                    [twitter_username] => 
+                    [paypal_email] => 
+                )
+
+        )
+
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Adding image data: Array
+(
+    [url] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+    [photographer] => Kashif Afridi
+    [unsplash_link] => https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Processing image: Array
+(
+    [id] => I_n4H25slzU
+    [slug] => people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+    [alternative_slugs] => Array
+        (
+            [en] => people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+            [es] => personas-caminando-cerca-de-un-edificio-de-hormigon-blanco-durante-el-dia-I_n4H25slzU
+            [ja] => 昼間白いコンクリートの建物の近くを歩く人々-I_n4H25slzU
+            [fr] => personnes-marchant-pres-dun-batiment-en-beton-blanc-pendant-la-journee-I_n4H25slzU
+            [it] => persone-che-camminano-vicino-a-un-edificio-in-cemento-bianco-durante-il-giorno-I_n4H25slzU
+            [ko] => 낮에-흰색-콘크리트-건물-근처를-걷는-사람들-I_n4H25slzU
+            [de] => menschen-die-tagsuber-in-der-nahe-des-weissen-betongebaudes-spazieren-gehen-I_n4H25slzU
+            [pt] => pessoas-andando-perto-de-um-edificio-de-concreto-branco-durante-o-dia-I_n4H25slzU
+        )
+
+    [created_at] => 2020-11-27T21:11:46Z
+    [updated_at] => 2025-06-10T09:37:12Z
+    [promoted_at] => 
+    [width] => 3934
+    [height] => 2767
+    [color] => #c0c0c0
+    [blur_hash] => LZMQkot7tRfk~qofofj[RkayRjj[
+    [description] => Tomb of Quaid e Azam Muhammad Ali Jinnah
+    [alt_description] => people walking near white concrete building during daytime
+    [breadcrumbs] => Array
+        (
+        )
+
+    [urls] => Array
+        (
+            [raw] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0
+            [full] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=85
+            [regular] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+            [small] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=400
+            [thumb] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=200
+            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1606511490662-b2c5be7d95a1
+        )
+
+    [links] => Array
+        (
+            [self] => https://api.unsplash.com/photos/people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+            [html] => https://unsplash.com/photos/people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+            [download] => https://unsplash.com/photos/I_n4H25slzU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+            [download_location] => https://api.unsplash.com/photos/I_n4H25slzU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+        )
+
+    [likes] => 31
+    [liked_by_user] => 
+    [current_user_collections] => Array
+        (
+        )
+
+    [sponsorship] => 
+    [topic_submissions] => Array
+        (
+            [architecture-interior] => Array
+                (
+                    [status] => approved
+                    [approved_on] => 2021-09-28T19:04:34Z
+                )
+
+        )
+
+    [asset_type] => photo
+    [user] => Array
+        (
+            [id] => P04qM4AY5i0
+            [updated_at] => 2024-10-11T03:52:51Z
+            [username] => hassananwer
+            [name] => Hassan Anwer
+            [first_name] => Hassan
+            [last_name] => Anwer
+            [twitter_username] => 
+            [portfolio_url] => 
+            [bio] => 21 Years old beginner photographer from PAK
+            [location] => Pakistan
+            [links] => Array
+                (
+                    [self] => https://api.unsplash.com/users/hassananwer
+                    [html] => https://unsplash.com/@hassananwer
+                    [photos] => https://api.unsplash.com/users/hassananwer/photos
+                    [likes] => https://api.unsplash.com/users/hassananwer/likes
+                    [portfolio] => https://api.unsplash.com/users/hassananwer/portfolio
+                )
+
+            [profile_image] => Array
+                (
+                    [small] => https://images.unsplash.com/profile-fb-1557149444-ed2638bc1c23.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                    [medium] => https://images.unsplash.com/profile-fb-1557149444-ed2638bc1c23.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                    [large] => https://images.unsplash.com/profile-fb-1557149444-ed2638bc1c23.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                )
+
+            [instagram_username] => hassananwer09
+            [total_collections] => 2
+            [total_likes] => 1
+            [total_photos] => 14
+            [total_promoted_photos] => 0
+            [total_illustrations] => 0
+            [total_promoted_illustrations] => 0
+            [accepted_tos] => 1
+            [for_hire] => 
+            [social] => Array
+                (
+                    [instagram_username] => hassananwer09
+                    [portfolio_url] => 
+                    [twitter_username] => 
+                    [paypal_email] => 
+                )
+
+        )
+
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Adding image data: Array
+(
+    [url] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+    [photographer] => Hassan Anwer
+    [unsplash_link] => https://unsplash.com/photos/people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Processing image: Array
+(
+    [id] => nKPdh0MZaBU
+    [slug] => gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+    [alternative_slugs] => Array
+        (
+            [en] => gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+            [es] => edificio-de-hormigon-gris-bajo-el-cielo-azul-durante-el-dia-nKPdh0MZaBU
+            [ja] => 昼間の青空に覆われた灰色のコンクリートの建物-nKPdh0MZaBU
+            [fr] => batiment-en-beton-gris-sous-le-ciel-bleu-pendant-la-journee-nKPdh0MZaBU
+            [it] => edificio-in-cemento-grigio-sotto-il-cielo-blu-durante-il-giorno-nKPdh0MZaBU
+            [ko] => 낮에는-푸른-하늘-아래-회색-콘크리트-건물-nKPdh0MZaBU
+            [de] => graues-betongebaude-unter-blauem-himmel-tagsuber-nKPdh0MZaBU
+            [pt] => edificio-de-concreto-cinza-sob-o-ceu-azul-durante-o-dia-nKPdh0MZaBU
+        )
+
+    [created_at] => 2021-01-19T15:07:55Z
+    [updated_at] => 2025-06-10T07:02:22Z
+    [promoted_at] => 
+    [width] => 3000
+    [height] => 4000
+    [color] => #40a6c0
+    [blur_hash] => LgGJjWE3Ot%12xxsoINHR5jYv}Rk
+    [description] => Mazar e Quaid Karachi Pakistan
+    [alt_description] => gray concrete building under blue sky during daytime
+    [breadcrumbs] => Array
+        (
+        )
+
+    [urls] => Array
+        (
+            [raw] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0
+            [full] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=85
+            [regular] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+            [small] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=400
+            [thumb] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=200
+            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1611068661807-c850d6a24f62
+        )
+
+    [links] => Array
+        (
+            [self] => https://api.unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+            [html] => https://unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+            [download] => https://unsplash.com/photos/nKPdh0MZaBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+            [download_location] => https://api.unsplash.com/photos/nKPdh0MZaBU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+        )
+
+    [likes] => 16
+    [liked_by_user] => 
+    [current_user_collections] => Array
+        (
+        )
+
+    [sponsorship] => 
+    [topic_submissions] => Array
+        (
+        )
+
+    [asset_type] => photo
+    [user] => Array
+        (
+            [id] => dfd0LmDhax4
+            [updated_at] => 2025-05-24T18:18:12Z
+            [username] => kashu555
+            [name] => Kashif Afridi
+            [first_name] => Kashif
+            [last_name] => Afridi
+            [twitter_username] => 
+            [portfolio_url] => https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ
+            [bio] => When you download my picture give me 1 Sub on YouTube ❤️
+            [location] => Islamabad PAKISTAN
+            [links] => Array
+                (
+                    [self] => https://api.unsplash.com/users/kashu555
+                    [html] => https://unsplash.com/@kashu555
+                    [photos] => https://api.unsplash.com/users/kashu555/photos
+                    [likes] => https://api.unsplash.com/users/kashu555/likes
+                    [portfolio] => https://api.unsplash.com/users/kashu555/portfolio
+                )
+
+            [profile_image] => Array
+                (
+                    [small] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                    [medium] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                    [large] => https://images.unsplash.com/profile-1620792887834-083e42c02065image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                )
+
+            [instagram_username] => Kashif.Afridiii
+            [total_collections] => 4
+            [total_likes] => 140
+            [total_photos] => 397
+            [total_promoted_photos] => 0
+            [total_illustrations] => 0
+            [total_promoted_illustrations] => 0
+            [accepted_tos] => 1
+            [for_hire] => 1
+            [social] => Array
+                (
+                    [instagram_username] => Kashif.Afridiii
+                    [portfolio_url] => https://www.youtube.com/channel/UC8G_Z-MyXHjqMBBYS5KDcMQ
+                    [twitter_username] => 
+                    [paypal_email] => 
+                )
+
+        )
+
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Adding image data: Array
+(
+    [url] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+    [photographer] => Kashif Afridi
+    [unsplash_link] => https://unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Processing image: Array
+(
+    [id] => 24W9b5WZuS4
+    [slug] => white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+    [alternative_slugs] => Array
+        (
+            [en] => white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+            [es] => edificios-de-hormigon-blanco-y-gris-durante-el-dia-24W9b5WZuS4
+            [ja] => 昼間の白と灰色のコンクリートの建物-24W9b5WZuS4
+            [fr] => batiments-en-beton-blanc-et-gris-pendant-la-journee-24W9b5WZuS4
+            [it] => edifici-in-cemento-bianco-e-grigio-durante-il-giorno-24W9b5WZuS4
+            [ko] => 낮에는-흰색과-회색-콘크리트-건물-24W9b5WZuS4
+            [de] => weisse-und-graue-betongebaude-tagsuber-24W9b5WZuS4
+            [pt] => edificios-de-concreto-branco-e-cinza-durante-o-dia-24W9b5WZuS4
+        )
+
+    [created_at] => 2021-04-02T14:31:22Z
+    [updated_at] => 2025-06-10T09:00:24Z
+    [promoted_at] => 
+    [width] => 5312
+    [height] => 2988
+    [color] => #598cf3
+    [blur_hash] => L.E|cHWEV@ogOLofj?f7RpayofWC
+    [description] => 
+    [alt_description] => white and gray concrete buildings during daytime
+    [breadcrumbs] => Array
+        (
+        )
+
+    [urls] => Array
+        (
+            [raw] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0
+            [full] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=85
+            [regular] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+            [small] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=400
+            [thumb] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=200
+            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1617373743747-3bb331fd4e8d
+        )
+
+    [links] => Array
+        (
+            [self] => https://api.unsplash.com/photos/white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+            [html] => https://unsplash.com/photos/white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+            [download] => https://unsplash.com/photos/24W9b5WZuS4/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+            [download_location] => https://api.unsplash.com/photos/24W9b5WZuS4/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+        )
+
+    [likes] => 19
+    [liked_by_user] => 
+    [current_user_collections] => Array
+        (
+        )
+
+    [sponsorship] => 
+    [topic_submissions] => Array
+        (
+        )
+
+    [asset_type] => photo
+    [user] => Array
+        (
+            [id] => Xul2n4hPaOE
+            [updated_at] => 2024-10-31T09:04:54Z
+            [username] => mjawaid
+            [name] => Muhammad Jawaid Shamshad
+            [first_name] => Muhammad Jawaid
+            [last_name] => Shamshad
+            [twitter_username] => mjawaids
+            [portfolio_url] => https://medium.com/@jawaid
+            [bio] => 
+            [location] => Karachi, Pakistan
+            [links] => Array
+                (
+                    [self] => https://api.unsplash.com/users/mjawaid
+                    [html] => https://unsplash.com/@mjawaid
+                    [photos] => https://api.unsplash.com/users/mjawaid/photos
+                    [likes] => https://api.unsplash.com/users/mjawaid/likes
+                    [portfolio] => https://api.unsplash.com/users/mjawaid/portfolio
+                )
+
+            [profile_image] => Array
+                (
+                    [small] => https://images.unsplash.com/profile-fb-1544710072-6318d38c0003.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                    [medium] => https://images.unsplash.com/profile-fb-1544710072-6318d38c0003.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                    [large] => https://images.unsplash.com/profile-fb-1544710072-6318d38c0003.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                )
+
+            [instagram_username] => m.jawaids
+            [total_collections] => 0
+            [total_likes] => 0
+            [total_photos] => 5
+            [total_promoted_photos] => 0
+            [total_illustrations] => 0
+            [total_promoted_illustrations] => 0
+            [accepted_tos] => 1
+            [for_hire] => 1
+            [social] => Array
+                (
+                    [instagram_username] => m.jawaids
+                    [portfolio_url] => https://medium.com/@jawaid
+                    [twitter_username] => mjawaids
+                    [paypal_email] => 
+                )
+
+        )
+
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Adding image data: Array
+(
+    [url] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+    [photographer] => Muhammad Jawaid Shamshad
+    [unsplash_link] => https://unsplash.com/photos/white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Processing image: Array
+(
+    [id] => r1UmNq8rgcQ
+    [slug] => brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+    [alternative_slugs] => Array
+        (
+            [en] => brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+            [es] => edificio-de-hormigon-marron-bajo-nubes-blancas-durante-el-dia-r1UmNq8rgcQ
+            [ja] => 昼間の白い雲の下の茶色のコンクリートの建物-r1UmNq8rgcQ
+            [fr] => batiment-en-beton-brun-sous-des-nuages-blancs-pendant-la-journee-r1UmNq8rgcQ
+            [it] => edificio-in-cemento-marrone-sotto-nuvole-bianche-durante-il-giorno-r1UmNq8rgcQ
+            [ko] => 낮에는-흰-구름-아래-갈색-콘크리트-건물-r1UmNq8rgcQ
+            [de] => braunes-betongebaude-unter-weissen-wolken-tagsuber-r1UmNq8rgcQ
+            [pt] => edificio-de-concreto-marrom-sob-nuvens-brancas-durante-o-dia-r1UmNq8rgcQ
+        )
+
+    [created_at] => 2021-02-05T20:23:30Z
+    [updated_at] => 2025-06-10T09:36:55Z
+    [promoted_at] => 
+    [width] => 3456
+    [height] => 5184
+    [color] => #8ca68c
+    [blur_hash] => LEHU%cOs73oc4St6RPnO9xr?vMIV
+    [description] => Old buildings
+    [alt_description] => brown concrete building under white clouds during daytime
+    [breadcrumbs] => Array
+        (
+        )
+
+    [urls] => Array
+        (
+            [raw] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0
+            [full] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=85
+            [regular] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+            [small] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=400
+            [thumb] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=200
+            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1612556534321-fcc747ff3dea
+        )
+
+    [links] => Array
+        (
+            [self] => https://api.unsplash.com/photos/brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+            [html] => https://unsplash.com/photos/brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+            [download] => https://unsplash.com/photos/r1UmNq8rgcQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+            [download_location] => https://api.unsplash.com/photos/r1UmNq8rgcQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww
+        )
+
+    [likes] => 37
+    [liked_by_user] => 
+    [current_user_collections] => Array
+        (
+        )
+
+    [sponsorship] => 
+    [topic_submissions] => Array
+        (
+            [architecture-interior] => Array
+                (
+                    [status] => rejected
+                )
+
+            [film] => Array
+                (
+                    [status] => rejected
+                )
+
+            [color-theory] => Array
+                (
+                    [status] => rejected
+                )
+
+            [textures-patterns] => Array
+                (
+                    [status] => rejected
+                )
+
+            [street-photography] => Array
+                (
+                    [status] => rejected
+                )
+
+        )
+
+    [asset_type] => photo
+    [user] => Array
+        (
+            [id] => vxeAL-sIWfw
+            [updated_at] => 2024-10-11T08:08:57Z
+            [username] => thealmani
+            [name] => almani ماني
+            [first_name] => almani
+            [last_name] => ماني
+            [twitter_username] => 
+            [portfolio_url] => https://filtergrade.com/product/20-christmas-presets-lightroom-holiday-winter-instagram/
+            [bio] => A guy looking for neverland
+Support me ! Buy one preset from given link
+            [location] => 
+            [links] => Array
+                (
+                    [self] => https://api.unsplash.com/users/thealmani
+                    [html] => https://unsplash.com/@thealmani
+                    [photos] => https://api.unsplash.com/users/thealmani/photos
+                    [likes] => https://api.unsplash.com/users/thealmani/likes
+                    [portfolio] => https://api.unsplash.com/users/thealmani/portfolio
+                )
+
+            [profile_image] => Array
+                (
+                    [small] => https://images.unsplash.com/profile-1610624953240-a5860b03b0adimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                    [medium] => https://images.unsplash.com/profile-1610624953240-a5860b03b0adimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                    [large] => https://images.unsplash.com/profile-1610624953240-a5860b03b0adimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                )
+
+            [instagram_username] => thealmani
+            [total_collections] => 0
+            [total_likes] => 0
+            [total_photos] => 47
+            [total_promoted_photos] => 0
+            [total_illustrations] => 0
+            [total_promoted_illustrations] => 0
+            [accepted_tos] => 1
+            [for_hire] => 1
+            [social] => Array
+                (
+                    [instagram_username] => thealmani
+                    [portfolio_url] => https://filtergrade.com/product/20-christmas-presets-lightroom-holiday-winter-instagram/
+                    [twitter_username] => 
+                    [paypal_email] => 
+                )
+
+        )
+
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Adding image data: Array
+(
+    [url] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+    [photographer] => almani ماني
+    [unsplash_link] => https://unsplash.com/photos/brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Final images array: Array
+(
+    [0] => Array
+        (
+            [url] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+            [photographer] => Kashif Afridi
+            [unsplash_link] => https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+        )
+
+    [1] => Array
+        (
+            [url] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+            [photographer] => Hassan Anwer
+            [unsplash_link] => https://unsplash.com/photos/people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+        )
+
+    [2] => Array
+        (
+            [url] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+            [photographer] => Kashif Afridi
+            [unsplash_link] => https://unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+        )
+
+    [3] => Array
+        (
+            [url] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+            [photographer] => Muhammad Jawaid Shamshad
+            [unsplash_link] => https://unsplash.com/photos/white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+        )
+
+    [4] => Array
+        (
+            [url] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+            [photographer] => almani ماني
+            [unsplash_link] => https://unsplash.com/photos/brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+        )
+
+)
+
+[10-Jun-2025 12:57:19 Europe/Berlin] Sending response: Array
+(
+    [success] => 1
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [url] => https://images.unsplash.com/photo-1621307229540-a94299c37fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+                    [photographer] => Kashif Afridi
+                    [unsplash_link] => https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-tcsBmVeHbBU
+                )
+
+            [1] => Array
+                (
+                    [url] => https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+                    [photographer] => Hassan Anwer
+                    [unsplash_link] => https://unsplash.com/photos/people-walking-near-white-concrete-building-during-daytime-I_n4H25slzU
+                )
+
+            [2] => Array
+                (
+                    [url] => https://images.unsplash.com/photo-1611068661807-c850d6a24f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+                    [photographer] => Kashif Afridi
+                    [unsplash_link] => https://unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-nKPdh0MZaBU
+                )
+
+            [3] => Array
+                (
+                    [url] => https://images.unsplash.com/photo-1617373743747-3bb331fd4e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+                    [photographer] => Muhammad Jawaid Shamshad
+                    [unsplash_link] => https://unsplash.com/photos/white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4
+                )
+
+            [4] => Array
+                (
+                    [url] => https://images.unsplash.com/photo-1612556534321-fcc747ff3dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxrYXJhY2hpfGVufDB8fHx8MTc0OTU1MDA3Mnww&ixlib=rb-4.1.0&q=80&w=1080
+                    [photographer] => almani ماني
+                    [unsplash_link] => https://unsplash.com/photos/brown-concrete-building-under-white-clouds-during-daytime-r1UmNq8rgcQ
+                )
+
+        )
+
+    [response] => Here are some images for your search query:
+)
+
+[10-Jun-2025 12:57:28 Europe/Berlin] News API Request - URL: https://newsapi.org/v2/everything?q=karachi&language=en&sortBy=publishedAt&pageSize=5
+[10-Jun-2025 12:57:28 Europe/Berlin] News API Request - Query: karachi
+[10-Jun-2025 12:57:29 Europe/Berlin] News API Response - HTTP Code: 200
+[10-Jun-2025 12:57:29 Europe/Berlin] News API Response - Raw Response: {"status":"ok","totalResults":236,"articles":[{"source":{"id":"the-times-of-india","name":"The Times of India"},"author":"ET Online","title":"How China’s craze for Pakistani donkeys is crushing the cash-strapped country’s poor","description":"Pakistani donkey owners like Abdul Rasheed face hardship as donkey prices surge due to Chinese demand for ejiao, a traditional medicine made from donkey skin. This demand threatens the livelihoods of many who rely on donkeys for income in various sectors. Whi…","url":"https://economictimes.indiatimes.com/news/new-updates/how-chinas-craze-for-pakistani-donkeys-is-crushing-the-cash-strapped-countrys-poor/articleshow/121722462.cms","urlToImage":"https://img.etimg.com/thumb/msid-121722696,width-1200,height-630,imgsize-624868,overlay-economictimes/articleshow.jpg","publishedAt":"2025-06-09T07:47:03Z","content":"Abdul Rasheed is in trouble. Last week, his donkey named Tiger, his only source of income, died in an accident. Without a donkey cart, Rasheed has no way to earn money. But buying a new donkey is now… [+2697 chars]"},{"source":{"id":"al-jazeera-english","name":"Al Jazeera English"},"author":"Gurvinder Singh","title":"India-Pakistan conflict claims an unlikely victim: Himalayan pink salt","description":"The recent trade ban comes on the heels of an armed attack in Kashmir in which gunmen killed 26 people.","url":"https://www.aljazeera.com/economy/2025/6/9/india-pakistan-conflict-claims-an-unlikely-victim-himalayan-pink-salt","urlToImage":"https://www.aljazeera.com/wp-content/uploads/2025/06/IMG-20250605-WA00491-1749248312.jpg?resize=1200%2C630","publishedAt":"2025-06-09T03:57:25Z","content":"For the past three decades, Vipan Kumar has been importing Himalayan pink salt from Pakistan to sell in India.\r\nThe 50-year-old trader who is based in Amritsar in Punjab, the spiritual hub of Sikhs i… [+6994 chars]"},{"source":{"id":"the-times-of-india","name":"The Times of India"},"author":"RAJYASREE SEN","title":"Mein Kampf & Mysore 'Shree': Inside India's bizarre book bans and sweet name games","description":"An Austrian traveler in Kolkata was shocked to find Mein Kampf prominently displayed in a bookstore, highlighting India's complex relationship with tolerance. While readily available, even celebrated, books by despots contrast sharply with bans and restrictio…","url":"https://economictimes.indiatimes.com/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games/articleshow/121696707.cms","urlToImage":"https://img.etimg.com/thumb/width-1200,height-900,imgsize-29066,resizemode-75,msid-121696707/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games.jpg","publishedAt":"2025-06-07T17:30:00Z","content":"A few weeks back, while singing the virtues of Kolkata to a very well-travelled Austrian, I was greeted with an insight into how India remains a contradiction. While walking down Park Street, my comp… [+4121 chars]"},{"source":{"id":"the-times-of-india","name":"The Times of India"},"author":"PTI","title":"'Criminal betrayal of our soldiers': Cong slams Modi govt over 'failing' to isolate Pakistan","description":"The Congress party claims Modi government did not isolate Pakistan after the Pahalgam attack. They allege China is arming Pakistan with jets and missiles. International organizations like the World Bank and IMF are providing financial aid. Congress leaders qu…","url":"https://economictimes.indiatimes.com/news/politics-and-nation/criminal-betrayal-of-our-soldiers-cong-slams-modi-govt-over-failing-to-isolate-pak/articleshow/121695505.cms","urlToImage":"https://img.etimg.com/thumb/msid-121695454,width-1200,height-630,imgsize-1669778,overlay-economictimes/articleshow.jpg","publishedAt":"2025-06-07T13:43:34Z","content":"NEW DELHI: The Congress on Saturday alleged that the Modi government has failed to isolate Pakistan on the global stage after the Pahalgam terror attack, calling it a \"criminal betrayal\" of Indian so… [+2514 chars]"},{"source":{"id":null,"name":"Yahoo Entertainment"},"author":"Donald McRae","title":"‘I was locked in the bathroom sulking’: Temba Bavuma on his path from township to WTC final","description":"The South Africa captain talks about street cricket in Langa, adapting to new schools after a scholarship and why playing at Lord’s means so much","url":"https://sports.yahoo.com/article/locked-bathroom-sulking-temba-bavuma-070002172.html","urlToImage":"https://media.zenfs.com/en/the_guardian_765/b4a942ac778e36861a8a0eba811fb01a","publishedAt":"2025-06-07T07:00:02Z","content":"There was always some sort of allegiance with Lords when we were growing up in Langa, Temba Bavuma says of his childhood as a township boy living just outside Cape Town. Bavuma, the first black crick… [+10527 chars]"}]}
+[10-Jun-2025 12:57:29 Europe/Berlin] Decoded News Data: Array
+(
+    [status] => ok
+    [totalResults] => 236
+    [articles] => Array
+        (
+            [0] => Array
+                (
+                    [source] => Array
+                        (
+                            [id] => the-times-of-india
+                            [name] => The Times of India
+                        )
+
+                    [author] => ET Online
+                    [title] => How China’s craze for Pakistani donkeys is crushing the cash-strapped country’s poor
+                    [description] => Pakistani donkey owners like Abdul Rasheed face hardship as donkey prices surge due to Chinese demand for ejiao, a traditional medicine made from donkey skin. This demand threatens the livelihoods of many who rely on donkeys for income in various sectors. Whi…
+                    [url] => https://economictimes.indiatimes.com/news/new-updates/how-chinas-craze-for-pakistani-donkeys-is-crushing-the-cash-strapped-countrys-poor/articleshow/121722462.cms
+                    [urlToImage] => https://img.etimg.com/thumb/msid-121722696,width-1200,height-630,imgsize-624868,overlay-economictimes/articleshow.jpg
+                    [publishedAt] => 2025-06-09T07:47:03Z
+                    [content] => Abdul Rasheed is in trouble. Last week, his donkey named Tiger, his only source of income, died in an accident. Without a donkey cart, Rasheed has no way to earn money. But buying a new donkey is now… [+2697 chars]
+                )
+
+            [1] => Array
+                (
+                    [source] => Array
+                        (
+                            [id] => al-jazeera-english
+                            [name] => Al Jazeera English
+                        )
+
+                    [author] => Gurvinder Singh
+                    [title] => India-Pakistan conflict claims an unlikely victim: Himalayan pink salt
+                    [description] => The recent trade ban comes on the heels of an armed attack in Kashmir in which gunmen killed 26 people.
+                    [url] => https://www.aljazeera.com/economy/2025/6/9/india-pakistan-conflict-claims-an-unlikely-victim-himalayan-pink-salt
+                    [urlToImage] => https://www.aljazeera.com/wp-content/uploads/2025/06/IMG-20250605-WA00491-1749248312.jpg?resize=1200%2C630
+                    [publishedAt] => 2025-06-09T03:57:25Z
+                    [content] => For the past three decades, Vipan Kumar has been importing Himalayan pink salt from Pakistan to sell in India.
+The 50-year-old trader who is based in Amritsar in Punjab, the spiritual hub of Sikhs i… [+6994 chars]
+                )
+
+            [2] => Array
+                (
+                    [source] => Array
+                        (
+                            [id] => the-times-of-india
+                            [name] => The Times of India
+                        )
+
+                    [author] => RAJYASREE SEN
+                    [title] => Mein Kampf & Mysore 'Shree': Inside India's bizarre book bans and sweet name games
+                    [description] => An Austrian traveler in Kolkata was shocked to find Mein Kampf prominently displayed in a bookstore, highlighting India's complex relationship with tolerance. While readily available, even celebrated, books by despots contrast sharply with bans and restrictio…
+                    [url] => https://economictimes.indiatimes.com/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games/articleshow/121696707.cms
+                    [urlToImage] => https://img.etimg.com/thumb/width-1200,height-900,imgsize-29066,resizemode-75,msid-121696707/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games.jpg
+                    [publishedAt] => 2025-06-07T17:30:00Z
+                    [content] => A few weeks back, while singing the virtues of Kolkata to a very well-travelled Austrian, I was greeted with an insight into how India remains a contradiction. While walking down Park Street, my comp… [+4121 chars]
+                )
+
+            [3] => Array
+                (
+                    [source] => Array
+                        (
+                            [id] => the-times-of-india
+                            [name] => The Times of India
+                        )
+
+                    [author] => PTI
+                    [title] => 'Criminal betrayal of our soldiers': Cong slams Modi govt over 'failing' to isolate Pakistan
+                    [description] => The Congress party claims Modi government did not isolate Pakistan after the Pahalgam attack. They allege China is arming Pakistan with jets and missiles. International organizations like the World Bank and IMF are providing financial aid. Congress leaders qu…
+                    [url] => https://economictimes.indiatimes.com/news/politics-and-nation/criminal-betrayal-of-our-soldiers-cong-slams-modi-govt-over-failing-to-isolate-pak/articleshow/121695505.cms
+                    [urlToImage] => https://img.etimg.com/thumb/msid-121695454,width-1200,height-630,imgsize-1669778,overlay-economictimes/articleshow.jpg
+                    [publishedAt] => 2025-06-07T13:43:34Z
+                    [content] => NEW DELHI: The Congress on Saturday alleged that the Modi government has failed to isolate Pakistan on the global stage after the Pahalgam terror attack, calling it a "criminal betrayal" of Indian so… [+2514 chars]
+                )
+
+            [4] => Array
+                (
+                    [source] => Array
+                        (
+                            [id] => 
+                            [name] => Yahoo Entertainment
+                        )
+
+                    [author] => Donald McRae
+                    [title] => ‘I was locked in the bathroom sulking’: Temba Bavuma on his path from township to WTC final
+                    [description] => The South Africa captain talks about street cricket in Langa, adapting to new schools after a scholarship and why playing at Lord’s means so much
+                    [url] => https://sports.yahoo.com/article/locked-bathroom-sulking-temba-bavuma-070002172.html
+                    [urlToImage] => https://media.zenfs.com/en/the_guardian_765/b4a942ac778e36861a8a0eba811fb01a
+                    [publishedAt] => 2025-06-07T07:00:02Z
+                    [content] => There was always some sort of allegiance with Lords when we were growing up in Langa, Temba Bavuma says of his childhood as a township boy living just outside Cape Town. Bavuma, the first black crick… [+10527 chars]
+                )
+
+        )
+
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Processing article: Array
+(
+    [source] => Array
+        (
+            [id] => the-times-of-india
+            [name] => The Times of India
+        )
+
+    [author] => ET Online
+    [title] => How China’s craze for Pakistani donkeys is crushing the cash-strapped country’s poor
+    [description] => Pakistani donkey owners like Abdul Rasheed face hardship as donkey prices surge due to Chinese demand for ejiao, a traditional medicine made from donkey skin. This demand threatens the livelihoods of many who rely on donkeys for income in various sectors. Whi…
+    [url] => https://economictimes.indiatimes.com/news/new-updates/how-chinas-craze-for-pakistani-donkeys-is-crushing-the-cash-strapped-countrys-poor/articleshow/121722462.cms
+    [urlToImage] => https://img.etimg.com/thumb/msid-121722696,width-1200,height-630,imgsize-624868,overlay-economictimes/articleshow.jpg
+    [publishedAt] => 2025-06-09T07:47:03Z
+    [content] => Abdul Rasheed is in trouble. Last week, his donkey named Tiger, his only source of income, died in an accident. Without a donkey cart, Rasheed has no way to earn money. But buying a new donkey is now… [+2697 chars]
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Adding article data: Array
+(
+    [title] => How China’s craze for Pakistani donkeys is crushing the cash-strapped country’s poor
+    [description] => Pakistani donkey owners like Abdul Rasheed face hardship as donkey prices surge due to Chinese demand for ejiao, a traditional medicine made from donkey skin. This demand threatens the livelihoods of many who rely on donkeys for income in various sectors. Whi…
+    [url] => https://economictimes.indiatimes.com/news/new-updates/how-chinas-craze-for-pakistani-donkeys-is-crushing-the-cash-strapped-countrys-poor/articleshow/121722462.cms
+    [source] => The Times of India
+    [publishedAt] => 2025-06-09T07:47:03Z
+    [imageUrl] => https://img.etimg.com/thumb/msid-121722696,width-1200,height-630,imgsize-624868,overlay-economictimes/articleshow.jpg
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Processing article: Array
+(
+    [source] => Array
+        (
+            [id] => al-jazeera-english
+            [name] => Al Jazeera English
+        )
+
+    [author] => Gurvinder Singh
+    [title] => India-Pakistan conflict claims an unlikely victim: Himalayan pink salt
+    [description] => The recent trade ban comes on the heels of an armed attack in Kashmir in which gunmen killed 26 people.
+    [url] => https://www.aljazeera.com/economy/2025/6/9/india-pakistan-conflict-claims-an-unlikely-victim-himalayan-pink-salt
+    [urlToImage] => https://www.aljazeera.com/wp-content/uploads/2025/06/IMG-20250605-WA00491-1749248312.jpg?resize=1200%2C630
+    [publishedAt] => 2025-06-09T03:57:25Z
+    [content] => For the past three decades, Vipan Kumar has been importing Himalayan pink salt from Pakistan to sell in India.
+The 50-year-old trader who is based in Amritsar in Punjab, the spiritual hub of Sikhs i… [+6994 chars]
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Adding article data: Array
+(
+    [title] => India-Pakistan conflict claims an unlikely victim: Himalayan pink salt
+    [description] => The recent trade ban comes on the heels of an armed attack in Kashmir in which gunmen killed 26 people.
+    [url] => https://www.aljazeera.com/economy/2025/6/9/india-pakistan-conflict-claims-an-unlikely-victim-himalayan-pink-salt
+    [source] => Al Jazeera English
+    [publishedAt] => 2025-06-09T03:57:25Z
+    [imageUrl] => https://www.aljazeera.com/wp-content/uploads/2025/06/IMG-20250605-WA00491-1749248312.jpg?resize=1200%2C630
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Processing article: Array
+(
+    [source] => Array
+        (
+            [id] => the-times-of-india
+            [name] => The Times of India
+        )
+
+    [author] => RAJYASREE SEN
+    [title] => Mein Kampf & Mysore 'Shree': Inside India's bizarre book bans and sweet name games
+    [description] => An Austrian traveler in Kolkata was shocked to find Mein Kampf prominently displayed in a bookstore, highlighting India's complex relationship with tolerance. While readily available, even celebrated, books by despots contrast sharply with bans and restrictio…
+    [url] => https://economictimes.indiatimes.com/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games/articleshow/121696707.cms
+    [urlToImage] => https://img.etimg.com/thumb/width-1200,height-900,imgsize-29066,resizemode-75,msid-121696707/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games.jpg
+    [publishedAt] => 2025-06-07T17:30:00Z
+    [content] => A few weeks back, while singing the virtues of Kolkata to a very well-travelled Austrian, I was greeted with an insight into how India remains a contradiction. While walking down Park Street, my comp… [+4121 chars]
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Adding article data: Array
+(
+    [title] => Mein Kampf & Mysore 'Shree': Inside India's bizarre book bans and sweet name games
+    [description] => An Austrian traveler in Kolkata was shocked to find Mein Kampf prominently displayed in a bookstore, highlighting India's complex relationship with tolerance. While readily available, even celebrated, books by despots contrast sharply with bans and restrictio…
+    [url] => https://economictimes.indiatimes.com/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games/articleshow/121696707.cms
+    [source] => The Times of India
+    [publishedAt] => 2025-06-07T17:30:00Z
+    [imageUrl] => https://img.etimg.com/thumb/width-1200,height-900,imgsize-29066,resizemode-75,msid-121696707/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games.jpg
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Processing article: Array
+(
+    [source] => Array
+        (
+            [id] => the-times-of-india
+            [name] => The Times of India
+        )
+
+    [author] => PTI
+    [title] => 'Criminal betrayal of our soldiers': Cong slams Modi govt over 'failing' to isolate Pakistan
+    [description] => The Congress party claims Modi government did not isolate Pakistan after the Pahalgam attack. They allege China is arming Pakistan with jets and missiles. International organizations like the World Bank and IMF are providing financial aid. Congress leaders qu…
+    [url] => https://economictimes.indiatimes.com/news/politics-and-nation/criminal-betrayal-of-our-soldiers-cong-slams-modi-govt-over-failing-to-isolate-pak/articleshow/121695505.cms
+    [urlToImage] => https://img.etimg.com/thumb/msid-121695454,width-1200,height-630,imgsize-1669778,overlay-economictimes/articleshow.jpg
+    [publishedAt] => 2025-06-07T13:43:34Z
+    [content] => NEW DELHI: The Congress on Saturday alleged that the Modi government has failed to isolate Pakistan on the global stage after the Pahalgam terror attack, calling it a "criminal betrayal" of Indian so… [+2514 chars]
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Adding article data: Array
+(
+    [title] => 'Criminal betrayal of our soldiers': Cong slams Modi govt over 'failing' to isolate Pakistan
+    [description] => The Congress party claims Modi government did not isolate Pakistan after the Pahalgam attack. They allege China is arming Pakistan with jets and missiles. International organizations like the World Bank and IMF are providing financial aid. Congress leaders qu…
+    [url] => https://economictimes.indiatimes.com/news/politics-and-nation/criminal-betrayal-of-our-soldiers-cong-slams-modi-govt-over-failing-to-isolate-pak/articleshow/121695505.cms
+    [source] => The Times of India
+    [publishedAt] => 2025-06-07T13:43:34Z
+    [imageUrl] => https://img.etimg.com/thumb/msid-121695454,width-1200,height-630,imgsize-1669778,overlay-economictimes/articleshow.jpg
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Processing article: Array
+(
+    [source] => Array
+        (
+            [id] => 
+            [name] => Yahoo Entertainment
+        )
+
+    [author] => Donald McRae
+    [title] => ‘I was locked in the bathroom sulking’: Temba Bavuma on his path from township to WTC final
+    [description] => The South Africa captain talks about street cricket in Langa, adapting to new schools after a scholarship and why playing at Lord’s means so much
+    [url] => https://sports.yahoo.com/article/locked-bathroom-sulking-temba-bavuma-070002172.html
+    [urlToImage] => https://media.zenfs.com/en/the_guardian_765/b4a942ac778e36861a8a0eba811fb01a
+    [publishedAt] => 2025-06-07T07:00:02Z
+    [content] => There was always some sort of allegiance with Lords when we were growing up in Langa, Temba Bavuma says of his childhood as a township boy living just outside Cape Town. Bavuma, the first black crick… [+10527 chars]
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Adding article data: Array
+(
+    [title] => ‘I was locked in the bathroom sulking’: Temba Bavuma on his path from township to WTC final
+    [description] => The South Africa captain talks about street cricket in Langa, adapting to new schools after a scholarship and why playing at Lord’s means so much
+    [url] => https://sports.yahoo.com/article/locked-bathroom-sulking-temba-bavuma-070002172.html
+    [source] => Yahoo Entertainment
+    [publishedAt] => 2025-06-07T07:00:02Z
+    [imageUrl] => https://media.zenfs.com/en/the_guardian_765/b4a942ac778e36861a8a0eba811fb01a
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Final articles array: Array
+(
+    [0] => Array
+        (
+            [title] => How China’s craze for Pakistani donkeys is crushing the cash-strapped country’s poor
+            [description] => Pakistani donkey owners like Abdul Rasheed face hardship as donkey prices surge due to Chinese demand for ejiao, a traditional medicine made from donkey skin. This demand threatens the livelihoods of many who rely on donkeys for income in various sectors. Whi…
+            [url] => https://economictimes.indiatimes.com/news/new-updates/how-chinas-craze-for-pakistani-donkeys-is-crushing-the-cash-strapped-countrys-poor/articleshow/121722462.cms
+            [source] => The Times of India
+            [publishedAt] => 2025-06-09T07:47:03Z
+            [imageUrl] => https://img.etimg.com/thumb/msid-121722696,width-1200,height-630,imgsize-624868,overlay-economictimes/articleshow.jpg
+        )
+
+    [1] => Array
+        (
+            [title] => India-Pakistan conflict claims an unlikely victim: Himalayan pink salt
+            [description] => The recent trade ban comes on the heels of an armed attack in Kashmir in which gunmen killed 26 people.
+            [url] => https://www.aljazeera.com/economy/2025/6/9/india-pakistan-conflict-claims-an-unlikely-victim-himalayan-pink-salt
+            [source] => Al Jazeera English
+            [publishedAt] => 2025-06-09T03:57:25Z
+            [imageUrl] => https://www.aljazeera.com/wp-content/uploads/2025/06/IMG-20250605-WA00491-1749248312.jpg?resize=1200%2C630
+        )
+
+    [2] => Array
+        (
+            [title] => Mein Kampf & Mysore 'Shree': Inside India's bizarre book bans and sweet name games
+            [description] => An Austrian traveler in Kolkata was shocked to find Mein Kampf prominently displayed in a bookstore, highlighting India's complex relationship with tolerance. While readily available, even celebrated, books by despots contrast sharply with bans and restrictio…
+            [url] => https://economictimes.indiatimes.com/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games/articleshow/121696707.cms
+            [source] => The Times of India
+            [publishedAt] => 2025-06-07T17:30:00Z
+            [imageUrl] => https://img.etimg.com/thumb/width-1200,height-900,imgsize-29066,resizemode-75,msid-121696707/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games.jpg
+        )
+
+    [3] => Array
+        (
+            [title] => 'Criminal betrayal of our soldiers': Cong slams Modi govt over 'failing' to isolate Pakistan
+            [description] => The Congress party claims Modi government did not isolate Pakistan after the Pahalgam attack. They allege China is arming Pakistan with jets and missiles. International organizations like the World Bank and IMF are providing financial aid. Congress leaders qu…
+            [url] => https://economictimes.indiatimes.com/news/politics-and-nation/criminal-betrayal-of-our-soldiers-cong-slams-modi-govt-over-failing-to-isolate-pak/articleshow/121695505.cms
+            [source] => The Times of India
+            [publishedAt] => 2025-06-07T13:43:34Z
+            [imageUrl] => https://img.etimg.com/thumb/msid-121695454,width-1200,height-630,imgsize-1669778,overlay-economictimes/articleshow.jpg
+        )
+
+    [4] => Array
+        (
+            [title] => ‘I was locked in the bathroom sulking’: Temba Bavuma on his path from township to WTC final
+            [description] => The South Africa captain talks about street cricket in Langa, adapting to new schools after a scholarship and why playing at Lord’s means so much
+            [url] => https://sports.yahoo.com/article/locked-bathroom-sulking-temba-bavuma-070002172.html
+            [source] => Yahoo Entertainment
+            [publishedAt] => 2025-06-07T07:00:02Z
+            [imageUrl] => https://media.zenfs.com/en/the_guardian_765/b4a942ac778e36861a8a0eba811fb01a
+        )
+
+)
+
+[10-Jun-2025 12:57:29 Europe/Berlin] Sending response: Array
+(
+    [success] => 1
+    [articles] => Array
+        (
+            [0] => Array
+                (
+                    [title] => How China’s craze for Pakistani donkeys is crushing the cash-strapped country’s poor
+                    [description] => Pakistani donkey owners like Abdul Rasheed face hardship as donkey prices surge due to Chinese demand for ejiao, a traditional medicine made from donkey skin. This demand threatens the livelihoods of many who rely on donkeys for income in various sectors. Whi…
+                    [url] => https://economictimes.indiatimes.com/news/new-updates/how-chinas-craze-for-pakistani-donkeys-is-crushing-the-cash-strapped-countrys-poor/articleshow/121722462.cms
+                    [source] => The Times of India
+                    [publishedAt] => 2025-06-09T07:47:03Z
+                    [imageUrl] => https://img.etimg.com/thumb/msid-121722696,width-1200,height-630,imgsize-624868,overlay-economictimes/articleshow.jpg
+                )
+
+            [1] => Array
+                (
+                    [title] => India-Pakistan conflict claims an unlikely victim: Himalayan pink salt
+                    [description] => The recent trade ban comes on the heels of an armed attack in Kashmir in which gunmen killed 26 people.
+                    [url] => https://www.aljazeera.com/economy/2025/6/9/india-pakistan-conflict-claims-an-unlikely-victim-himalayan-pink-salt
+                    [source] => Al Jazeera English
+                    [publishedAt] => 2025-06-09T03:57:25Z
+                    [imageUrl] => https://www.aljazeera.com/wp-content/uploads/2025/06/IMG-20250605-WA00491-1749248312.jpg?resize=1200%2C630
+                )
+
+            [2] => Array
+                (
+                    [title] => Mein Kampf & Mysore 'Shree': Inside India's bizarre book bans and sweet name games
+                    [description] => An Austrian traveler in Kolkata was shocked to find Mein Kampf prominently displayed in a bookstore, highlighting India's complex relationship with tolerance. While readily available, even celebrated, books by despots contrast sharply with bans and restrictio…
+                    [url] => https://economictimes.indiatimes.com/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games/articleshow/121696707.cms
+                    [source] => The Times of India
+                    [publishedAt] => 2025-06-07T17:30:00Z
+                    [imageUrl] => https://img.etimg.com/thumb/width-1200,height-900,imgsize-29066,resizemode-75,msid-121696707/opinion/et-commentary/mein-kampf-mysore-shree-inside-indias-bizarre-book-bans-and-sweet-name-games.jpg
+                )
+
+            [3] => Array
+                (
+                    [title] => 'Criminal betrayal of our soldiers': Cong slams Modi govt over 'failing' to isolate Pakistan
+                    [description] => The Congress party claims Modi government did not isolate Pakistan after the Pahalgam attack. They allege China is arming Pakistan with jets and missiles. International organizations like the World Bank and IMF are providing financial aid. Congress leaders qu…
+                    [url] => https://economictimes.indiatimes.com/news/politics-and-nation/criminal-betrayal-of-our-soldiers-cong-slams-modi-govt-over-failing-to-isolate-pak/articleshow/121695505.cms
+                    [source] => The Times of India
+                    [publishedAt] => 2025-06-07T13:43:34Z
+                    [imageUrl] => https://img.etimg.com/thumb/msid-121695454,width-1200,height-630,imgsize-1669778,overlay-economictimes/articleshow.jpg
+                )
+
+            [4] => Array
+                (
+                    [title] => ‘I was locked in the bathroom sulking’: Temba Bavuma on his path from township to WTC final
+                    [description] => The South Africa captain talks about street cricket in Langa, adapting to new schools after a scholarship and why playing at Lord’s means so much
+                    [url] => https://sports.yahoo.com/article/locked-bathroom-sulking-temba-bavuma-070002172.html
+                    [source] => Yahoo Entertainment
+                    [publishedAt] => 2025-06-07T07:00:02Z
+                    [imageUrl] => https://media.zenfs.com/en/the_guardian_765/b4a942ac778e36861a8a0eba811fb01a
+                )
+
+        )
+
+    [response] => Here are the latest news articles for your search query:
+)
+

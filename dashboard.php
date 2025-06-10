@@ -111,7 +111,7 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             overflow: hidden;
             color: var(--text-primary);
             display: flex;
-            position: relative; /* Add position relative */
+            position: relative;
         }
 
         /* Sidebar Styles */
@@ -122,15 +122,56 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             background-color: var(--sidebar-color);
             border-right: 1px solid var(--border-color);
             overflow-y: auto;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            transition: all 0.3s ease;
             display: flex;
             flex-direction: column;
             padding: 1rem 0;
             box-shadow: 1px 0 5px rgba(0,0,0,0.05);
-            position: fixed; /* Make sidebar fixed */
+            position: fixed;
             left: 0;
             top: 0;
             z-index: 1000;
+        }
+
+        /* Mobile menu button */
+        .mobile-menu-btn {
+            display: none;
+            position: fixed;
+            top: 1rem;
+            left: 1rem;
+            z-index: 1001;
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 0.5rem;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        /* Responsive styles */
+        @media (max-width: 768px) {
+            .mobile-menu-btn {
+                display: block;
+            }
+
+            .sidebar {
+                transform: translateX(-100%);
+                width: 100%;
+                max-width: 300px;
+            }
+
+            .sidebar.active {
+                transform: translateX(0);
+            }
+
+            body.sidebar-active {
+                overflow: hidden;
+            }
+
+            .main-content {
+                margin-left: 0 !important;
+                width: 100% !important;
+            }
         }
 
         .sidebar-header {
@@ -140,6 +181,8 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             display: flex;
             justify-content: center;
             align-items: center;
+            flex-wrap: wrap;
+            position: relative;
         }
 
         .logo-container {
@@ -148,6 +191,9 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             justify-content: center;
             padding: 0.5rem;
             transition: transform 0.3s ease;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            width: 100%;
         }
 
         .logo-container:hover {
@@ -163,22 +209,59 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
         .logo-text {
             font-size: 1.8rem;
             font-weight: 600;
-            color: #202123; /* ChatGPT dark color */
+            color: #202123;
             letter-spacing: -0.5px;
             font-family: 'Google Sans', 'Roboto', sans-serif;
         }
 
-        @media (max-width: 768px) {
+        /* Responsive styles for header */
+        @media (max-width: 1024px) {
+            .logo-text {
+                font-size: 1.6rem;
+            }
             .logo-icon {
-                width: 40px;
-                height: 40px;
+                width: 42px;
+                height: 42px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .sidebar-header {
+                padding: 1rem;
+            }
+            .logo-text {
+                font-size: 1.4rem;
+            }
+            .logo-icon {
+                width: 38px;
+                height: 38px;
             }
         }
 
         @media (max-width: 480px) {
+            .sidebar-header {
+                padding: 0.75rem;
+            }
+            .logo-text {
+                font-size: 1.2rem;
+            }
             .logo-icon {
-                width: 35px;
-                height: 35px;
+                width: 32px;
+                height: 32px;
+            }
+        }
+
+        @media (max-width: 360px) {
+            .logo-container {
+                flex-direction: column;
+                text-align: center;
+            }
+            .logo-text {
+                font-size: 1.1rem;
+            }
+            .logo-icon {
+                width: 30px;
+                height: 30px;
             }
         }
 
@@ -1098,6 +1181,11 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
     </style>
 </head>
 <body>
+    <!-- Mobile Menu Button -->
+    <button class="mobile-menu-btn" id="mobileMenuBtn">
+        <i class="fas fa-bars"></i>
+    </button>
+
     <!-- Sidebar Toggle Button -->
     <button class="sidebar-toggle" id="sidebarToggle">
         <i class="fas fa-bars"></i>
@@ -1107,7 +1195,7 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
     <div class="overlay" id="overlay"></div>
 
     <!-- Sidebar -->
-    <div class="sidebar">
+    <div class="sidebar" id="sidebar">
         <div class="sidebar-header">
             <div class="logo-container">
                 <img src="./images/logo.png" alt="ChatGPT Logo" class="logo-icon">
@@ -1815,6 +1903,35 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             }
         `;
         document.head.appendChild(style);
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+            const sidebar = document.getElementById('sidebar');
+            const body = document.body;
+
+            mobileMenuBtn.addEventListener('click', function() {
+                sidebar.classList.toggle('active');
+                body.classList.toggle('sidebar-active');
+            });
+
+            // Close sidebar when clicking outside on mobile
+            document.addEventListener('click', function(event) {
+                if (window.innerWidth <= 768) {
+                    if (!sidebar.contains(event.target) && !mobileMenuBtn.contains(event.target)) {
+                        sidebar.classList.remove('active');
+                        body.classList.remove('sidebar-active');
+                    }
+                }
+            });
+
+            // Handle window resize
+            window.addEventListener('resize', function() {
+                if (window.innerWidth > 768) {
+                    sidebar.classList.remove('active');
+                    body.classList.remove('sidebar-active');
+                }
+            });
+        });
     </script>
 </body>
 </html> 
