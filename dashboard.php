@@ -1248,11 +1248,15 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
                     <!-- Add Model Selection Dropdown -->
                     <div class="model-selector me-3">
                         <select class="form-select" id="modelSelector">
-                            <option value="gemini">Gemini AI</option>
-                            <option value="openai">OpenAI GPT</option>
-                            <option value="weather">Weather</option>
-                            <option value="unsplash">Unsplash Images</option>
-                            <option value="news">News</option>
+                            <?php if ($user['plan_name'] === 'Free'): ?>
+                                <option value="gemini">Gemini AI</option>
+                            <?php else: ?>
+                                <option value="gemini">Gemini AI</option>
+                                <option value="openai">OpenAI GPT</option>
+                                <option value="weather">Weather</option>
+                                <option value="unsplash">Unsplash Images</option>
+                                <option value="news">News</option>
+                            <?php endif; ?>
                         </select>
                     </div>
                     <div class="user-welcome">
