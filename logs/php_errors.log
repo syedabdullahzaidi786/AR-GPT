@@ -14357,3 +14357,1720 @@ The 50-year-old trader who is based in Amritsar in Punjab, the spiritual hub of 
     [response] => Here are the latest news articles for your search query:
 )
 
+[10-Jun-2025 15:58:14 Europe/Berlin] Unsplash API Request - URL: https://api.unsplash.com/search/photos?query=islamabad&per_page=5
+[10-Jun-2025 15:58:14 Europe/Berlin] Unsplash API Request - Query: islamabad
+[10-Jun-2025 15:58:15 Europe/Berlin] Unsplash API Response - HTTP Code: 200
+[10-Jun-2025 15:58:15 Europe/Berlin] Unsplash API Response - Raw Response: {"total":661,"total_pages":133,"results":[{"id":"1x3qakkpzZU","slug":"white-and-brown-concrete-building-1x3qakkpzZU","alternative_slugs":{"en":"white-and-brown-concrete-building-1x3qakkpzZU","es":"edificio-de-hormigon-blanco-y-marron-1x3qakkpzZU","ja":"白と茶色のコンクリートの建物-1x3qakkpzZU","fr":"batiment-en-beton-blanc-et-brun-1x3qakkpzZU","it":"edificio-in-cemento-bianco-e-marrone-1x3qakkpzZU","ko":"흰색과-갈색-콘크리트-건물-1x3qakkpzZU","de":"gebaude-aus-weissem-und-braunem-beton-1x3qakkpzZU","pt":"edificio-de-concreto-branco-e-marrom-1x3qakkpzZU"},"created_at":"2020-12-15T08:30:01Z","updated_at":"2025-06-10T09:05:08Z","promoted_at":null,"width":5184,"height":3456,"color":"#738ca6","blur_hash":"LYCQu%x_V@t7%%xvt7WBM_adofWB","description":"Faisal Majid ","alt_description":"white and brown concrete building","breadcrumbs":[],"urls":{"raw":"https://images.unsplash.com/photo-1608020932658-d0e19a69580b?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0","full":"https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy\u0026cs=srgb\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=85","regular":"https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=1080","small":"https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=400","thumb":"https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=200","small_s3":"https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1608020932658-d0e19a69580b"},"links":{"self":"https://api.unsplash.com/photos/white-and-brown-concrete-building-1x3qakkpzZU","html":"https://unsplash.com/photos/white-and-brown-concrete-building-1x3qakkpzZU","download":"https://unsplash.com/photos/1x3qakkpzZU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA","download_location":"https://api.unsplash.com/photos/1x3qakkpzZU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA"},"likes":39,"liked_by_user":false,"current_user_collections":[],"sponsorship":null,"topic_submissions":{},"asset_type":"photo","user":{"id":"rlFX60_Gmqk","updated_at":"2025-05-21T01:24:24Z","username":"qsnagori","name":"Qasim Nagori","first_name":"Qasim","last_name":"Nagori","twitter_username":"qsnagori","portfolio_url":null,"bio":null,"location":"Karachi, Pakistan","links":{"self":"https://api.unsplash.com/users/qsnagori","html":"https://unsplash.com/@qsnagori","photos":"https://api.unsplash.com/users/qsnagori/photos","likes":"https://api.unsplash.com/users/qsnagori/likes","portfolio":"https://api.unsplash.com/users/qsnagori/portfolio"},"profile_image":{"small":"https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=32\u0026h=32","medium":"https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=64\u0026h=64","large":"https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=128\u0026h=128"},"instagram_username":"qsnagori","total_collections":0,"total_likes":1,"total_photos":17,"total_promoted_photos":0,"total_illustrations":0,"total_promoted_illustrations":0,"accepted_tos":true,"for_hire":false,"social":{"instagram_username":"qsnagori","portfolio_url":null,"twitter_username":"qsnagori","paypal_email":null}}},{"id":"QEcvxkXWp0c","slug":"a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c","alternative_slugs":{"en":"a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c","es":"un-edificio-muy-alto-sentado-junto-a-un-cuerpo-de-agua-QEcvxkXWp0c","ja":"水域の隣に座っている非常に高い建物-QEcvxkXWp0c","fr":"un-tres-grand-batiment-assis-a-cote-dun-plan-deau-QEcvxkXWp0c","it":"un-edificio-molto-alto-seduto-accanto-a-uno-specchio-dacqua-QEcvxkXWp0c","ko":"수역-옆에-앉아있는-매우-높은-건물-QEcvxkXWp0c","de":"ein-sehr-hohes-gebaude-neben-einem-gewasser-QEcvxkXWp0c","pt":"um-edificio-muito-alto-sentado-ao-lado-de-um-corpo-de-agua-QEcvxkXWp0c"},"created_at":"2021-10-23T19:25:57Z","updated_at":"2025-06-10T07:39:22Z","promoted_at":null,"width":4422,"height":5898,"color":"#0c2626","blur_hash":"L484oP-p4ojEPXt7?Hoe57WX%1Rk","description":"The beautiful Shah Faisal Mosque illuminating under the night sky- Islamabad,Pakistan ","alt_description":"a very tall building sitting next to a body of water","breadcrumbs":[],"urls":{"raw":"https://images.unsplash.com/photo-1635016288720-c52507b9a717?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0","full":"https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy\u0026cs=srgb\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=85","regular":"https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=1080","small":"https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=400","thumb":"https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=200","small_s3":"https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1635016288720-c52507b9a717"},"links":{"self":"https://api.unsplash.com/photos/a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c","html":"https://unsplash.com/photos/a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c","download":"https://unsplash.com/photos/QEcvxkXWp0c/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA","download_location":"https://api.unsplash.com/photos/QEcvxkXWp0c/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA"},"likes":87,"liked_by_user":false,"current_user_collections":[],"sponsorship":null,"topic_submissions":{"ugc":{"status":"rejected"},"blue":{"status":"rejected"},"spirituality":{"status":"approved","approved_on":"2023-05-30T15:46:37Z"},"architecture-interior":{"status":"approved","approved_on":"2023-05-30T12:20:04Z"},"travel":{"status":"approved","approved_on":"2023-05-30T12:02:13Z"},"wallpapers":{"status":"rejected"}},"asset_type":"photo","user":{"id":"2raQoTJ7Bi8","updated_at":"2025-06-04T01:23:59Z","username":"wizbaloch","name":"Muhammad Irfan Baloch","first_name":"Muhammad Irfan","last_name":"Baloch","twitter_username":"wizbaloch_","portfolio_url":"https://wizbaloch.online/","bio":"A photographer | storyteller, passionate about photography and the outdoors, based in Balochistan.","location":"Kharan,Balochistan","links":{"self":"https://api.unsplash.com/users/wizbaloch","html":"https://unsplash.com/@wizbaloch","photos":"https://api.unsplash.com/users/wizbaloch/photos","likes":"https://api.unsplash.com/users/wizbaloch/likes","portfolio":"https://api.unsplash.com/users/wizbaloch/portfolio"},"profile_image":{"small":"https://images.unsplash.com/profile-1732542206125-99b3b9c6966fimage?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=32\u0026h=32","medium":"https://images.unsplash.com/profile-1732542206125-99b3b9c6966fimage?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=64\u0026h=64","large":"https://images.unsplash.com/profile-1732542206125-99b3b9c6966fimage?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=128\u0026h=128"},"instagram_username":"wizbaloch","total_collections":4,"total_likes":47,"total_photos":44,"total_promoted_photos":0,"total_illustrations":0,"total_promoted_illustrations":0,"accepted_tos":true,"for_hire":true,"social":{"instagram_username":"wizbaloch","portfolio_url":"https://wizbaloch.online/","twitter_username":"wizbaloch_","paypal_email":null}}},{"id":"_YkEkI8tWrQ","slug":"white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ","alternative_slugs":{"en":"white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ","es":"edificio-de-hormigon-blanco-y-marron-bajo-el-cielo-azul-durante-el-dia-_YkEkI8tWrQ","ja":"昼間の青空に映える白と茶色のコンクリートの建物-_YkEkI8tWrQ","fr":"batiment-en-beton-blanc-et-brun-sous-le-ciel-bleu-pendant-la-journee-_YkEkI8tWrQ","it":"edificio-in-cemento-bianco-e-marrone-sotto-il-cielo-blu-durante-il-giorno-_YkEkI8tWrQ","ko":"낮에는-푸른-하늘-아래-흰색과-갈색-콘크리트-건물-_YkEkI8tWrQ","de":"weiss-braunes-betongebaude-unter-blauem-himmel-tagsuber-_YkEkI8tWrQ","pt":"edificio-de-concreto-branco-e-marrom-sob-o-ceu-azul-durante-o-dia-_YkEkI8tWrQ"},"created_at":"2020-11-19T14:24:08Z","updated_at":"2025-06-10T06:02:14Z","promoted_at":null,"width":3886,"height":2971,"color":"#0ca6c0","blur_hash":"LS87^7TJRPaeG^ozt7ozvLayoLax","description":"Faisal Mosque in Islamabad, Pakistan","alt_description":"white and brown concrete building under blue sky during daytime","breadcrumbs":[],"urls":{"raw":"https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0","full":"https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy\u0026cs=srgb\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=85","regular":"https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=1080","small":"https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=400","thumb":"https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=200","small_s3":"https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1605795733251-a0b6c96d9dea"},"links":{"self":"https://api.unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ","html":"https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ","download":"https://unsplash.com/photos/_YkEkI8tWrQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA","download_location":"https://api.unsplash.com/photos/_YkEkI8tWrQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA"},"likes":35,"liked_by_user":false,"current_user_collections":[],"sponsorship":null,"topic_submissions":{},"asset_type":"photo","user":{"id":"EXyEc78AXEw","updated_at":"2024-12-18T01:17:52Z","username":"blarkoid","name":"Ali Muhammad","first_name":"Ali","last_name":"Muhammad","twitter_username":null,"portfolio_url":null,"bio":null,"location":null,"links":{"self":"https://api.unsplash.com/users/blarkoid","html":"https://unsplash.com/@blarkoid","photos":"https://api.unsplash.com/users/blarkoid/photos","likes":"https://api.unsplash.com/users/blarkoid/likes","portfolio":"https://api.unsplash.com/users/blarkoid/portfolio"},"profile_image":{"small":"https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=32\u0026h=32","medium":"https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=64\u0026h=64","large":"https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=128\u0026h=128"},"instagram_username":"blarkoid","total_collections":0,"total_likes":0,"total_photos":8,"total_promoted_photos":0,"total_illustrations":0,"total_promoted_illustrations":0,"accepted_tos":true,"for_hire":true,"social":{"instagram_username":"blarkoid","portfolio_url":null,"twitter_username":null,"paypal_email":null}}},{"id":"YNCK2CHz6So","slug":"silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So","alternative_slugs":{"en":"silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So","es":"silueta-de-la-persona-de-pie-en-la-formacion-rocosa-durante-la-noche-YNCK2CHz6So","ja":"夜間の岩の上に立っている人のシルエット-YNCK2CHz6So","fr":"silhouette-dune-personne-debout-sur-une-formation-rocheuse-pendant-la-nuit-YNCK2CHz6So","it":"silhouette-di-persona-in-piedi-sulla-formazione-rocciosa-durante-la-notte-YNCK2CHz6So","ko":"밤-시간-동안-바위-형성에-서-있는-사람의-실루엣-YNCK2CHz6So","de":"silhouette-der-person-die-nachts-auf-einer-felsformation-steht-YNCK2CHz6So","pt":"silhueta-da-pessoa-em-pe-na-formacao-rochosa-durante-a-noite-YNCK2CHz6So"},"created_at":"2020-01-30T10:26:06Z","updated_at":"2025-06-10T10:01:16Z","promoted_at":null,"width":5007,"height":2474,"color":"#262626","blur_hash":"L65FB_WBHrj@krfRnOj@DNof%hWB","description":"A view from Monal","alt_description":"silhouette of person standing on rock formation during night time","breadcrumbs":[],"urls":{"raw":"https://images.unsplash.com/photo-1580379943914-7908d1f776ba?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0","full":"https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy\u0026cs=srgb\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=85","regular":"https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=1080","small":"https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=400","thumb":"https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=200","small_s3":"https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1580379943914-7908d1f776ba"},"links":{"self":"https://api.unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So","html":"https://unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So","download":"https://unsplash.com/photos/YNCK2CHz6So/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA","download_location":"https://api.unsplash.com/photos/YNCK2CHz6So/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA"},"likes":77,"liked_by_user":false,"current_user_collections":[],"sponsorship":null,"topic_submissions":{},"asset_type":"photo","user":{"id":"4LdX6I6AURk","updated_at":"2024-10-11T00:43:53Z","username":"ikenny","name":"Kenaan Bin Tahir","first_name":"Kenaan","last_name":"Bin Tahir","twitter_username":null,"portfolio_url":null,"bio":"cinematographer - artist - car enthusiast - dota2pro","location":"Karachi, Pakistan","links":{"self":"https://api.unsplash.com/users/ikenny","html":"https://unsplash.com/@ikenny","photos":"https://api.unsplash.com/users/ikenny/photos","likes":"https://api.unsplash.com/users/ikenny/likes","portfolio":"https://api.unsplash.com/users/ikenny/portfolio"},"profile_image":{"small":"https://images.unsplash.com/profile-fb-1555778748-530a35f22c25.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=32\u0026h=32","medium":"https://images.unsplash.com/profile-fb-1555778748-530a35f22c25.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=64\u0026h=64","large":"https://images.unsplash.com/profile-fb-1555778748-530a35f22c25.jpg?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=128\u0026h=128"},"instagram_username":"ikennnyy","total_collections":0,"total_likes":0,"total_photos":9,"total_promoted_photos":0,"total_illustrations":0,"total_promoted_illustrations":0,"accepted_tos":true,"for_hire":false,"social":{"instagram_username":"ikennnyy","portfolio_url":null,"twitter_username":null,"paypal_email":null}}},{"id":"7slBWblnO6s","slug":"people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s","alternative_slugs":{"en":"people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s","es":"personas-sentadas-en-un-banco-frente-a-un-edificio-de-hormigon-marron-durante-el-dia-7slBWblnO6s","ja":"昼間茶色のコンクリートの建物の前でベンチに座る人々-7slBWblnO6s","fr":"personnes-assises-sur-un-banc-devant-un-batiment-en-beton-brun-pendant-la-journee-7slBWblnO6s","it":"persone-sedute-sulla-panchina-di-fronte-alledificio-in-cemento-marrone-durante-il-giorno-7slBWblnO6s","ko":"낮에-갈색-콘크리트-건물-앞-벤치에-앉아-있는-사람들-7slBWblnO6s","de":"menschen-die-tagsuber-auf-einer-bank-vor-einem-braunen-betongebaude-sitzen-7slBWblnO6s","pt":"pessoas-sentadas-no-banco-em-frente-ao-edificio-de-concreto-marrom-durante-o-dia-7slBWblnO6s"},"created_at":"2020-10-29T19:17:41Z","updated_at":"2025-06-10T06:49:27Z","promoted_at":null,"width":5862,"height":3887,"color":"#59c0c0","blur_hash":"LXDBKCNGX8ozQ7xuWBj[PAt7RPjZ","description":"Just adding Symmetry to my photos, Pakistan Monument ","alt_description":"people sitting on bench in front of brown concrete building during daytime","breadcrumbs":[],"urls":{"raw":"https://images.unsplash.com/photo-1603998594199-804ec60de289?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0","full":"https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy\u0026cs=srgb\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=85","regular":"https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=1080","small":"https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=400","thumb":"https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA\u0026ixlib=rb-4.1.0\u0026q=80\u0026w=200","small_s3":"https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1603998594199-804ec60de289"},"links":{"self":"https://api.unsplash.com/photos/people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s","html":"https://unsplash.com/photos/people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s","download":"https://unsplash.com/photos/7slBWblnO6s/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA","download_location":"https://api.unsplash.com/photos/7slBWblnO6s/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA"},"likes":23,"liked_by_user":false,"current_user_collections":[],"sponsorship":null,"topic_submissions":{"architecture-interior":{"status":"rejected"},"wallpapers":{"status":"rejected"}},"asset_type":"photo","user":{"id":"vkQDFcYZK9M","updated_at":"2025-02-26T01:20:57Z","username":"jaffrix","name":"Syed Fahim Haider","first_name":"Syed Fahim","last_name":"Haider","twitter_username":"FahimhaiderV","portfolio_url":null,"bio":"Hello there I am Syed Fahim Haider from Islamabad, Pakistan","location":null,"links":{"self":"https://api.unsplash.com/users/jaffrix","html":"https://unsplash.com/@jaffrix","photos":"https://api.unsplash.com/users/jaffrix/photos","likes":"https://api.unsplash.com/users/jaffrix/likes","portfolio":"https://api.unsplash.com/users/jaffrix/portfolio"},"profile_image":{"small":"https://images.unsplash.com/profile-1603999140692-65b3bd51efe9image?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=32\u0026h=32","medium":"https://images.unsplash.com/profile-1603999140692-65b3bd51efe9image?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=64\u0026h=64","large":"https://images.unsplash.com/profile-1603999140692-65b3bd51efe9image?ixlib=rb-4.1.0\u0026crop=faces\u0026fit=crop\u0026w=128\u0026h=128"},"instagram_username":"fahim.jaffri","total_collections":0,"total_likes":7,"total_photos":32,"total_promoted_photos":0,"total_illustrations":0,"total_promoted_illustrations":0,"accepted_tos":true,"for_hire":true,"social":{"instagram_username":"fahim.jaffri","portfolio_url":null,"twitter_username":"FahimhaiderV","paypal_email":null}}}]}
+[10-Jun-2025 15:58:15 Europe/Berlin] Decoded Image Data: Array
+(
+    [total] => 661
+    [total_pages] => 133
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1x3qakkpzZU
+                    [slug] => white-and-brown-concrete-building-1x3qakkpzZU
+                    [alternative_slugs] => Array
+                        (
+                            [en] => white-and-brown-concrete-building-1x3qakkpzZU
+                            [es] => edificio-de-hormigon-blanco-y-marron-1x3qakkpzZU
+                            [ja] => 白と茶色のコンクリートの建物-1x3qakkpzZU
+                            [fr] => batiment-en-beton-blanc-et-brun-1x3qakkpzZU
+                            [it] => edificio-in-cemento-bianco-e-marrone-1x3qakkpzZU
+                            [ko] => 흰색과-갈색-콘크리트-건물-1x3qakkpzZU
+                            [de] => gebaude-aus-weissem-und-braunem-beton-1x3qakkpzZU
+                            [pt] => edificio-de-concreto-branco-e-marrom-1x3qakkpzZU
+                        )
+
+                    [created_at] => 2020-12-15T08:30:01Z
+                    [updated_at] => 2025-06-10T09:05:08Z
+                    [promoted_at] => 
+                    [width] => 5184
+                    [height] => 3456
+                    [color] => #738ca6
+                    [blur_hash] => LYCQu%x_V@t7%%xvt7WBM_adofWB
+                    [description] => Faisal Majid 
+                    [alt_description] => white and brown concrete building
+                    [breadcrumbs] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [raw] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0
+                            [full] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=85
+                            [regular] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+                            [small] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=400
+                            [thumb] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=200
+                            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1608020932658-d0e19a69580b
+                        )
+
+                    [links] => Array
+                        (
+                            [self] => https://api.unsplash.com/photos/white-and-brown-concrete-building-1x3qakkpzZU
+                            [html] => https://unsplash.com/photos/white-and-brown-concrete-building-1x3qakkpzZU
+                            [download] => https://unsplash.com/photos/1x3qakkpzZU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+                            [download_location] => https://api.unsplash.com/photos/1x3qakkpzZU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+                        )
+
+                    [likes] => 39
+                    [liked_by_user] => 
+                    [current_user_collections] => Array
+                        (
+                        )
+
+                    [sponsorship] => 
+                    [topic_submissions] => Array
+                        (
+                        )
+
+                    [asset_type] => photo
+                    [user] => Array
+                        (
+                            [id] => rlFX60_Gmqk
+                            [updated_at] => 2025-05-21T01:24:24Z
+                            [username] => qsnagori
+                            [name] => Qasim Nagori
+                            [first_name] => Qasim
+                            [last_name] => Nagori
+                            [twitter_username] => qsnagori
+                            [portfolio_url] => 
+                            [bio] => 
+                            [location] => Karachi, Pakistan
+                            [links] => Array
+                                (
+                                    [self] => https://api.unsplash.com/users/qsnagori
+                                    [html] => https://unsplash.com/@qsnagori
+                                    [photos] => https://api.unsplash.com/users/qsnagori/photos
+                                    [likes] => https://api.unsplash.com/users/qsnagori/likes
+                                    [portfolio] => https://api.unsplash.com/users/qsnagori/portfolio
+                                )
+
+                            [profile_image] => Array
+                                (
+                                    [small] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                                    [medium] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                                    [large] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                                )
+
+                            [instagram_username] => qsnagori
+                            [total_collections] => 0
+                            [total_likes] => 1
+                            [total_photos] => 17
+                            [total_promoted_photos] => 0
+                            [total_illustrations] => 0
+                            [total_promoted_illustrations] => 0
+                            [accepted_tos] => 1
+                            [for_hire] => 
+                            [social] => Array
+                                (
+                                    [instagram_username] => qsnagori
+                                    [portfolio_url] => 
+                                    [twitter_username] => qsnagori
+                                    [paypal_email] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => QEcvxkXWp0c
+                    [slug] => a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+                    [alternative_slugs] => Array
+                        (
+                            [en] => a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+                            [es] => un-edificio-muy-alto-sentado-junto-a-un-cuerpo-de-agua-QEcvxkXWp0c
+                            [ja] => 水域の隣に座っている非常に高い建物-QEcvxkXWp0c
+                            [fr] => un-tres-grand-batiment-assis-a-cote-dun-plan-deau-QEcvxkXWp0c
+                            [it] => un-edificio-molto-alto-seduto-accanto-a-uno-specchio-dacqua-QEcvxkXWp0c
+                            [ko] => 수역-옆에-앉아있는-매우-높은-건물-QEcvxkXWp0c
+                            [de] => ein-sehr-hohes-gebaude-neben-einem-gewasser-QEcvxkXWp0c
+                            [pt] => um-edificio-muito-alto-sentado-ao-lado-de-um-corpo-de-agua-QEcvxkXWp0c
+                        )
+
+                    [created_at] => 2021-10-23T19:25:57Z
+                    [updated_at] => 2025-06-10T07:39:22Z
+                    [promoted_at] => 
+                    [width] => 4422
+                    [height] => 5898
+                    [color] => #0c2626
+                    [blur_hash] => L484oP-p4ojEPXt7?Hoe57WX%1Rk
+                    [description] => The beautiful Shah Faisal Mosque illuminating under the night sky- Islamabad,Pakistan 
+                    [alt_description] => a very tall building sitting next to a body of water
+                    [breadcrumbs] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [raw] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0
+                            [full] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=85
+                            [regular] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+                            [small] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=400
+                            [thumb] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=200
+                            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1635016288720-c52507b9a717
+                        )
+
+                    [links] => Array
+                        (
+                            [self] => https://api.unsplash.com/photos/a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+                            [html] => https://unsplash.com/photos/a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+                            [download] => https://unsplash.com/photos/QEcvxkXWp0c/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+                            [download_location] => https://api.unsplash.com/photos/QEcvxkXWp0c/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+                        )
+
+                    [likes] => 87
+                    [liked_by_user] => 
+                    [current_user_collections] => Array
+                        (
+                        )
+
+                    [sponsorship] => 
+                    [topic_submissions] => Array
+                        (
+                            [ugc] => Array
+                                (
+                                    [status] => rejected
+                                )
+
+                            [blue] => Array
+                                (
+                                    [status] => rejected
+                                )
+
+                            [spirituality] => Array
+                                (
+                                    [status] => approved
+                                    [approved_on] => 2023-05-30T15:46:37Z
+                                )
+
+                            [architecture-interior] => Array
+                                (
+                                    [status] => approved
+                                    [approved_on] => 2023-05-30T12:20:04Z
+                                )
+
+                            [travel] => Array
+                                (
+                                    [status] => approved
+                                    [approved_on] => 2023-05-30T12:02:13Z
+                                )
+
+                            [wallpapers] => Array
+                                (
+                                    [status] => rejected
+                                )
+
+                        )
+
+                    [asset_type] => photo
+                    [user] => Array
+                        (
+                            [id] => 2raQoTJ7Bi8
+                            [updated_at] => 2025-06-04T01:23:59Z
+                            [username] => wizbaloch
+                            [name] => Muhammad Irfan Baloch
+                            [first_name] => Muhammad Irfan
+                            [last_name] => Baloch
+                            [twitter_username] => wizbaloch_
+                            [portfolio_url] => https://wizbaloch.online/
+                            [bio] => A photographer | storyteller, passionate about photography and the outdoors, based in Balochistan.
+                            [location] => Kharan,Balochistan
+                            [links] => Array
+                                (
+                                    [self] => https://api.unsplash.com/users/wizbaloch
+                                    [html] => https://unsplash.com/@wizbaloch
+                                    [photos] => https://api.unsplash.com/users/wizbaloch/photos
+                                    [likes] => https://api.unsplash.com/users/wizbaloch/likes
+                                    [portfolio] => https://api.unsplash.com/users/wizbaloch/portfolio
+                                )
+
+                            [profile_image] => Array
+                                (
+                                    [small] => https://images.unsplash.com/profile-1732542206125-99b3b9c6966fimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                                    [medium] => https://images.unsplash.com/profile-1732542206125-99b3b9c6966fimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                                    [large] => https://images.unsplash.com/profile-1732542206125-99b3b9c6966fimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                                )
+
+                            [instagram_username] => wizbaloch
+                            [total_collections] => 4
+                            [total_likes] => 47
+                            [total_photos] => 44
+                            [total_promoted_photos] => 0
+                            [total_illustrations] => 0
+                            [total_promoted_illustrations] => 0
+                            [accepted_tos] => 1
+                            [for_hire] => 1
+                            [social] => Array
+                                (
+                                    [instagram_username] => wizbaloch
+                                    [portfolio_url] => https://wizbaloch.online/
+                                    [twitter_username] => wizbaloch_
+                                    [paypal_email] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => _YkEkI8tWrQ
+                    [slug] => white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+                    [alternative_slugs] => Array
+                        (
+                            [en] => white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+                            [es] => edificio-de-hormigon-blanco-y-marron-bajo-el-cielo-azul-durante-el-dia-_YkEkI8tWrQ
+                            [ja] => 昼間の青空に映える白と茶色のコンクリートの建物-_YkEkI8tWrQ
+                            [fr] => batiment-en-beton-blanc-et-brun-sous-le-ciel-bleu-pendant-la-journee-_YkEkI8tWrQ
+                            [it] => edificio-in-cemento-bianco-e-marrone-sotto-il-cielo-blu-durante-il-giorno-_YkEkI8tWrQ
+                            [ko] => 낮에는-푸른-하늘-아래-흰색과-갈색-콘크리트-건물-_YkEkI8tWrQ
+                            [de] => weiss-braunes-betongebaude-unter-blauem-himmel-tagsuber-_YkEkI8tWrQ
+                            [pt] => edificio-de-concreto-branco-e-marrom-sob-o-ceu-azul-durante-o-dia-_YkEkI8tWrQ
+                        )
+
+                    [created_at] => 2020-11-19T14:24:08Z
+                    [updated_at] => 2025-06-10T06:02:14Z
+                    [promoted_at] => 
+                    [width] => 3886
+                    [height] => 2971
+                    [color] => #0ca6c0
+                    [blur_hash] => LS87^7TJRPaeG^ozt7ozvLayoLax
+                    [description] => Faisal Mosque in Islamabad, Pakistan
+                    [alt_description] => white and brown concrete building under blue sky during daytime
+                    [breadcrumbs] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [raw] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0
+                            [full] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=85
+                            [regular] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+                            [small] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=400
+                            [thumb] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=200
+                            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1605795733251-a0b6c96d9dea
+                        )
+
+                    [links] => Array
+                        (
+                            [self] => https://api.unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+                            [html] => https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+                            [download] => https://unsplash.com/photos/_YkEkI8tWrQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+                            [download_location] => https://api.unsplash.com/photos/_YkEkI8tWrQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+                        )
+
+                    [likes] => 35
+                    [liked_by_user] => 
+                    [current_user_collections] => Array
+                        (
+                        )
+
+                    [sponsorship] => 
+                    [topic_submissions] => Array
+                        (
+                        )
+
+                    [asset_type] => photo
+                    [user] => Array
+                        (
+                            [id] => EXyEc78AXEw
+                            [updated_at] => 2024-12-18T01:17:52Z
+                            [username] => blarkoid
+                            [name] => Ali Muhammad
+                            [first_name] => Ali
+                            [last_name] => Muhammad
+                            [twitter_username] => 
+                            [portfolio_url] => 
+                            [bio] => 
+                            [location] => 
+                            [links] => Array
+                                (
+                                    [self] => https://api.unsplash.com/users/blarkoid
+                                    [html] => https://unsplash.com/@blarkoid
+                                    [photos] => https://api.unsplash.com/users/blarkoid/photos
+                                    [likes] => https://api.unsplash.com/users/blarkoid/likes
+                                    [portfolio] => https://api.unsplash.com/users/blarkoid/portfolio
+                                )
+
+                            [profile_image] => Array
+                                (
+                                    [small] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                                    [medium] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                                    [large] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                                )
+
+                            [instagram_username] => blarkoid
+                            [total_collections] => 0
+                            [total_likes] => 0
+                            [total_photos] => 8
+                            [total_promoted_photos] => 0
+                            [total_illustrations] => 0
+                            [total_promoted_illustrations] => 0
+                            [accepted_tos] => 1
+                            [for_hire] => 1
+                            [social] => Array
+                                (
+                                    [instagram_username] => blarkoid
+                                    [portfolio_url] => 
+                                    [twitter_username] => 
+                                    [paypal_email] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => YNCK2CHz6So
+                    [slug] => silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+                    [alternative_slugs] => Array
+                        (
+                            [en] => silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+                            [es] => silueta-de-la-persona-de-pie-en-la-formacion-rocosa-durante-la-noche-YNCK2CHz6So
+                            [ja] => 夜間の岩の上に立っている人のシルエット-YNCK2CHz6So
+                            [fr] => silhouette-dune-personne-debout-sur-une-formation-rocheuse-pendant-la-nuit-YNCK2CHz6So
+                            [it] => silhouette-di-persona-in-piedi-sulla-formazione-rocciosa-durante-la-notte-YNCK2CHz6So
+                            [ko] => 밤-시간-동안-바위-형성에-서-있는-사람의-실루엣-YNCK2CHz6So
+                            [de] => silhouette-der-person-die-nachts-auf-einer-felsformation-steht-YNCK2CHz6So
+                            [pt] => silhueta-da-pessoa-em-pe-na-formacao-rochosa-durante-a-noite-YNCK2CHz6So
+                        )
+
+                    [created_at] => 2020-01-30T10:26:06Z
+                    [updated_at] => 2025-06-10T10:01:16Z
+                    [promoted_at] => 
+                    [width] => 5007
+                    [height] => 2474
+                    [color] => #262626
+                    [blur_hash] => L65FB_WBHrj@krfRnOj@DNof%hWB
+                    [description] => A view from Monal
+                    [alt_description] => silhouette of person standing on rock formation during night time
+                    [breadcrumbs] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [raw] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0
+                            [full] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=85
+                            [regular] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+                            [small] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=400
+                            [thumb] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=200
+                            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1580379943914-7908d1f776ba
+                        )
+
+                    [links] => Array
+                        (
+                            [self] => https://api.unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+                            [html] => https://unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+                            [download] => https://unsplash.com/photos/YNCK2CHz6So/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+                            [download_location] => https://api.unsplash.com/photos/YNCK2CHz6So/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+                        )
+
+                    [likes] => 77
+                    [liked_by_user] => 
+                    [current_user_collections] => Array
+                        (
+                        )
+
+                    [sponsorship] => 
+                    [topic_submissions] => Array
+                        (
+                        )
+
+                    [asset_type] => photo
+                    [user] => Array
+                        (
+                            [id] => 4LdX6I6AURk
+                            [updated_at] => 2024-10-11T00:43:53Z
+                            [username] => ikenny
+                            [name] => Kenaan Bin Tahir
+                            [first_name] => Kenaan
+                            [last_name] => Bin Tahir
+                            [twitter_username] => 
+                            [portfolio_url] => 
+                            [bio] => cinematographer - artist - car enthusiast - dota2pro
+                            [location] => Karachi, Pakistan
+                            [links] => Array
+                                (
+                                    [self] => https://api.unsplash.com/users/ikenny
+                                    [html] => https://unsplash.com/@ikenny
+                                    [photos] => https://api.unsplash.com/users/ikenny/photos
+                                    [likes] => https://api.unsplash.com/users/ikenny/likes
+                                    [portfolio] => https://api.unsplash.com/users/ikenny/portfolio
+                                )
+
+                            [profile_image] => Array
+                                (
+                                    [small] => https://images.unsplash.com/profile-fb-1555778748-530a35f22c25.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                                    [medium] => https://images.unsplash.com/profile-fb-1555778748-530a35f22c25.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                                    [large] => https://images.unsplash.com/profile-fb-1555778748-530a35f22c25.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                                )
+
+                            [instagram_username] => ikennnyy
+                            [total_collections] => 0
+                            [total_likes] => 0
+                            [total_photos] => 9
+                            [total_promoted_photos] => 0
+                            [total_illustrations] => 0
+                            [total_promoted_illustrations] => 0
+                            [accepted_tos] => 1
+                            [for_hire] => 
+                            [social] => Array
+                                (
+                                    [instagram_username] => ikennnyy
+                                    [portfolio_url] => 
+                                    [twitter_username] => 
+                                    [paypal_email] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [id] => 7slBWblnO6s
+                    [slug] => people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+                    [alternative_slugs] => Array
+                        (
+                            [en] => people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+                            [es] => personas-sentadas-en-un-banco-frente-a-un-edificio-de-hormigon-marron-durante-el-dia-7slBWblnO6s
+                            [ja] => 昼間茶色のコンクリートの建物の前でベンチに座る人々-7slBWblnO6s
+                            [fr] => personnes-assises-sur-un-banc-devant-un-batiment-en-beton-brun-pendant-la-journee-7slBWblnO6s
+                            [it] => persone-sedute-sulla-panchina-di-fronte-alledificio-in-cemento-marrone-durante-il-giorno-7slBWblnO6s
+                            [ko] => 낮에-갈색-콘크리트-건물-앞-벤치에-앉아-있는-사람들-7slBWblnO6s
+                            [de] => menschen-die-tagsuber-auf-einer-bank-vor-einem-braunen-betongebaude-sitzen-7slBWblnO6s
+                            [pt] => pessoas-sentadas-no-banco-em-frente-ao-edificio-de-concreto-marrom-durante-o-dia-7slBWblnO6s
+                        )
+
+                    [created_at] => 2020-10-29T19:17:41Z
+                    [updated_at] => 2025-06-10T06:49:27Z
+                    [promoted_at] => 
+                    [width] => 5862
+                    [height] => 3887
+                    [color] => #59c0c0
+                    [blur_hash] => LXDBKCNGX8ozQ7xuWBj[PAt7RPjZ
+                    [description] => Just adding Symmetry to my photos, Pakistan Monument 
+                    [alt_description] => people sitting on bench in front of brown concrete building during daytime
+                    [breadcrumbs] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [raw] => https://images.unsplash.com/photo-1603998594199-804ec60de289?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0
+                            [full] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=85
+                            [regular] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+                            [small] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=400
+                            [thumb] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=200
+                            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1603998594199-804ec60de289
+                        )
+
+                    [links] => Array
+                        (
+                            [self] => https://api.unsplash.com/photos/people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+                            [html] => https://unsplash.com/photos/people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+                            [download] => https://unsplash.com/photos/7slBWblnO6s/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+                            [download_location] => https://api.unsplash.com/photos/7slBWblnO6s/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+                        )
+
+                    [likes] => 23
+                    [liked_by_user] => 
+                    [current_user_collections] => Array
+                        (
+                        )
+
+                    [sponsorship] => 
+                    [topic_submissions] => Array
+                        (
+                            [architecture-interior] => Array
+                                (
+                                    [status] => rejected
+                                )
+
+                            [wallpapers] => Array
+                                (
+                                    [status] => rejected
+                                )
+
+                        )
+
+                    [asset_type] => photo
+                    [user] => Array
+                        (
+                            [id] => vkQDFcYZK9M
+                            [updated_at] => 2025-02-26T01:20:57Z
+                            [username] => jaffrix
+                            [name] => Syed Fahim Haider
+                            [first_name] => Syed Fahim
+                            [last_name] => Haider
+                            [twitter_username] => FahimhaiderV
+                            [portfolio_url] => 
+                            [bio] => Hello there I am Syed Fahim Haider from Islamabad, Pakistan
+                            [location] => 
+                            [links] => Array
+                                (
+                                    [self] => https://api.unsplash.com/users/jaffrix
+                                    [html] => https://unsplash.com/@jaffrix
+                                    [photos] => https://api.unsplash.com/users/jaffrix/photos
+                                    [likes] => https://api.unsplash.com/users/jaffrix/likes
+                                    [portfolio] => https://api.unsplash.com/users/jaffrix/portfolio
+                                )
+
+                            [profile_image] => Array
+                                (
+                                    [small] => https://images.unsplash.com/profile-1603999140692-65b3bd51efe9image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                                    [medium] => https://images.unsplash.com/profile-1603999140692-65b3bd51efe9image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                                    [large] => https://images.unsplash.com/profile-1603999140692-65b3bd51efe9image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                                )
+
+                            [instagram_username] => fahim.jaffri
+                            [total_collections] => 0
+                            [total_likes] => 7
+                            [total_photos] => 32
+                            [total_promoted_photos] => 0
+                            [total_illustrations] => 0
+                            [total_promoted_illustrations] => 0
+                            [accepted_tos] => 1
+                            [for_hire] => 1
+                            [social] => Array
+                                (
+                                    [instagram_username] => fahim.jaffri
+                                    [portfolio_url] => 
+                                    [twitter_username] => FahimhaiderV
+                                    [paypal_email] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Processing image: Array
+(
+    [id] => 1x3qakkpzZU
+    [slug] => white-and-brown-concrete-building-1x3qakkpzZU
+    [alternative_slugs] => Array
+        (
+            [en] => white-and-brown-concrete-building-1x3qakkpzZU
+            [es] => edificio-de-hormigon-blanco-y-marron-1x3qakkpzZU
+            [ja] => 白と茶色のコンクリートの建物-1x3qakkpzZU
+            [fr] => batiment-en-beton-blanc-et-brun-1x3qakkpzZU
+            [it] => edificio-in-cemento-bianco-e-marrone-1x3qakkpzZU
+            [ko] => 흰색과-갈색-콘크리트-건물-1x3qakkpzZU
+            [de] => gebaude-aus-weissem-und-braunem-beton-1x3qakkpzZU
+            [pt] => edificio-de-concreto-branco-e-marrom-1x3qakkpzZU
+        )
+
+    [created_at] => 2020-12-15T08:30:01Z
+    [updated_at] => 2025-06-10T09:05:08Z
+    [promoted_at] => 
+    [width] => 5184
+    [height] => 3456
+    [color] => #738ca6
+    [blur_hash] => LYCQu%x_V@t7%%xvt7WBM_adofWB
+    [description] => Faisal Majid 
+    [alt_description] => white and brown concrete building
+    [breadcrumbs] => Array
+        (
+        )
+
+    [urls] => Array
+        (
+            [raw] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0
+            [full] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=85
+            [regular] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+            [small] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=400
+            [thumb] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=200
+            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1608020932658-d0e19a69580b
+        )
+
+    [links] => Array
+        (
+            [self] => https://api.unsplash.com/photos/white-and-brown-concrete-building-1x3qakkpzZU
+            [html] => https://unsplash.com/photos/white-and-brown-concrete-building-1x3qakkpzZU
+            [download] => https://unsplash.com/photos/1x3qakkpzZU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+            [download_location] => https://api.unsplash.com/photos/1x3qakkpzZU/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+        )
+
+    [likes] => 39
+    [liked_by_user] => 
+    [current_user_collections] => Array
+        (
+        )
+
+    [sponsorship] => 
+    [topic_submissions] => Array
+        (
+        )
+
+    [asset_type] => photo
+    [user] => Array
+        (
+            [id] => rlFX60_Gmqk
+            [updated_at] => 2025-05-21T01:24:24Z
+            [username] => qsnagori
+            [name] => Qasim Nagori
+            [first_name] => Qasim
+            [last_name] => Nagori
+            [twitter_username] => qsnagori
+            [portfolio_url] => 
+            [bio] => 
+            [location] => Karachi, Pakistan
+            [links] => Array
+                (
+                    [self] => https://api.unsplash.com/users/qsnagori
+                    [html] => https://unsplash.com/@qsnagori
+                    [photos] => https://api.unsplash.com/users/qsnagori/photos
+                    [likes] => https://api.unsplash.com/users/qsnagori/likes
+                    [portfolio] => https://api.unsplash.com/users/qsnagori/portfolio
+                )
+
+            [profile_image] => Array
+                (
+                    [small] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                    [medium] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                    [large] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                )
+
+            [instagram_username] => qsnagori
+            [total_collections] => 0
+            [total_likes] => 1
+            [total_photos] => 17
+            [total_promoted_photos] => 0
+            [total_illustrations] => 0
+            [total_promoted_illustrations] => 0
+            [accepted_tos] => 1
+            [for_hire] => 
+            [social] => Array
+                (
+                    [instagram_username] => qsnagori
+                    [portfolio_url] => 
+                    [twitter_username] => qsnagori
+                    [paypal_email] => 
+                )
+
+        )
+
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Adding image data: Array
+(
+    [url] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+    [photographer] => Qasim Nagori
+    [unsplash_link] => https://unsplash.com/photos/white-and-brown-concrete-building-1x3qakkpzZU
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Processing image: Array
+(
+    [id] => QEcvxkXWp0c
+    [slug] => a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+    [alternative_slugs] => Array
+        (
+            [en] => a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+            [es] => un-edificio-muy-alto-sentado-junto-a-un-cuerpo-de-agua-QEcvxkXWp0c
+            [ja] => 水域の隣に座っている非常に高い建物-QEcvxkXWp0c
+            [fr] => un-tres-grand-batiment-assis-a-cote-dun-plan-deau-QEcvxkXWp0c
+            [it] => un-edificio-molto-alto-seduto-accanto-a-uno-specchio-dacqua-QEcvxkXWp0c
+            [ko] => 수역-옆에-앉아있는-매우-높은-건물-QEcvxkXWp0c
+            [de] => ein-sehr-hohes-gebaude-neben-einem-gewasser-QEcvxkXWp0c
+            [pt] => um-edificio-muito-alto-sentado-ao-lado-de-um-corpo-de-agua-QEcvxkXWp0c
+        )
+
+    [created_at] => 2021-10-23T19:25:57Z
+    [updated_at] => 2025-06-10T07:39:22Z
+    [promoted_at] => 
+    [width] => 4422
+    [height] => 5898
+    [color] => #0c2626
+    [blur_hash] => L484oP-p4ojEPXt7?Hoe57WX%1Rk
+    [description] => The beautiful Shah Faisal Mosque illuminating under the night sky- Islamabad,Pakistan 
+    [alt_description] => a very tall building sitting next to a body of water
+    [breadcrumbs] => Array
+        (
+        )
+
+    [urls] => Array
+        (
+            [raw] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0
+            [full] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=85
+            [regular] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+            [small] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=400
+            [thumb] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=200
+            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1635016288720-c52507b9a717
+        )
+
+    [links] => Array
+        (
+            [self] => https://api.unsplash.com/photos/a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+            [html] => https://unsplash.com/photos/a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+            [download] => https://unsplash.com/photos/QEcvxkXWp0c/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+            [download_location] => https://api.unsplash.com/photos/QEcvxkXWp0c/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+        )
+
+    [likes] => 87
+    [liked_by_user] => 
+    [current_user_collections] => Array
+        (
+        )
+
+    [sponsorship] => 
+    [topic_submissions] => Array
+        (
+            [ugc] => Array
+                (
+                    [status] => rejected
+                )
+
+            [blue] => Array
+                (
+                    [status] => rejected
+                )
+
+            [spirituality] => Array
+                (
+                    [status] => approved
+                    [approved_on] => 2023-05-30T15:46:37Z
+                )
+
+            [architecture-interior] => Array
+                (
+                    [status] => approved
+                    [approved_on] => 2023-05-30T12:20:04Z
+                )
+
+            [travel] => Array
+                (
+                    [status] => approved
+                    [approved_on] => 2023-05-30T12:02:13Z
+                )
+
+            [wallpapers] => Array
+                (
+                    [status] => rejected
+                )
+
+        )
+
+    [asset_type] => photo
+    [user] => Array
+        (
+            [id] => 2raQoTJ7Bi8
+            [updated_at] => 2025-06-04T01:23:59Z
+            [username] => wizbaloch
+            [name] => Muhammad Irfan Baloch
+            [first_name] => Muhammad Irfan
+            [last_name] => Baloch
+            [twitter_username] => wizbaloch_
+            [portfolio_url] => https://wizbaloch.online/
+            [bio] => A photographer | storyteller, passionate about photography and the outdoors, based in Balochistan.
+            [location] => Kharan,Balochistan
+            [links] => Array
+                (
+                    [self] => https://api.unsplash.com/users/wizbaloch
+                    [html] => https://unsplash.com/@wizbaloch
+                    [photos] => https://api.unsplash.com/users/wizbaloch/photos
+                    [likes] => https://api.unsplash.com/users/wizbaloch/likes
+                    [portfolio] => https://api.unsplash.com/users/wizbaloch/portfolio
+                )
+
+            [profile_image] => Array
+                (
+                    [small] => https://images.unsplash.com/profile-1732542206125-99b3b9c6966fimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                    [medium] => https://images.unsplash.com/profile-1732542206125-99b3b9c6966fimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                    [large] => https://images.unsplash.com/profile-1732542206125-99b3b9c6966fimage?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                )
+
+            [instagram_username] => wizbaloch
+            [total_collections] => 4
+            [total_likes] => 47
+            [total_photos] => 44
+            [total_promoted_photos] => 0
+            [total_illustrations] => 0
+            [total_promoted_illustrations] => 0
+            [accepted_tos] => 1
+            [for_hire] => 1
+            [social] => Array
+                (
+                    [instagram_username] => wizbaloch
+                    [portfolio_url] => https://wizbaloch.online/
+                    [twitter_username] => wizbaloch_
+                    [paypal_email] => 
+                )
+
+        )
+
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Adding image data: Array
+(
+    [url] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+    [photographer] => Muhammad Irfan Baloch
+    [unsplash_link] => https://unsplash.com/photos/a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Processing image: Array
+(
+    [id] => _YkEkI8tWrQ
+    [slug] => white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+    [alternative_slugs] => Array
+        (
+            [en] => white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+            [es] => edificio-de-hormigon-blanco-y-marron-bajo-el-cielo-azul-durante-el-dia-_YkEkI8tWrQ
+            [ja] => 昼間の青空に映える白と茶色のコンクリートの建物-_YkEkI8tWrQ
+            [fr] => batiment-en-beton-blanc-et-brun-sous-le-ciel-bleu-pendant-la-journee-_YkEkI8tWrQ
+            [it] => edificio-in-cemento-bianco-e-marrone-sotto-il-cielo-blu-durante-il-giorno-_YkEkI8tWrQ
+            [ko] => 낮에는-푸른-하늘-아래-흰색과-갈색-콘크리트-건물-_YkEkI8tWrQ
+            [de] => weiss-braunes-betongebaude-unter-blauem-himmel-tagsuber-_YkEkI8tWrQ
+            [pt] => edificio-de-concreto-branco-e-marrom-sob-o-ceu-azul-durante-o-dia-_YkEkI8tWrQ
+        )
+
+    [created_at] => 2020-11-19T14:24:08Z
+    [updated_at] => 2025-06-10T06:02:14Z
+    [promoted_at] => 
+    [width] => 3886
+    [height] => 2971
+    [color] => #0ca6c0
+    [blur_hash] => LS87^7TJRPaeG^ozt7ozvLayoLax
+    [description] => Faisal Mosque in Islamabad, Pakistan
+    [alt_description] => white and brown concrete building under blue sky during daytime
+    [breadcrumbs] => Array
+        (
+        )
+
+    [urls] => Array
+        (
+            [raw] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0
+            [full] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=85
+            [regular] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+            [small] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=400
+            [thumb] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=200
+            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1605795733251-a0b6c96d9dea
+        )
+
+    [links] => Array
+        (
+            [self] => https://api.unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+            [html] => https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+            [download] => https://unsplash.com/photos/_YkEkI8tWrQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+            [download_location] => https://api.unsplash.com/photos/_YkEkI8tWrQ/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+        )
+
+    [likes] => 35
+    [liked_by_user] => 
+    [current_user_collections] => Array
+        (
+        )
+
+    [sponsorship] => 
+    [topic_submissions] => Array
+        (
+        )
+
+    [asset_type] => photo
+    [user] => Array
+        (
+            [id] => EXyEc78AXEw
+            [updated_at] => 2024-12-18T01:17:52Z
+            [username] => blarkoid
+            [name] => Ali Muhammad
+            [first_name] => Ali
+            [last_name] => Muhammad
+            [twitter_username] => 
+            [portfolio_url] => 
+            [bio] => 
+            [location] => 
+            [links] => Array
+                (
+                    [self] => https://api.unsplash.com/users/blarkoid
+                    [html] => https://unsplash.com/@blarkoid
+                    [photos] => https://api.unsplash.com/users/blarkoid/photos
+                    [likes] => https://api.unsplash.com/users/blarkoid/likes
+                    [portfolio] => https://api.unsplash.com/users/blarkoid/portfolio
+                )
+
+            [profile_image] => Array
+                (
+                    [small] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                    [medium] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                    [large] => https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                )
+
+            [instagram_username] => blarkoid
+            [total_collections] => 0
+            [total_likes] => 0
+            [total_photos] => 8
+            [total_promoted_photos] => 0
+            [total_illustrations] => 0
+            [total_promoted_illustrations] => 0
+            [accepted_tos] => 1
+            [for_hire] => 1
+            [social] => Array
+                (
+                    [instagram_username] => blarkoid
+                    [portfolio_url] => 
+                    [twitter_username] => 
+                    [paypal_email] => 
+                )
+
+        )
+
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Adding image data: Array
+(
+    [url] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+    [photographer] => Ali Muhammad
+    [unsplash_link] => https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Processing image: Array
+(
+    [id] => YNCK2CHz6So
+    [slug] => silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+    [alternative_slugs] => Array
+        (
+            [en] => silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+            [es] => silueta-de-la-persona-de-pie-en-la-formacion-rocosa-durante-la-noche-YNCK2CHz6So
+            [ja] => 夜間の岩の上に立っている人のシルエット-YNCK2CHz6So
+            [fr] => silhouette-dune-personne-debout-sur-une-formation-rocheuse-pendant-la-nuit-YNCK2CHz6So
+            [it] => silhouette-di-persona-in-piedi-sulla-formazione-rocciosa-durante-la-notte-YNCK2CHz6So
+            [ko] => 밤-시간-동안-바위-형성에-서-있는-사람의-실루엣-YNCK2CHz6So
+            [de] => silhouette-der-person-die-nachts-auf-einer-felsformation-steht-YNCK2CHz6So
+            [pt] => silhueta-da-pessoa-em-pe-na-formacao-rochosa-durante-a-noite-YNCK2CHz6So
+        )
+
+    [created_at] => 2020-01-30T10:26:06Z
+    [updated_at] => 2025-06-10T10:01:16Z
+    [promoted_at] => 
+    [width] => 5007
+    [height] => 2474
+    [color] => #262626
+    [blur_hash] => L65FB_WBHrj@krfRnOj@DNof%hWB
+    [description] => A view from Monal
+    [alt_description] => silhouette of person standing on rock formation during night time
+    [breadcrumbs] => Array
+        (
+        )
+
+    [urls] => Array
+        (
+            [raw] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0
+            [full] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=85
+            [regular] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+            [small] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=400
+            [thumb] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=200
+            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1580379943914-7908d1f776ba
+        )
+
+    [links] => Array
+        (
+            [self] => https://api.unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+            [html] => https://unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+            [download] => https://unsplash.com/photos/YNCK2CHz6So/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+            [download_location] => https://api.unsplash.com/photos/YNCK2CHz6So/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+        )
+
+    [likes] => 77
+    [liked_by_user] => 
+    [current_user_collections] => Array
+        (
+        )
+
+    [sponsorship] => 
+    [topic_submissions] => Array
+        (
+        )
+
+    [asset_type] => photo
+    [user] => Array
+        (
+            [id] => 4LdX6I6AURk
+            [updated_at] => 2024-10-11T00:43:53Z
+            [username] => ikenny
+            [name] => Kenaan Bin Tahir
+            [first_name] => Kenaan
+            [last_name] => Bin Tahir
+            [twitter_username] => 
+            [portfolio_url] => 
+            [bio] => cinematographer - artist - car enthusiast - dota2pro
+            [location] => Karachi, Pakistan
+            [links] => Array
+                (
+                    [self] => https://api.unsplash.com/users/ikenny
+                    [html] => https://unsplash.com/@ikenny
+                    [photos] => https://api.unsplash.com/users/ikenny/photos
+                    [likes] => https://api.unsplash.com/users/ikenny/likes
+                    [portfolio] => https://api.unsplash.com/users/ikenny/portfolio
+                )
+
+            [profile_image] => Array
+                (
+                    [small] => https://images.unsplash.com/profile-fb-1555778748-530a35f22c25.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                    [medium] => https://images.unsplash.com/profile-fb-1555778748-530a35f22c25.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                    [large] => https://images.unsplash.com/profile-fb-1555778748-530a35f22c25.jpg?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                )
+
+            [instagram_username] => ikennnyy
+            [total_collections] => 0
+            [total_likes] => 0
+            [total_photos] => 9
+            [total_promoted_photos] => 0
+            [total_illustrations] => 0
+            [total_promoted_illustrations] => 0
+            [accepted_tos] => 1
+            [for_hire] => 
+            [social] => Array
+                (
+                    [instagram_username] => ikennnyy
+                    [portfolio_url] => 
+                    [twitter_username] => 
+                    [paypal_email] => 
+                )
+
+        )
+
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Adding image data: Array
+(
+    [url] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+    [photographer] => Kenaan Bin Tahir
+    [unsplash_link] => https://unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Processing image: Array
+(
+    [id] => 7slBWblnO6s
+    [slug] => people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+    [alternative_slugs] => Array
+        (
+            [en] => people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+            [es] => personas-sentadas-en-un-banco-frente-a-un-edificio-de-hormigon-marron-durante-el-dia-7slBWblnO6s
+            [ja] => 昼間茶色のコンクリートの建物の前でベンチに座る人々-7slBWblnO6s
+            [fr] => personnes-assises-sur-un-banc-devant-un-batiment-en-beton-brun-pendant-la-journee-7slBWblnO6s
+            [it] => persone-sedute-sulla-panchina-di-fronte-alledificio-in-cemento-marrone-durante-il-giorno-7slBWblnO6s
+            [ko] => 낮에-갈색-콘크리트-건물-앞-벤치에-앉아-있는-사람들-7slBWblnO6s
+            [de] => menschen-die-tagsuber-auf-einer-bank-vor-einem-braunen-betongebaude-sitzen-7slBWblnO6s
+            [pt] => pessoas-sentadas-no-banco-em-frente-ao-edificio-de-concreto-marrom-durante-o-dia-7slBWblnO6s
+        )
+
+    [created_at] => 2020-10-29T19:17:41Z
+    [updated_at] => 2025-06-10T06:49:27Z
+    [promoted_at] => 
+    [width] => 5862
+    [height] => 3887
+    [color] => #59c0c0
+    [blur_hash] => LXDBKCNGX8ozQ7xuWBj[PAt7RPjZ
+    [description] => Just adding Symmetry to my photos, Pakistan Monument 
+    [alt_description] => people sitting on bench in front of brown concrete building during daytime
+    [breadcrumbs] => Array
+        (
+        )
+
+    [urls] => Array
+        (
+            [raw] => https://images.unsplash.com/photo-1603998594199-804ec60de289?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0
+            [full] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=85
+            [regular] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+            [small] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=400
+            [thumb] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=200
+            [small_s3] => https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1603998594199-804ec60de289
+        )
+
+    [links] => Array
+        (
+            [self] => https://api.unsplash.com/photos/people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+            [html] => https://unsplash.com/photos/people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+            [download] => https://unsplash.com/photos/7slBWblnO6s/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+            [download_location] => https://api.unsplash.com/photos/7slBWblnO6s/download?ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA
+        )
+
+    [likes] => 23
+    [liked_by_user] => 
+    [current_user_collections] => Array
+        (
+        )
+
+    [sponsorship] => 
+    [topic_submissions] => Array
+        (
+            [architecture-interior] => Array
+                (
+                    [status] => rejected
+                )
+
+            [wallpapers] => Array
+                (
+                    [status] => rejected
+                )
+
+        )
+
+    [asset_type] => photo
+    [user] => Array
+        (
+            [id] => vkQDFcYZK9M
+            [updated_at] => 2025-02-26T01:20:57Z
+            [username] => jaffrix
+            [name] => Syed Fahim Haider
+            [first_name] => Syed Fahim
+            [last_name] => Haider
+            [twitter_username] => FahimhaiderV
+            [portfolio_url] => 
+            [bio] => Hello there I am Syed Fahim Haider from Islamabad, Pakistan
+            [location] => 
+            [links] => Array
+                (
+                    [self] => https://api.unsplash.com/users/jaffrix
+                    [html] => https://unsplash.com/@jaffrix
+                    [photos] => https://api.unsplash.com/users/jaffrix/photos
+                    [likes] => https://api.unsplash.com/users/jaffrix/likes
+                    [portfolio] => https://api.unsplash.com/users/jaffrix/portfolio
+                )
+
+            [profile_image] => Array
+                (
+                    [small] => https://images.unsplash.com/profile-1603999140692-65b3bd51efe9image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32
+                    [medium] => https://images.unsplash.com/profile-1603999140692-65b3bd51efe9image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64
+                    [large] => https://images.unsplash.com/profile-1603999140692-65b3bd51efe9image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128
+                )
+
+            [instagram_username] => fahim.jaffri
+            [total_collections] => 0
+            [total_likes] => 7
+            [total_photos] => 32
+            [total_promoted_photos] => 0
+            [total_illustrations] => 0
+            [total_promoted_illustrations] => 0
+            [accepted_tos] => 1
+            [for_hire] => 1
+            [social] => Array
+                (
+                    [instagram_username] => fahim.jaffri
+                    [portfolio_url] => 
+                    [twitter_username] => FahimhaiderV
+                    [paypal_email] => 
+                )
+
+        )
+
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Adding image data: Array
+(
+    [url] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+    [photographer] => Syed Fahim Haider
+    [unsplash_link] => https://unsplash.com/photos/people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Final images array: Array
+(
+    [0] => Array
+        (
+            [url] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+            [photographer] => Qasim Nagori
+            [unsplash_link] => https://unsplash.com/photos/white-and-brown-concrete-building-1x3qakkpzZU
+        )
+
+    [1] => Array
+        (
+            [url] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+            [photographer] => Muhammad Irfan Baloch
+            [unsplash_link] => https://unsplash.com/photos/a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+        )
+
+    [2] => Array
+        (
+            [url] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+            [photographer] => Ali Muhammad
+            [unsplash_link] => https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+        )
+
+    [3] => Array
+        (
+            [url] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+            [photographer] => Kenaan Bin Tahir
+            [unsplash_link] => https://unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+        )
+
+    [4] => Array
+        (
+            [url] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+            [photographer] => Syed Fahim Haider
+            [unsplash_link] => https://unsplash.com/photos/people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+        )
+
+)
+
+[10-Jun-2025 15:58:15 Europe/Berlin] Sending response: Array
+(
+    [success] => 1
+    [images] => Array
+        (
+            [0] => Array
+                (
+                    [url] => https://images.unsplash.com/photo-1608020932658-d0e19a69580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwxfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+                    [photographer] => Qasim Nagori
+                    [unsplash_link] => https://unsplash.com/photos/white-and-brown-concrete-building-1x3qakkpzZU
+                )
+
+            [1] => Array
+                (
+                    [url] => https://images.unsplash.com/photo-1635016288720-c52507b9a717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwyfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+                    [photographer] => Muhammad Irfan Baloch
+                    [unsplash_link] => https://unsplash.com/photos/a-very-tall-building-sitting-next-to-a-body-of-water-QEcvxkXWp0c
+                )
+
+            [2] => Array
+                (
+                    [url] => https://images.unsplash.com/photo-1605795733251-a0b6c96d9dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHwzfHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+                    [photographer] => Ali Muhammad
+                    [unsplash_link] => https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_YkEkI8tWrQ
+                )
+
+            [3] => Array
+                (
+                    [url] => https://images.unsplash.com/photo-1580379943914-7908d1f776ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw0fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+                    [photographer] => Kenaan Bin Tahir
+                    [unsplash_link] => https://unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-during-night-time-YNCK2CHz6So
+                )
+
+            [4] => Array
+                (
+                    [url] => https://images.unsplash.com/photo-1603998594199-804ec60de289?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjIyMDR8MHwxfHNlYXJjaHw1fHxpc2xhbWFiYWR8ZW58MHx8fHwxNzQ5NTUyNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080
+                    [photographer] => Syed Fahim Haider
+                    [unsplash_link] => https://unsplash.com/photos/people-sitting-on-bench-in-front-of-brown-concrete-building-during-daytime-7slBWblnO6s
+                )
+
+        )
+
+    [response] => Here are some images for your search query:
+)
+
+[10-Jun-2025 16:00:31 Europe/Berlin] News API Request - URL: https://newsapi.org/v2/everything?q=islamabad&language=en&sortBy=publishedAt&pageSize=5
+[10-Jun-2025 16:00:31 Europe/Berlin] News API Request - Query: islamabad
+[10-Jun-2025 16:00:32 Europe/Berlin] News API Response - HTTP Code: 200
+[10-Jun-2025 16:00:32 Europe/Berlin] News API Response - Raw Response: {"status":"ok","totalResults":1008,"articles":[{"source":{"id":null,"name":"GlobeNewswire"},"author":"British Council","title":"The British Council drives educational innovation through Action Research, benefiting educators worldwide","description":"ISLAMABAD, June 09, 2025 (GLOBE NEWSWIRE) -- Through the Action Research programme, the British Council supports educational improvement worldwide. As the UK’s organisation for cultural relations and educational opportunities, it plays a key role in facilitat…","url":"https://www.globenewswire.com/news-release/2025/06/09/3095740/0/en/The-British-Council-drives-educational-innovation-through-Action-Research-benefiting-educators-worldwide.html","urlToImage":"https://ml-eu.globenewswire.com/Resource/Download/e9209329-29bf-4f65-8190-3294798dc423","publishedAt":"2025-06-09T11:08:00Z","content":"<ul><li>The British Council has established itself as a key facilitator of international educational improvement by supporting Action Research as a platform that has delivered tangible progress in sc… [+4501 chars]"},{"source":{"id":null,"name":"CNA"},"author":null,"title":"Pakistan economy to grow 2.7% in FY25, economic survey shows","description":"ISLAMABAD :Pakistan's economy is likely to expand 2.7 per cent in the fiscal year ending June 2025 after growing 2.5 per cent during the previous year, the government's economic survey showed on Monday, a day before the country's federal budget is unveiled.Th…","url":"https://www.channelnewsasia.com/business/pakistan-economy-grow-27-fy25-economic-survey-shows-5171216","urlToImage":"https://dam.mediacorp.sg/image/upload/s--X1Blb2VF--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t101054z_1_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=0xpI-reU","publishedAt":"2025-06-09T10:10:54Z","content":"ISLAMABAD :Pakistan's economy is likely to expand 2.7 per cent in the fiscal year ending June 2025 after growing 2.5 per cent during the previous year, the government's economic survey showed on Mond… [+2280 chars]"},{"source":{"id":null,"name":"CNA"},"author":null,"title":"Pakistan's economy to grow 2.7% in fiscal 2025, survey shows","description":"ISLAMABAD :Pakistan's economy likely grew 2.7 per cent in the fiscal year ending June 2025 after expanding 2.5 per cent in the previous year, the government's annual snapshot of economic performance showed on Monday, a day before the federal budget is unveile…","url":"https://www.channelnewsasia.com/business/pakistans-economy-grow-27-fiscal-2025-survey-shows-5171216","urlToImage":"https://dam.mediacorp.sg/image/upload/s--_NJjY02f--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t130139z_2_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=tX6mix0P","publishedAt":"2025-06-09T10:10:54Z","content":"ISLAMABAD :Pakistan's economy likely grew 2.7 per cent in the fiscal year ending June 2025 after expanding 2.5 per cent in the previous year, the government's annual snapshot of economic performance … [+2465 chars]"},{"source":{"id":"breitbart-news","name":"Breitbart News"},"author":"Olivia Rondeau, Olivia Rondeau","title":"Pakistani Delegation: 'Trump Is not Being Celebrated Enough' for Ceasefire with India","description":"A high-level Pakistani delegation to the United States, led by the former foreign minister and son of President Asif Ali Zardari, Bilawal Bhutto Zardari, praised President Donald Trump for brokering a ceasefire with India as the two nuclear-armed countries lo…","url":"https://www.breitbart.com/asia/2025/06/08/pakistani-delegation-trump-not-celebrated-enough-ceasefire-india/","urlToImage":"https://media.breitbart.com/media/2025/03/the-white-house-official-3-26-25-donald-trump-flickr-640x335.jpg","publishedAt":"2025-06-09T03:47:26Z","content":"WASHINGTON, DC A high-level Pakistani delegation to the United States, led by the former foreign minister and son of President Asif Ali Zardari, Bilawal Bhutto Zardari, praised President Donald Trump… [+3896 chars]"},{"source":{"id":null,"name":"Human Rights Watch"},"author":"Human Rights Watch","title":"Pakistan: Blasphemy Laws Exploited for Blackmail, Profit","description":"Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Police and residents stand amid debris outside the torched St. John Church on the outskirts of Faisalabad, Pakistan, on August 17, 2023, a day after Muslim men were incited to commit anti-Christian violence. \n © 2023…","url":"https://www.hrw.org/news/2025/06/08/pakistan-blasphemy-laws-exploited-blackmail-profit","urlToImage":"https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/05/202505asia_pakistan_faisalabad_church_debris.jpg?h=3181a3ec&itok=IWUlLyiq","publishedAt":"2025-06-09T02:00:00Z","content":"(New York)  Pakistans blasphemy laws perpetuate religious discrimination and are used to target the poor and minorities in unlawful evictions and land grabs, Human Rights Watch said in a report relea… [+8413 chars]"}]}
+[10-Jun-2025 16:00:32 Europe/Berlin] Decoded News Data: Array
+(
+    [status] => ok
+    [totalResults] => 1008
+    [articles] => Array
+        (
+            [0] => Array
+                (
+                    [source] => Array
+                        (
+                            [id] => 
+                            [name] => GlobeNewswire
+                        )
+
+                    [author] => British Council
+                    [title] => The British Council drives educational innovation through Action Research, benefiting educators worldwide
+                    [description] => ISLAMABAD, June 09, 2025 (GLOBE NEWSWIRE) -- Through the Action Research programme, the British Council supports educational improvement worldwide. As the UK’s organisation for cultural relations and educational opportunities, it plays a key role in facilitat…
+                    [url] => https://www.globenewswire.com/news-release/2025/06/09/3095740/0/en/The-British-Council-drives-educational-innovation-through-Action-Research-benefiting-educators-worldwide.html
+                    [urlToImage] => https://ml-eu.globenewswire.com/Resource/Download/e9209329-29bf-4f65-8190-3294798dc423
+                    [publishedAt] => 2025-06-09T11:08:00Z
+                    [content] => <ul><li>The British Council has established itself as a key facilitator of international educational improvement by supporting Action Research as a platform that has delivered tangible progress in sc… [+4501 chars]
+                )
+
+            [1] => Array
+                (
+                    [source] => Array
+                        (
+                            [id] => 
+                            [name] => CNA
+                        )
+
+                    [author] => 
+                    [title] => Pakistan economy to grow 2.7% in FY25, economic survey shows
+                    [description] => ISLAMABAD :Pakistan's economy is likely to expand 2.7 per cent in the fiscal year ending June 2025 after growing 2.5 per cent during the previous year, the government's economic survey showed on Monday, a day before the country's federal budget is unveiled.Th…
+                    [url] => https://www.channelnewsasia.com/business/pakistan-economy-grow-27-fy25-economic-survey-shows-5171216
+                    [urlToImage] => https://dam.mediacorp.sg/image/upload/s--X1Blb2VF--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t101054z_1_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=0xpI-reU
+                    [publishedAt] => 2025-06-09T10:10:54Z
+                    [content] => ISLAMABAD :Pakistan's economy is likely to expand 2.7 per cent in the fiscal year ending June 2025 after growing 2.5 per cent during the previous year, the government's economic survey showed on Mond… [+2280 chars]
+                )
+
+            [2] => Array
+                (
+                    [source] => Array
+                        (
+                            [id] => 
+                            [name] => CNA
+                        )
+
+                    [author] => 
+                    [title] => Pakistan's economy to grow 2.7% in fiscal 2025, survey shows
+                    [description] => ISLAMABAD :Pakistan's economy likely grew 2.7 per cent in the fiscal year ending June 2025 after expanding 2.5 per cent in the previous year, the government's annual snapshot of economic performance showed on Monday, a day before the federal budget is unveile…
+                    [url] => https://www.channelnewsasia.com/business/pakistans-economy-grow-27-fiscal-2025-survey-shows-5171216
+                    [urlToImage] => https://dam.mediacorp.sg/image/upload/s--_NJjY02f--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t130139z_2_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=tX6mix0P
+                    [publishedAt] => 2025-06-09T10:10:54Z
+                    [content] => ISLAMABAD :Pakistan's economy likely grew 2.7 per cent in the fiscal year ending June 2025 after expanding 2.5 per cent in the previous year, the government's annual snapshot of economic performance … [+2465 chars]
+                )
+
+            [3] => Array
+                (
+                    [source] => Array
+                        (
+                            [id] => breitbart-news
+                            [name] => Breitbart News
+                        )
+
+                    [author] => Olivia Rondeau, Olivia Rondeau
+                    [title] => Pakistani Delegation: 'Trump Is not Being Celebrated Enough' for Ceasefire with India
+                    [description] => A high-level Pakistani delegation to the United States, led by the former foreign minister and son of President Asif Ali Zardari, Bilawal Bhutto Zardari, praised President Donald Trump for brokering a ceasefire with India as the two nuclear-armed countries lo…
+                    [url] => https://www.breitbart.com/asia/2025/06/08/pakistani-delegation-trump-not-celebrated-enough-ceasefire-india/
+                    [urlToImage] => https://media.breitbart.com/media/2025/03/the-white-house-official-3-26-25-donald-trump-flickr-640x335.jpg
+                    [publishedAt] => 2025-06-09T03:47:26Z
+                    [content] => WASHINGTON, DC A high-level Pakistani delegation to the United States, led by the former foreign minister and son of President Asif Ali Zardari, Bilawal Bhutto Zardari, praised President Donald Trump… [+3896 chars]
+                )
+
+            [4] => Array
+                (
+                    [source] => Array
+                        (
+                            [id] => 
+                            [name] => Human Rights Watch
+                        )
+
+                    [author] => Human Rights Watch
+                    [title] => Pakistan: Blasphemy Laws Exploited for Blackmail, Profit
+                    [description] => Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Police and residents stand amid debris outside the torched St. John Church on the outskirts of Faisalabad, Pakistan, on August 17, 2023, a day after Muslim men were incited to commit anti-Christian violence. 
+ © 2023…
+                    [url] => https://www.hrw.org/news/2025/06/08/pakistan-blasphemy-laws-exploited-blackmail-profit
+                    [urlToImage] => https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/05/202505asia_pakistan_faisalabad_church_debris.jpg?h=3181a3ec&itok=IWUlLyiq
+                    [publishedAt] => 2025-06-09T02:00:00Z
+                    [content] => (New York)  Pakistans blasphemy laws perpetuate religious discrimination and are used to target the poor and minorities in unlawful evictions and land grabs, Human Rights Watch said in a report relea… [+8413 chars]
+                )
+
+        )
+
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Processing article: Array
+(
+    [source] => Array
+        (
+            [id] => 
+            [name] => GlobeNewswire
+        )
+
+    [author] => British Council
+    [title] => The British Council drives educational innovation through Action Research, benefiting educators worldwide
+    [description] => ISLAMABAD, June 09, 2025 (GLOBE NEWSWIRE) -- Through the Action Research programme, the British Council supports educational improvement worldwide. As the UK’s organisation for cultural relations and educational opportunities, it plays a key role in facilitat…
+    [url] => https://www.globenewswire.com/news-release/2025/06/09/3095740/0/en/The-British-Council-drives-educational-innovation-through-Action-Research-benefiting-educators-worldwide.html
+    [urlToImage] => https://ml-eu.globenewswire.com/Resource/Download/e9209329-29bf-4f65-8190-3294798dc423
+    [publishedAt] => 2025-06-09T11:08:00Z
+    [content] => <ul><li>The British Council has established itself as a key facilitator of international educational improvement by supporting Action Research as a platform that has delivered tangible progress in sc… [+4501 chars]
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Adding article data: Array
+(
+    [title] => The British Council drives educational innovation through Action Research, benefiting educators worldwide
+    [description] => ISLAMABAD, June 09, 2025 (GLOBE NEWSWIRE) -- Through the Action Research programme, the British Council supports educational improvement worldwide. As the UK’s organisation for cultural relations and educational opportunities, it plays a key role in facilitat…
+    [url] => https://www.globenewswire.com/news-release/2025/06/09/3095740/0/en/The-British-Council-drives-educational-innovation-through-Action-Research-benefiting-educators-worldwide.html
+    [source] => GlobeNewswire
+    [publishedAt] => 2025-06-09T11:08:00Z
+    [imageUrl] => https://ml-eu.globenewswire.com/Resource/Download/e9209329-29bf-4f65-8190-3294798dc423
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Processing article: Array
+(
+    [source] => Array
+        (
+            [id] => 
+            [name] => CNA
+        )
+
+    [author] => 
+    [title] => Pakistan economy to grow 2.7% in FY25, economic survey shows
+    [description] => ISLAMABAD :Pakistan's economy is likely to expand 2.7 per cent in the fiscal year ending June 2025 after growing 2.5 per cent during the previous year, the government's economic survey showed on Monday, a day before the country's federal budget is unveiled.Th…
+    [url] => https://www.channelnewsasia.com/business/pakistan-economy-grow-27-fy25-economic-survey-shows-5171216
+    [urlToImage] => https://dam.mediacorp.sg/image/upload/s--X1Blb2VF--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t101054z_1_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=0xpI-reU
+    [publishedAt] => 2025-06-09T10:10:54Z
+    [content] => ISLAMABAD :Pakistan's economy is likely to expand 2.7 per cent in the fiscal year ending June 2025 after growing 2.5 per cent during the previous year, the government's economic survey showed on Mond… [+2280 chars]
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Adding article data: Array
+(
+    [title] => Pakistan economy to grow 2.7% in FY25, economic survey shows
+    [description] => ISLAMABAD :Pakistan's economy is likely to expand 2.7 per cent in the fiscal year ending June 2025 after growing 2.5 per cent during the previous year, the government's economic survey showed on Monday, a day before the country's federal budget is unveiled.Th…
+    [url] => https://www.channelnewsasia.com/business/pakistan-economy-grow-27-fy25-economic-survey-shows-5171216
+    [source] => CNA
+    [publishedAt] => 2025-06-09T10:10:54Z
+    [imageUrl] => https://dam.mediacorp.sg/image/upload/s--X1Blb2VF--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t101054z_1_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=0xpI-reU
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Processing article: Array
+(
+    [source] => Array
+        (
+            [id] => 
+            [name] => CNA
+        )
+
+    [author] => 
+    [title] => Pakistan's economy to grow 2.7% in fiscal 2025, survey shows
+    [description] => ISLAMABAD :Pakistan's economy likely grew 2.7 per cent in the fiscal year ending June 2025 after expanding 2.5 per cent in the previous year, the government's annual snapshot of economic performance showed on Monday, a day before the federal budget is unveile…
+    [url] => https://www.channelnewsasia.com/business/pakistans-economy-grow-27-fiscal-2025-survey-shows-5171216
+    [urlToImage] => https://dam.mediacorp.sg/image/upload/s--_NJjY02f--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t130139z_2_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=tX6mix0P
+    [publishedAt] => 2025-06-09T10:10:54Z
+    [content] => ISLAMABAD :Pakistan's economy likely grew 2.7 per cent in the fiscal year ending June 2025 after expanding 2.5 per cent in the previous year, the government's annual snapshot of economic performance … [+2465 chars]
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Adding article data: Array
+(
+    [title] => Pakistan's economy to grow 2.7% in fiscal 2025, survey shows
+    [description] => ISLAMABAD :Pakistan's economy likely grew 2.7 per cent in the fiscal year ending June 2025 after expanding 2.5 per cent in the previous year, the government's annual snapshot of economic performance showed on Monday, a day before the federal budget is unveile…
+    [url] => https://www.channelnewsasia.com/business/pakistans-economy-grow-27-fiscal-2025-survey-shows-5171216
+    [source] => CNA
+    [publishedAt] => 2025-06-09T10:10:54Z
+    [imageUrl] => https://dam.mediacorp.sg/image/upload/s--_NJjY02f--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t130139z_2_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=tX6mix0P
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Processing article: Array
+(
+    [source] => Array
+        (
+            [id] => breitbart-news
+            [name] => Breitbart News
+        )
+
+    [author] => Olivia Rondeau, Olivia Rondeau
+    [title] => Pakistani Delegation: 'Trump Is not Being Celebrated Enough' for Ceasefire with India
+    [description] => A high-level Pakistani delegation to the United States, led by the former foreign minister and son of President Asif Ali Zardari, Bilawal Bhutto Zardari, praised President Donald Trump for brokering a ceasefire with India as the two nuclear-armed countries lo…
+    [url] => https://www.breitbart.com/asia/2025/06/08/pakistani-delegation-trump-not-celebrated-enough-ceasefire-india/
+    [urlToImage] => https://media.breitbart.com/media/2025/03/the-white-house-official-3-26-25-donald-trump-flickr-640x335.jpg
+    [publishedAt] => 2025-06-09T03:47:26Z
+    [content] => WASHINGTON, DC A high-level Pakistani delegation to the United States, led by the former foreign minister and son of President Asif Ali Zardari, Bilawal Bhutto Zardari, praised President Donald Trump… [+3896 chars]
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Adding article data: Array
+(
+    [title] => Pakistani Delegation: 'Trump Is not Being Celebrated Enough' for Ceasefire with India
+    [description] => A high-level Pakistani delegation to the United States, led by the former foreign minister and son of President Asif Ali Zardari, Bilawal Bhutto Zardari, praised President Donald Trump for brokering a ceasefire with India as the two nuclear-armed countries lo…
+    [url] => https://www.breitbart.com/asia/2025/06/08/pakistani-delegation-trump-not-celebrated-enough-ceasefire-india/
+    [source] => Breitbart News
+    [publishedAt] => 2025-06-09T03:47:26Z
+    [imageUrl] => https://media.breitbart.com/media/2025/03/the-white-house-official-3-26-25-donald-trump-flickr-640x335.jpg
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Processing article: Array
+(
+    [source] => Array
+        (
+            [id] => 
+            [name] => Human Rights Watch
+        )
+
+    [author] => Human Rights Watch
+    [title] => Pakistan: Blasphemy Laws Exploited for Blackmail, Profit
+    [description] => Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Police and residents stand amid debris outside the torched St. John Church on the outskirts of Faisalabad, Pakistan, on August 17, 2023, a day after Muslim men were incited to commit anti-Christian violence. 
+ © 2023…
+    [url] => https://www.hrw.org/news/2025/06/08/pakistan-blasphemy-laws-exploited-blackmail-profit
+    [urlToImage] => https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/05/202505asia_pakistan_faisalabad_church_debris.jpg?h=3181a3ec&itok=IWUlLyiq
+    [publishedAt] => 2025-06-09T02:00:00Z
+    [content] => (New York)  Pakistans blasphemy laws perpetuate religious discrimination and are used to target the poor and minorities in unlawful evictions and land grabs, Human Rights Watch said in a report relea… [+8413 chars]
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Adding article data: Array
+(
+    [title] => Pakistan: Blasphemy Laws Exploited for Blackmail, Profit
+    [description] => Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Police and residents stand amid debris outside the torched St. John Church on the outskirts of Faisalabad, Pakistan, on August 17, 2023, a day after Muslim men were incited to commit anti-Christian violence. 
+ © 2023…
+    [url] => https://www.hrw.org/news/2025/06/08/pakistan-blasphemy-laws-exploited-blackmail-profit
+    [source] => Human Rights Watch
+    [publishedAt] => 2025-06-09T02:00:00Z
+    [imageUrl] => https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/05/202505asia_pakistan_faisalabad_church_debris.jpg?h=3181a3ec&itok=IWUlLyiq
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Final articles array: Array
+(
+    [0] => Array
+        (
+            [title] => The British Council drives educational innovation through Action Research, benefiting educators worldwide
+            [description] => ISLAMABAD, June 09, 2025 (GLOBE NEWSWIRE) -- Through the Action Research programme, the British Council supports educational improvement worldwide. As the UK’s organisation for cultural relations and educational opportunities, it plays a key role in facilitat…
+            [url] => https://www.globenewswire.com/news-release/2025/06/09/3095740/0/en/The-British-Council-drives-educational-innovation-through-Action-Research-benefiting-educators-worldwide.html
+            [source] => GlobeNewswire
+            [publishedAt] => 2025-06-09T11:08:00Z
+            [imageUrl] => https://ml-eu.globenewswire.com/Resource/Download/e9209329-29bf-4f65-8190-3294798dc423
+        )
+
+    [1] => Array
+        (
+            [title] => Pakistan economy to grow 2.7% in FY25, economic survey shows
+            [description] => ISLAMABAD :Pakistan's economy is likely to expand 2.7 per cent in the fiscal year ending June 2025 after growing 2.5 per cent during the previous year, the government's economic survey showed on Monday, a day before the country's federal budget is unveiled.Th…
+            [url] => https://www.channelnewsasia.com/business/pakistan-economy-grow-27-fy25-economic-survey-shows-5171216
+            [source] => CNA
+            [publishedAt] => 2025-06-09T10:10:54Z
+            [imageUrl] => https://dam.mediacorp.sg/image/upload/s--X1Blb2VF--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t101054z_1_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=0xpI-reU
+        )
+
+    [2] => Array
+        (
+            [title] => Pakistan's economy to grow 2.7% in fiscal 2025, survey shows
+            [description] => ISLAMABAD :Pakistan's economy likely grew 2.7 per cent in the fiscal year ending June 2025 after expanding 2.5 per cent in the previous year, the government's annual snapshot of economic performance showed on Monday, a day before the federal budget is unveile…
+            [url] => https://www.channelnewsasia.com/business/pakistans-economy-grow-27-fiscal-2025-survey-shows-5171216
+            [source] => CNA
+            [publishedAt] => 2025-06-09T10:10:54Z
+            [imageUrl] => https://dam.mediacorp.sg/image/upload/s--_NJjY02f--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t130139z_2_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=tX6mix0P
+        )
+
+    [3] => Array
+        (
+            [title] => Pakistani Delegation: 'Trump Is not Being Celebrated Enough' for Ceasefire with India
+            [description] => A high-level Pakistani delegation to the United States, led by the former foreign minister and son of President Asif Ali Zardari, Bilawal Bhutto Zardari, praised President Donald Trump for brokering a ceasefire with India as the two nuclear-armed countries lo…
+            [url] => https://www.breitbart.com/asia/2025/06/08/pakistani-delegation-trump-not-celebrated-enough-ceasefire-india/
+            [source] => Breitbart News
+            [publishedAt] => 2025-06-09T03:47:26Z
+            [imageUrl] => https://media.breitbart.com/media/2025/03/the-white-house-official-3-26-25-donald-trump-flickr-640x335.jpg
+        )
+
+    [4] => Array
+        (
+            [title] => Pakistan: Blasphemy Laws Exploited for Blackmail, Profit
+            [description] => Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Police and residents stand amid debris outside the torched St. John Church on the outskirts of Faisalabad, Pakistan, on August 17, 2023, a day after Muslim men were incited to commit anti-Christian violence. 
+ © 2023…
+            [url] => https://www.hrw.org/news/2025/06/08/pakistan-blasphemy-laws-exploited-blackmail-profit
+            [source] => Human Rights Watch
+            [publishedAt] => 2025-06-09T02:00:00Z
+            [imageUrl] => https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/05/202505asia_pakistan_faisalabad_church_debris.jpg?h=3181a3ec&itok=IWUlLyiq
+        )
+
+)
+
+[10-Jun-2025 16:00:32 Europe/Berlin] Sending response: Array
+(
+    [success] => 1
+    [articles] => Array
+        (
+            [0] => Array
+                (
+                    [title] => The British Council drives educational innovation through Action Research, benefiting educators worldwide
+                    [description] => ISLAMABAD, June 09, 2025 (GLOBE NEWSWIRE) -- Through the Action Research programme, the British Council supports educational improvement worldwide. As the UK’s organisation for cultural relations and educational opportunities, it plays a key role in facilitat…
+                    [url] => https://www.globenewswire.com/news-release/2025/06/09/3095740/0/en/The-British-Council-drives-educational-innovation-through-Action-Research-benefiting-educators-worldwide.html
+                    [source] => GlobeNewswire
+                    [publishedAt] => 2025-06-09T11:08:00Z
+                    [imageUrl] => https://ml-eu.globenewswire.com/Resource/Download/e9209329-29bf-4f65-8190-3294798dc423
+                )
+
+            [1] => Array
+                (
+                    [title] => Pakistan economy to grow 2.7% in FY25, economic survey shows
+                    [description] => ISLAMABAD :Pakistan's economy is likely to expand 2.7 per cent in the fiscal year ending June 2025 after growing 2.5 per cent during the previous year, the government's economic survey showed on Monday, a day before the country's federal budget is unveiled.Th…
+                    [url] => https://www.channelnewsasia.com/business/pakistan-economy-grow-27-fy25-economic-survey-shows-5171216
+                    [source] => CNA
+                    [publishedAt] => 2025-06-09T10:10:54Z
+                    [imageUrl] => https://dam.mediacorp.sg/image/upload/s--X1Blb2VF--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t101054z_1_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=0xpI-reU
+                )
+
+            [2] => Array
+                (
+                    [title] => Pakistan's economy to grow 2.7% in fiscal 2025, survey shows
+                    [description] => ISLAMABAD :Pakistan's economy likely grew 2.7 per cent in the fiscal year ending June 2025 after expanding 2.5 per cent in the previous year, the government's annual snapshot of economic performance showed on Monday, a day before the federal budget is unveile…
+                    [url] => https://www.channelnewsasia.com/business/pakistans-economy-grow-27-fiscal-2025-survey-shows-5171216
+                    [source] => CNA
+                    [publishedAt] => 2025-06-09T10:10:54Z
+                    [imageUrl] => https://dam.mediacorp.sg/image/upload/s--_NJjY02f--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-06-09t130139z_2_lynxmpel580am_rtroptp_3_pakistan-economy-eid.jpg?itok=tX6mix0P
+                )
+
+            [3] => Array
+                (
+                    [title] => Pakistani Delegation: 'Trump Is not Being Celebrated Enough' for Ceasefire with India
+                    [description] => A high-level Pakistani delegation to the United States, led by the former foreign minister and son of President Asif Ali Zardari, Bilawal Bhutto Zardari, praised President Donald Trump for brokering a ceasefire with India as the two nuclear-armed countries lo…
+                    [url] => https://www.breitbart.com/asia/2025/06/08/pakistani-delegation-trump-not-celebrated-enough-ceasefire-india/
+                    [source] => Breitbart News
+                    [publishedAt] => 2025-06-09T03:47:26Z
+                    [imageUrl] => https://media.breitbart.com/media/2025/03/the-white-house-official-3-26-25-donald-trump-flickr-640x335.jpg
+                )
+
+            [4] => Array
+                (
+                    [title] => Pakistan: Blasphemy Laws Exploited for Blackmail, Profit
+                    [description] => Click to expand Image
+ 
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Police and residents stand amid debris outside the torched St. John Church on the outskirts of Faisalabad, Pakistan, on August 17, 2023, a day after Muslim men were incited to commit anti-Christian violence. 
+ © 2023…
+                    [url] => https://www.hrw.org/news/2025/06/08/pakistan-blasphemy-laws-exploited-blackmail-profit
+                    [source] => Human Rights Watch
+                    [publishedAt] => 2025-06-09T02:00:00Z
+                    [imageUrl] => https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/05/202505asia_pakistan_faisalabad_church_debris.jpg?h=3181a3ec&itok=IWUlLyiq
+                )
+
+        )
+
+    [response] => Here are the latest news articles for your search query:
+)
+

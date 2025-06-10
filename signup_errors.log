@@ -1,0 +1,44 @@
+[10-Jun-2025 15:34:49 Europe/Berlin] === New Signup Attempt ===
+[10-Jun-2025 15:34:49 Europe/Berlin] Time: 2025-06-10 15:34:49
+[10-Jun-2025 15:35:13 Europe/Berlin] === New Signup Attempt ===
+[10-Jun-2025 15:35:13 Europe/Berlin] Time: 2025-06-10 15:35:13
+[10-Jun-2025 15:35:13 Europe/Berlin] Starting signup process for email: syedabdullahzaidi473@gmail.com
+[10-Jun-2025 15:35:13 Europe/Berlin] Received signup data - Name: Syed Abdullah, Email: syedabdullahzaidi473@gmail.com
+[10-Jun-2025 15:35:13 Europe/Berlin] Database connection established successfully
+[10-Jun-2025 15:35:13 Europe/Berlin] Transaction started
+[10-Jun-2025 15:35:13 Europe/Berlin] Email check completed - Email is available
+[10-Jun-2025 15:35:13 Europe/Berlin] Password hashed successfully
+[10-Jun-2025 15:35:13 Europe/Berlin] Verification token generated: 76766767047166380f21eaf3e85f62618a58ee09176a37580fd6da27624a98d0
+[10-Jun-2025 15:35:13 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah","email":"syedabdullahzaidi473@gmail.com","plan_id":1,"token_expiry":"2025-06-11 15:35:13"}
+[10-Jun-2025 15:35:13 Europe/Berlin] User inserted successfully
+[10-Jun-2025 15:35:13 Europe/Berlin] User ID obtained: 5
+[10-Jun-2025 15:35:18 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi473@gmail.com
+[10-Jun-2025 15:35:18 Europe/Berlin] Transaction committed successfully
+[10-Jun-2025 15:43:19 Europe/Berlin] === New Signup Attempt ===
+[10-Jun-2025 15:43:19 Europe/Berlin] Time: 2025-06-10 15:43:19
+[10-Jun-2025 15:44:14 Europe/Berlin] === New Signup Attempt ===
+[10-Jun-2025 15:44:14 Europe/Berlin] Time: 2025-06-10 15:44:14
+[10-Jun-2025 15:44:53 Europe/Berlin] === New Signup Attempt ===
+[10-Jun-2025 15:44:53 Europe/Berlin] Time: 2025-06-10 15:44:53
+[10-Jun-2025 15:44:53 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[10-Jun-2025 15:44:53 Europe/Berlin] Received signup data - Name: Syed Abdullah, Email: syedabdullahzaidi5@gmail.com
+[10-Jun-2025 15:44:53 Europe/Berlin] Database connection established successfully
+[10-Jun-2025 15:44:53 Europe/Berlin] Transaction started
+[10-Jun-2025 15:44:53 Europe/Berlin] Email check completed - Email is available
+[10-Jun-2025 15:44:53 Europe/Berlin] Password hashed successfully
+[10-Jun-2025 15:44:53 Europe/Berlin] Verification token generated: f924a66f6049971fb9c23a98f4283ae5c744e04de1c05fae5cd3b61a26b0db9c
+[10-Jun-2025 15:44:53 Europe/Berlin] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list'
+[10-Jun-2025 15:51:43 Europe/Berlin] === New Signup Attempt ===
+[10-Jun-2025 15:51:43 Europe/Berlin] Time: 2025-06-10 15:51:43
+[10-Jun-2025 15:51:43 Europe/Berlin] Starting signup process for email: syedabdullahzaidi5@gmail.com
+[10-Jun-2025 15:51:43 Europe/Berlin] Received signup data - Name: Syed Abdullah, Email: syedabdullahzaidi5@gmail.com
+[10-Jun-2025 15:51:43 Europe/Berlin] Database connection established successfully
+[10-Jun-2025 15:51:43 Europe/Berlin] Transaction started
+[10-Jun-2025 15:51:43 Europe/Berlin] Email check completed - Email is available
+[10-Jun-2025 15:51:43 Europe/Berlin] Password hashed successfully
+[10-Jun-2025 15:51:43 Europe/Berlin] Verification token generated: 4bbad14f869fc542f7486196e0f12d2c383cb213cd8a937c4b7edd3c60f5a540
+[10-Jun-2025 15:51:43 Europe/Berlin] Attempting to insert user with data: {"name":"Syed Abdullah","email":"syedabdullahzaidi5@gmail.com","plan_id":1,"token_expiry":"2025-06-11 15:51:43"}
+[10-Jun-2025 15:51:43 Europe/Berlin] User inserted successfully
+[10-Jun-2025 15:51:43 Europe/Berlin] User ID obtained: 1
+[10-Jun-2025 15:51:48 Europe/Berlin] Verification email sent successfully to: syedabdullahzaidi5@gmail.com
+[10-Jun-2025 15:51:48 Europe/Berlin] Transaction committed successfully

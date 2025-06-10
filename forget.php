@@ -55,9 +55,7 @@ function sendVerificationEmail($email, $token, $otp) {
         $mail->Subject = 'Password Reset - AR GPT';
         
         // Get the current domain
-        $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https://' : 'http://';
-        $domain = $_SERVER['HTTP_HOST'];
-        $verificationLink = $protocol . $domain . '/verify_email_reset.php?token=' . $token;
+        $verificationLink = 'https://argpt.great-site.net/verify_email_reset.php?token=' . $token;
         
         // Create a beautiful HTML email template
         $emailBody = '

@@ -60,7 +60,7 @@ function sendVerificationEmail($email, $token) {
         $mail->Subject = 'Verify Your Email - AR GPT';
         
         // Create verification link
-        $verificationLink = "http://" . $_SERVER['HTTP_HOST'] . "/AR%20Bot/verify_email.php?token=" . $token;
+        $verificationLink = "https://argpt.great-site.net/verify_email.php?token=" . $token;
         
         // Email body
         $mail->Body = "
