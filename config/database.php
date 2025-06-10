@@ -8,10 +8,10 @@ class Database {
     private $conn;
     
     private function __construct() {
-        $host = 'localhost';
-        $dbname = 'ar_bot';
-        $username = 'root';
-        $password = '';
+        $host = 'sql110.infinityfree.com';
+        $dbname = 'if0_37150518_ar_gpt';
+        $username = 'if0_37150518';
+        $password = 'abdullahrajab02';
         
         try {
             $this->conn = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8mb4", $username, $password);
