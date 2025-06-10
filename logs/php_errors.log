@@ -21,3 +21,12 @@ Stack trace:
 [10-Jun-2025 11:41:58 Europe/Berlin] Failed to save chat history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'
 [10-Jun-2025 11:42:09 Europe/Berlin] Failed to save chat history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'
 [10-Jun-2025 11:42:19 Europe/Berlin] Failed to save chat history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'
+[10-Jun-2025 11:45:00 Europe/Berlin] Failed to save chat history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'
+[10-Jun-2025 11:45:58 Europe/Berlin] Database error while saving chat history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'
+[10-Jun-2025 11:45:58 Europe/Berlin] SQL State: 42S22
+[10-Jun-2025 11:45:58 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\XAMPP\htdocs\AR Bot\api\chat.php on line 197
+[10-Jun-2025 11:45:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function errorInfo() on null in C:\XAMPP\htdocs\AR Bot\api\chat.php:197
+Stack trace:
+#0 {main}
+  thrown in C:\XAMPP\htdocs\AR Bot\api\chat.php on line 197
+[10-Jun-2025 11:46:32 Europe/Berlin] Failed to save chat history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'

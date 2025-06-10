@@ -62,7 +62,18 @@ if ($current_session) {
 }
 
 $stmt = $conn->prepare("
-    SELECT * FROM chat_history 
+    SELECT 
+        id,
+        user_id,
+        message,
+        response,
+        model,
+        created_at,
+        CASE 
+            WHEN message != '' AND response = '' THEN 1
+            ELSE 0
+        END as is_user
+    FROM chat_history 
     WHERE user_id = ? $date_condition
     ORDER BY created_at ASC
 ");
@@ -1044,7 +1055,7 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
                             </div>
                         <?php endif; ?>
                         <div class="message-content">
-                            <?php echo htmlspecialchars($chat['message']); ?>
+                            <?php echo htmlspecialchars($chat['is_user'] ? $chat['message'] : $chat['response']); ?>
                         </div>
                     </div>
                 <?php endforeach; ?>

@@ -161,8 +161,13 @@ try {
 
     // Save chat history
     try {
+        // First save the user's message
         $stmt = $db->prepare("INSERT INTO chat_history (user_id, message, response, model) VALUES (?, ?, ?, ?)");
-        $stmt->execute([$_SESSION['user_id'], $message, $aiResponse, $model]);
+        $stmt->execute([$_SESSION['user_id'], $message, '', $model]);
+        
+        // Then save the AI's response
+        $stmt = $db->prepare("INSERT INTO chat_history (user_id, message, response, model) VALUES (?, ?, ?, ?)");
+        $stmt->execute([$_SESSION['user_id'], '', $aiResponse, $model]);
     } catch (PDOException $e) {
         // Log the error but don't fail the request
         error_log("Failed to save chat history: " . $e->getMessage());
