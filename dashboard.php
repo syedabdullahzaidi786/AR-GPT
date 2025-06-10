@@ -539,8 +539,10 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
         }
 
         .message-content {
-            font-size: 1rem;
-            line-height: 1.6;
+            padding: 1rem;
+            line-height: 1.5;
+            white-space: pre-wrap;
+            word-wrap: break-word;
         }
 
         /* Input Area */
@@ -793,31 +795,38 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
         /* Add styles for images */
         .message-images {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1rem;
-            margin-top: 1rem;
-            padding: 0.5rem;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 1rem 0;
+            padding: 1rem;
             background: rgba(0, 0, 0, 0.02);
-            border-radius: 8px;
+            border-radius: 12px;
         }
 
         .image-container {
             position: relative;
-            border-radius: 8px;
+            border-radius: 12px;
             overflow: hidden;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            background: white;
         }
 
         .image-container:hover {
-            transform: translateY(-2px);
+            transform: translateY(-4px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
         }
 
         .image-container img {
             width: 100%;
-            height: 200px;
+            height: 250px;
             object-fit: cover;
             display: block;
+            transition: transform 0.3s ease;
+        }
+
+        .image-container:hover img {
+            transform: scale(1.05);
         }
 
         .image-attribution {
@@ -825,29 +834,33 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             bottom: 0;
             left: 0;
             right: 0;
-            padding: 0.5rem;
-            background: rgba(0, 0, 0, 0.7);
+            padding: 0.75rem;
+            background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
             color: white;
-            font-size: 0.8rem;
-            text-align: center;
+            font-size: 0.9rem;
+            text-align: left;
         }
 
         .image-attribution a {
             color: white;
-            text-decoration: underline;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s ease;
         }
 
         .image-attribution a:hover {
             color: #e0e0e0;
+            text-decoration: underline;
         }
 
         @media (max-width: 768px) {
             .message-images {
                 grid-template-columns: 1fr;
+                gap: 1rem;
             }
             
             .image-container img {
-                height: 150px;
+                height: 200px;
             }
         }
 
@@ -949,6 +962,45 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             .powered-by {
                 font-size: 0.9rem;
             }
+        }
+
+        /* Unsplash Image Styles */
+        .image-container {
+            margin: 1rem 0;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .unsplash-image {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: transform 0.3s ease;
+        }
+
+        .unsplash-image:hover {
+            transform: scale(1.02);
+        }
+
+        .photographer-credit {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin: 0.5rem 0;
+        }
+
+        .unsplash-link {
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+
+        .unsplash-link a {
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+
+        .unsplash-link a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -1212,7 +1264,10 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             messageInput.style.height = 'auto';
             
             try {
-                const response = await fetch('api/chat.php', {
+                const apiEndpoint = selectedModel === 'unsplash' ? 'api/unsplash.php' : 'api/chat.php';
+                console.log('Sending request to:', apiEndpoint);
+                
+                const response = await fetch(apiEndpoint, {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
@@ -1228,17 +1283,29 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 }
                 
                 const data = await response.json();
+                console.log('API Response:', data);
                 
                 if (data.success) {
-                    // Show AI response
-                    addMessage(data.response, false);
+                    if (selectedModel === 'unsplash') {
+                        if (data.images && Array.isArray(data.images) && data.images.length > 0) {
+                            console.log('Processing Unsplash images:', data.images);
+                            addImageMessage(data.images);
+                        } else {
+                            console.error('No images in response:', data);
+                            addMessage('No images found for your search query.', false);
+                        }
+                    } else if (data.response) {
+                        addMessage(data.response, false);
+                    } else {
+                        throw new Error('Invalid response format');
+                    }
                 } else {
-                    // Show error message
+                    console.error('API Error:', data.error);
                     addMessage(`Error: ${data.error || 'An error occurred'}`, false);
                 }
             } catch (error) {
                 console.error('Error:', error);
-                addMessage(`Error: ${error.message || 'Sorry, there was an error. Please try again.'}`, false);
+                addMessage(`Error: ${error.message}`, false);
             } finally {
                 // Re-enable input and button
                 messageInput.disabled = false;
@@ -1267,6 +1334,64 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             messageContent.className = 'message-content';
             messageContent.textContent = message;
             messageDiv.appendChild(messageContent);
+            
+            chatContainer.appendChild(messageDiv);
+            
+            // Smooth scroll to bottom
+            chatContainer.scrollTo({
+                top: chatContainer.scrollHeight,
+                behavior: 'smooth'
+            });
+        }
+
+        function addImageMessage(images) {
+            console.log('Adding image message:', images);
+            
+            const chatContainer = document.getElementById('chatContainer');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'message ai-message';
+            
+            let imagesHtml = '';
+            images.forEach((image, index) => {
+                console.log(`Processing image ${index}:`, image);
+                if (image.url && image.photographer && image.unsplash_link) {
+                    imagesHtml += `
+                        <div class="image-container">
+                            <img src="${image.url}" 
+                                 alt="Unsplash Image" 
+                                 class="unsplash-image" 
+                                 onerror="this.onerror=null; console.log('Image failed to load:', this.src);"
+                                 onload="console.log('Image loaded successfully:', this.src);">
+                            <div class="image-attribution">
+                                📸 Photo by ${image.photographer} on Unsplash
+                                <br>
+                                <a href="${image.unsplash_link}" target="_blank" rel="noopener noreferrer">View on Unsplash</a>
+                            </div>
+                        </div>`;
+                } else {
+                    console.error('Invalid image data:', image);
+                }
+            });
+            
+            if (!imagesHtml) {
+                console.error('No valid images to display');
+                addMessage('Error: Could not display images.', false);
+                return;
+            }
+            
+            messageDiv.innerHTML = `
+                <div class="message-header">
+                    <div class="ai-avatar">
+                        <i class="fas fa-image"></i>
+                    </div>
+                    <span>Image Search</span>
+                </div>
+                <div class="message-content">
+                    <div class="message-images">
+                        ${imagesHtml}
+                    </div>
+                </div>
+            `;
             
             chatContainer.appendChild(messageDiv);
             
