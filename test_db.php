@@ -6,7 +6,7 @@ require_once 'config/database.php';
 
 try {
     $db = Database::getInstance()->getConnection();
-    echo "Database connection successful\n";
+    echo "Database connection successful!";
 
     // Check plans table
     $plans = $db->query("SELECT * FROM plans")->fetchAll(PDO::FETCH_ASSOC);
@@ -80,6 +80,6 @@ try {
     }
 
 } catch (Exception $e) {
-    echo "Error: " . $e->getMessage() . "\n";
+    echo "Error: " . $e->getMessage();
 }
 ?> 

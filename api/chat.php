@@ -1,15 +1,28 @@
 <?php
+// Prevent any output before JSON response
+ob_start();
+
+// Disable error display but enable logging
+error_reporting(E_ALL);
+ini_set('display_errors', 0);
+ini_set('log_errors', 1);
+ini_set('error_log', '../logs/php_errors.log');
+
 session_start();
 require_once '../config/database.php';
-require '../vendor/autoload.php';
 
-use Google\Cloud\Core\ServiceBuilder;
-use Google\Cloud\Language\LanguageClient;
+// Clear any previous output
+ob_clean();
+
+// Set proper content type header
+header('Content-Type: application/json; charset=utf-8');
 
 // Check if user is logged in
 if (!isset($_SESSION['user_id'])) {
-    http_response_code(401);
-    echo json_encode(['success' => false, 'error' => 'Unauthorized']);
+    echo json_encode([
+        'success' => false,
+        'error' => 'Unauthorized'
+    ]);
     exit();
 }
 
@@ -18,17 +31,24 @@ try {
     $db = Database::getInstance()->getConnection();
     
     // Get the request body
-    $data = json_decode(file_get_contents('php://input'), true);
+    $rawInput = file_get_contents('php://input');
+    if (empty($rawInput)) {
+        throw new Exception('No input received');
+    }
+    
+    $data = json_decode($rawInput, true);
+    if (json_last_error() !== JSON_ERROR_NONE) {
+        throw new Exception('Invalid JSON input: ' . json_last_error_msg());
+    }
+    
     $message = $data['message'] ?? '';
     $model = $data['model'] ?? 'gemini'; // Default to Gemini if not specified
-    $unsplashModel = $data['unsplashModel'] ?? 'default'; // Default to default if not specified
 
     if (empty($message)) {
         throw new Exception('Message is required');
     }
 
     $aiResponse = '';
-    $images = [];
     
     if ($model === 'weather') {
         // OpenWeatherMap API configuration
@@ -91,7 +111,7 @@ try {
 
     } else if ($model === 'gemini') {
         // Gemini API configuration
-        $apiKey = getenv('GEMINI_API_KEY') ?: 'AIzaSyC5Kr3Mx_drSaLqB1R1swtwmI1FSnuQYQk';
+        $apiKey = 'AIzaSyC5Kr3Mx_drSaLqB1R1swtwmI1FSnuQYQk';
         $url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=' . $apiKey;
 
         $requestData = [
@@ -137,131 +157,33 @@ try {
         if (!$aiResponse) {
             throw new Exception('Unexpected API response structure');
         }
-
-    } else if ($model === 'openai') {
-        // OpenAI API configuration
-        $apiKey = getenv('OPENAI_API_KEY') ?: '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';
-        $url = 'https://api.openai.com/v1/chat/completions';
-
-        $requestData = [
-            'model' => 'gpt-3.5-turbo',
-            'messages' => [
-                ['role' => 'user', 'content' => $message]
-            ],
-            'temperature' => 0.7,
-            'max_tokens' => 1000
-        ];
-
-        $ch = curl_init($url);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($ch, CURLOPT_POST, true);
-        curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($requestData));
-        curl_setopt($ch, CURLOPT_HTTPHEADER, [
-            'Content-Type: application/json',
-            'Authorization: Bearer ' . $apiKey
-        ]);
-        curl_setopt($ch, CURLOPT_TIMEOUT, 30);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
-
-        $response = curl_exec($ch);
-        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-        $curlError = curl_error($ch);
-        $curlErrno = curl_errno($ch);
-        curl_close($ch);
-
-        if ($curlErrno) {
-            throw new Exception('Network Error: ' . $curlError);
-        }
-
-        if ($httpCode !== 200) {
-            $errorDetails = json_decode($response, true);
-            $errorMessage = $errorDetails['error']['message'] ?? 'Unknown API error';
-            throw new Exception('API Error: ' . $errorMessage);
-        }
-
-        $responseData = json_decode($response, true);
-        if (json_last_error() !== JSON_ERROR_NONE) {
-            throw new Exception('Invalid JSON response from API');
-        }
-
-        $aiResponse = $responseData['choices'][0]['message']['content'] ?? null;
-        if (!$aiResponse) {
-            throw new Exception('Unexpected API response structure');
-        }
-
-    } else if ($model === 'unsplash') {
-        // Unsplash API configuration
-        $unsplashApiKey = getenv('UNSPLASH_API_KEY') ?: 'zGwmo9iiFfKuqbmFkJVIPKnbhNeC9aZrl1g6F2okB_4';
-        $searchQuery = urlencode($message);
-        
-        // Build Unsplash URL with parameters
-        $unsplashParams = [
-            'query' => $searchQuery,
-            'per_page' => 9, // Show more images when Unsplash is the main model
-            'client_id' => $unsplashApiKey
-        ];
-
-        $unsplashUrl = "https://api.unsplash.com/search/photos?" . http_build_query($unsplashParams);
-
-        $ch = curl_init($unsplashUrl);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($ch, CURLOPT_HTTPHEADER, [
-            'Accept-Version: v1',
-            'Authorization: Client-ID ' . $unsplashApiKey
-        ]);
-        curl_setopt($ch, CURLOPT_TIMEOUT, 30);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
-
-        $unsplashResponse = curl_exec($ch);
-        $unsplashHttpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-        curl_close($ch);
-
-        if ($unsplashHttpCode === 200) {
-            $unsplashData = json_decode($unsplashResponse, true);
-            if (isset($unsplashData['results'])) {
-                foreach ($unsplashData['results'] as $photo) {
-                    $images[] = [
-                        'url' => $photo['urls']['regular'],
-                        'thumb' => $photo['urls']['thumb'],
-                        'alt' => $photo['alt_description'] ?? 'Unsplash image',
-                        'author' => $photo['user']['name'],
-                        'author_url' => $photo['user']['links']['html'],
-                        'orientation' => $photo['orientation'] ?? 'landscape',
-                        'color' => $photo['color'] ?? '#000000'
-                    ];
-                }
-            }
-        }
-
-        // For Unsplash model, we don't need an AI response
-        $aiResponse = '';
-    } else {
-        throw new Exception('Invalid model selected');
     }
 
-    // Save the conversation to database
-    // Save user message
-    $stmt = $db->prepare("INSERT INTO chat_history (user_id, message, is_user, model) VALUES (?, ?, 1, ?)");
-    $stmt->execute([$_SESSION['user_id'], $message, $model]);
-
-    // Save AI response only if not using Unsplash model
-    if ($model !== 'unsplash') {
-        $stmt = $db->prepare("INSERT INTO chat_history (user_id, message, is_user, model) VALUES (?, ?, 0, ?)");
-        $stmt->execute([$_SESSION['user_id'], $aiResponse, $model]);
+    // Save chat history
+    try {
+        $stmt = $db->prepare("INSERT INTO chat_history (user_id, message, response, model) VALUES (?, ?, ?, ?)");
+        $stmt->execute([$_SESSION['user_id'], $message, $aiResponse, $model]);
+    } catch (PDOException $e) {
+        // Log the error but don't fail the request
+        error_log("Failed to save chat history: " . $e->getMessage());
     }
 
+    // Return success response
     echo json_encode([
         'success' => true,
-        'response' => $aiResponse,
-        'model' => $model,
-        'images' => $images
+        'response' => $aiResponse
     ]);
 
 } catch (Exception $e) {
     error_log("Chat Error: " . $e->getMessage());
+    error_log("Stack trace: " . $e->getTraceAsString());
     http_response_code(500);
     echo json_encode([
         'success' => false,
         'error' => $e->getMessage()
     ]);
-} 
+}
+
+// End output buffering and send response
+ob_end_flush();
+?> 

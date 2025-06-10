@@ -75,7 +75,7 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Chat Assistant</title>
+    <title>AR GPT | Dahboard</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -1184,7 +1184,7 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
         window.addEventListener('resize', handleResize);
 
         // Handle form submission (using send button click)
-        document.getElementById('sendButton').addEventListener('click', async () => {
+        async function sendMessage() {
             const messageInput = document.getElementById('message');
             const message = messageInput.value.trim();
             const selectedModel = document.getElementById('modelSelector').value;
@@ -1212,94 +1212,29 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
                     }),
                 });
                 
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
                 const data = await response.json();
                 
                 if (data.success) {
-                    if (selectedModel === 'unsplash') {
-                        // For Unsplash, only show images
-                        if (data.images && data.images.length > 0) {
-                            const imagesDiv = document.createElement('div');
-                            imagesDiv.className = 'message-images';
-                            
-                            data.images.forEach(image => {
-                                const imageContainer = document.createElement('div');
-                                imageContainer.className = 'image-container';
-                                
-                                const img = document.createElement('img');
-                                img.src = image.thumb;
-                                img.alt = image.alt;
-                                img.loading = 'lazy';
-                                
-                                const imageLink = document.createElement('a');
-                                imageLink.href = image.url;
-                                imageLink.target = '_blank';
-                                imageLink.appendChild(img);
-                                
-                                const attribution = document.createElement('div');
-                                attribution.className = 'image-attribution';
-                                attribution.innerHTML = `Photo by <a href="${image.author_url}" target="_blank">${image.author}</a> on <a href="https://unsplash.com" target="_blank">Unsplash</a>`;
-                                
-                                imageContainer.appendChild(imageLink);
-                                imageContainer.appendChild(attribution);
-                                imagesDiv.appendChild(imageContainer);
-                            });
-                            
-                            const messageDiv = document.createElement('div');
-                            messageDiv.className = 'message ai-message';
-                            messageDiv.appendChild(imagesDiv);
-                            document.getElementById('chatContainer').appendChild(messageDiv);
-                        } else {
-                            addMessage('No images found for your search.', false);
-                        }
-                    } else {
-                        // For AI models, show text response and images if available
-                        addMessage(data.response, false);
-                        
-                        if (data.images && data.images.length > 0) {
-                            const imagesDiv = document.createElement('div');
-                            imagesDiv.className = 'message-images';
-                            
-                            data.images.forEach(image => {
-                                const imageContainer = document.createElement('div');
-                                imageContainer.className = 'image-container';
-                                
-                                const img = document.createElement('img');
-                                img.src = image.thumb;
-                                img.alt = image.alt;
-                                img.loading = 'lazy';
-                                
-                                const imageLink = document.createElement('a');
-                                imageLink.href = image.url;
-                                imageLink.target = '_blank';
-                                imageLink.appendChild(img);
-                                
-                                const attribution = document.createElement('div');
-                                attribution.className = 'image-attribution';
-                                attribution.innerHTML = `Photo by <a href="${image.author_url}" target="_blank">${image.author}</a> on <a href="https://unsplash.com" target="_blank">Unsplash</a>`;
-                                
-                                imageContainer.appendChild(imageLink);
-                                imageContainer.appendChild(attribution);
-                                imagesDiv.appendChild(imageContainer);
-                            });
-                            
-                            const lastMessage = document.querySelector('.ai-message:last-child');
-                            lastMessage.appendChild(imagesDiv);
-                        }
-                    }
+                    // Show AI response
+                    addMessage(data.response, false);
                 } else {
-                    const errorMessage = data.error || 'Sorry, there was an error processing your request.';
-                    addMessage(`Error: ${errorMessage}`, false);
+                    // Show error message
+                    addMessage(`Error: ${data.error || 'An error occurred'}`, false);
                 }
             } catch (error) {
-                addMessage('Sorry, there was a network error or unexpected issue.', false);
-                console.error('Fetch error:', error);
+                console.error('Error:', error);
+                addMessage(`Error: ${error.message || 'Sorry, there was an error. Please try again.'}`, false);
             } finally {
                 // Re-enable input and button
                 messageInput.disabled = false;
                 document.getElementById('sendButton').disabled = false;
                 messageInput.focus();
             }
-        });
+        }
 
         function addMessage(message, isUser) {
             const chatContainer = document.getElementById('chatContainer');
@@ -1331,11 +1266,14 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             });
         }
 
-        // Handle Enter key
+        // Add event listener for send button
+        document.getElementById('sendButton').addEventListener('click', sendMessage);
+
+        // Add event listener for Enter key
         document.getElementById('message').addEventListener('keydown', function(e) {
             if (e.key === 'Enter' && !e.shiftKey) {
                 e.preventDefault();
-                document.getElementById('sendButton').click();
+                sendMessage();
             }
         });
 

@@ -1,18 +1,45 @@
 -- Create users table
-CREATE TABLE IF NOT EXISTS `users` (
-    `id` int(11) NOT NULL AUTO_INCREMENT,
-    `name` varchar(100) NOT NULL,
-    `email` varchar(100) NOT NULL,
-    `password` varchar(255) NOT NULL,
-    `plan_id` int(11) DEFAULT 1,
-    `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-    `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-    `verification_token` VARCHAR(64) NULL,
-    `token_expiry` DATETIME NULL,
-    `is_verified` TINYINT(1) DEFAULT 0,
-    PRIMARY KEY (`id`),
-    UNIQUE KEY `email` (`email`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+CREATE TABLE IF NOT EXISTS users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    plan_id INT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Create plans table
+CREATE TABLE IF NOT EXISTS plans (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    description TEXT,
+    price DECIMAL(10,2),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Create chat_history table
+CREATE TABLE IF NOT EXISTS chat_history (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    message TEXT NOT NULL,
+    response TEXT NOT NULL,
+    model VARCHAR(50) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id)
+);
+
+-- Create weather_history table
+CREATE TABLE IF NOT EXISTS weather_history (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    city VARCHAR(100) NOT NULL,
+    temperature DECIMAL(5,2) NOT NULL,
+    `condition` VARCHAR(100) NOT NULL,
+    humidity INT NOT NULL,
+    wind_speed DECIMAL(5,2) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id)
+);
 
 -- Create password_reset_otps table
 CREATE TABLE IF NOT EXISTS `password_reset_otps` (
@@ -26,47 +53,6 @@ CREATE TABLE IF NOT EXISTS `password_reset_otps` (
     PRIMARY KEY (`id`),
     KEY `email` (`email`),
     KEY `verification_token` (`verification_token`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
--- Create plans table
-CREATE TABLE IF NOT EXISTS `plans` (
-    `id` int(11) NOT NULL AUTO_INCREMENT,
-    `name` varchar(50) NOT NULL,
-    `price` decimal(10,2) NOT NULL,
-    `description` text NOT NULL,
-    `features` text NOT NULL,
-    `duration` int(11) NOT NULL COMMENT 'Duration in days',
-    `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-    `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-    PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
--- Create chat_history table
-CREATE TABLE IF NOT EXISTS `chat_history` (
-    `id` int(11) NOT NULL AUTO_INCREMENT,
-    `user_id` int(11) NOT NULL,
-    `message` text NOT NULL,
-    `is_user` tinyint(1) NOT NULL DEFAULT 1,
-    `model` varchar(50) DEFAULT 'gemini',
-    `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-    PRIMARY KEY (`id`),
-    KEY `user_id` (`user_id`),
-    CONSTRAINT `chat_history_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
--- Create weather_history table
-CREATE TABLE IF NOT EXISTS `weather_history` (
-    `id` int(11) NOT NULL AUTO_INCREMENT,
-    `user_id` int(11) NOT NULL,
-    `city` varchar(100) NOT NULL,
-    `temperature` decimal(5,2) NOT NULL,
-    `condition` varchar(50) NOT NULL,
-    `humidity` int(11) NOT NULL,
-    `wind_speed` decimal(5,2) NOT NULL,
-    `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-    PRIMARY KEY (`id`),
-    KEY `user_id` (`user_id`),
-    CONSTRAINT `weather_history_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- Add foreign key constraint for plan_id in users table

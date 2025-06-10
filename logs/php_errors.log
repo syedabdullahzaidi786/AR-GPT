@@ -1,0 +1,23 @@
+[10-Jun-2025 11:36:37 Europe/Berlin] PHP Warning:  require(C:\XAMPP\htdocs\AR Bot\vendor\composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in C:\XAMPP\htdocs\AR Bot\vendor\composer\autoload_real.php on line 41
+[10-Jun-2025 11:36:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\XAMPP\htdocs\AR Bot\vendor\composer/../symfony/deprecation-contracts/function.php' (include_path='C:\XAMPP\php\PEAR') in C:\XAMPP\htdocs\AR Bot\vendor\composer\autoload_real.php:41
+Stack trace:
+#0 C:\XAMPP\htdocs\AR Bot\vendor\composer\autoload_real.php(45): {closure}('6e3fae29631ef28...', 'C:\\XAMPP\\htdocs...')
+#1 C:\XAMPP\htdocs\AR Bot\vendor\autoload.php(25): ComposerAutoloaderInit5a1658dd2038e1c07be90b9e0cedb857::getLoader()
+#2 C:\XAMPP\htdocs\AR Bot\api\chat.php(13): require('C:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown in C:\XAMPP\htdocs\AR Bot\vendor\composer\autoload_real.php on line 41
+[10-Jun-2025 11:38:01 Europe/Berlin] PHP Warning:  require(C:\XAMPP\htdocs\AR Bot\vendor\composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in C:\XAMPP\htdocs\AR Bot\vendor\composer\autoload_real.php on line 41
+[10-Jun-2025 11:38:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\XAMPP\htdocs\AR Bot\vendor\composer/../symfony/deprecation-contracts/function.php' (include_path='C:\XAMPP\php\PEAR') in C:\XAMPP\htdocs\AR Bot\vendor\composer\autoload_real.php:41
+Stack trace:
+#0 C:\XAMPP\htdocs\AR Bot\vendor\composer\autoload_real.php(45): {closure}('6e3fae29631ef28...', 'C:\\XAMPP\\htdocs...')
+#1 C:\XAMPP\htdocs\AR Bot\vendor\autoload.php(25): ComposerAutoloaderInit5a1658dd2038e1c07be90b9e0cedb857::getLoader()
+#2 C:\XAMPP\htdocs\AR Bot\api\chat.php(13): require('C:\\XAMPP\\htdocs...')
+#3 {main}
+  thrown in C:\XAMPP\htdocs\AR Bot\vendor\composer\autoload_real.php on line 41
+[10-Jun-2025 11:39:41 Europe/Berlin] Chat Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'
+[10-Jun-2025 11:39:41 Europe/Berlin] Stack trace: #0 C:\XAMPP\htdocs\AR Bot\api\chat.php(163): PDO->prepare('INSERT INTO cha...')
+#1 {main}
+[10-Jun-2025 11:41:46 Europe/Berlin] Failed to save chat history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'
+[10-Jun-2025 11:41:58 Europe/Berlin] Failed to save chat history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'
+[10-Jun-2025 11:42:09 Europe/Berlin] Failed to save chat history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'
+[10-Jun-2025 11:42:19 Europe/Berlin] Failed to save chat history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'response' in 'field list'
