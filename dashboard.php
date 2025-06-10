@@ -1686,7 +1686,7 @@ $chat_history = $stmt->fetchAll(PDO::FETCH_ASSOC);
             chatContainer.innerHTML = `
                 <div class="welcome-message">
                     <div class="welcome-logo">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="AR GPT Logo" class="logo-icon">
+                        <img src="./images/logo.png" alt="AR GPT Logo" class="logo-icon">
                     </div>
                     <h1 class="welcome-title">Welcome To AR GPT</h1>
                     <h2 class="help-title">What Can I Help You With?</h2>
